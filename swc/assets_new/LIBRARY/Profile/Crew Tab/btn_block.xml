@@ -1,0 +1,69 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Profile/Crew Tab/btn_block" itemID="55c8837e-000002e1" symbolType="button" lastModified="1439637276">
+  <timeline>
+    <DOMTimeline name="btn_block">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#86160A"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.0088958740234375" c="0.0303192138671875" d="0" tx="25" ty="4"/>
+                        </matrix>
+                        <GradientEntry color="#9A0000" ratio="0"/>
+                        <GradientEntry color="#EA0E00" ratio="0.607843137254902"/>
+                        <GradientEntry color="#FF7B7C" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1000 44[1000 0 981 0!981 0|19 0!19 0[0 0 0 44!0 44|0 276!0 276[0 320 19 320!19 320|981 320!981 320[1000 320 1000 276!1000 276|1000 44"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!981 312|19 312!19 312[3 312 3 276!3 276|3 44!3 44[3 8 19 8!19 8|981 8!981 8[997 8 997 44!997 44|997 276!997 276[997 312 981 312"/>
+                    <Edge cubics="!0 44(;0,44 0,276 0,276q0 44 0 276);"/>
+                    <Edge cubics="!981 0(;981,0 19,0 19,0q981 0 19 0);"/>
+                    <Edge cubics="!1000 276(;1000,276 1000,44 1000,44q1000 276 1000 44);"/>
+                    <Edge cubics="!981 320(;994,320 1000,305 1000,276q981 320Q1000 320q1000 276);"/>
+                    <Edge cubics="!1000 44(;1000,15 994,0 981,0q1000 44Q1000 0q981 0);"/>
+                    <Edge cubics="!997 276(997,276;997,300 991,312 981,312q997 276Q997 312q981 312)981,312;"/>
+                    <Edge cubics="!997 44(997,44;997,44 997,276 997,276q997 44 997 276)997,276;"/>
+                    <Edge cubics="!981 8(981,8;991,8 997,20 997,44q981 8Q997 8q997 44)997,44;"/>
+                    <Edge cubics="!0 276(;0,305 6,320 19,320q0 276Q0 320q19 320);"/>
+                    <Edge cubics="!19 0(;6,0 0,15 0,44q19 0Q0 0q0 44);"/>
+                    <Edge cubics="!3 44(3,44;3,20 9,8 19,8q3 44Q3 8q19 8)19,8;"/>
+                    <Edge cubics="!3 276(3,276;3,276 3,44 3,44q3 276 3 44)3,44;"/>
+                    <Edge cubics="!19 312(19,312;9,312 3,300 3,276q19 312Q3 312q3 276)3,276;"/>
+                    <Edge cubics="!19 320(;19,320 981,320 981,320q19 320 981 320);"/>
+                    <Edge cubics="!19 8(;19,8 981,8 981,8q19 8 981 8);"/>
+                    <Edge cubics="!981 312(981,312;981,312 19,312 19,312q981 312 19 312)19,312;"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="46" height="10" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.999969482421875" tx="2.2" ty="3.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Block</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

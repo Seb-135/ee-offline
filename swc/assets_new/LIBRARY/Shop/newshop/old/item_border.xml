@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shop/newshop/old/item_border" itemID="501f6e3b-0000035a" scaleGridLeft="21.5" scaleGridRight="64.5" scaleGridTop="29" scaleGridBottom="87" lastModified="1344237115">
+  <timeline>
+    <DOMTimeline name="item_border">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!109 20S1|1610 20!1610 20[1700 20 1700 110!1700 110|1700 2211!1700 2211[1700 2300 1610 2300!1610 2300|109 2300!109 2300[19 2300 19 2211!19 2211|19 110!19 110[19 20 109 20!0 110|0 2211!0 2211[0 2320 109 2320!109 2320|1610 2320!1610 2320
+[1720 2320 1720 2211!1720 2211|1720 110!1720 110[1720 0 1610 0!1610 0|109 0!109 0[0 0 0 110"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

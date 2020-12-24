@@ -1,0 +1,77 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Win Screen/btn_dismiss" itemID="55a89d8c-000001d3" linkageExportForAS="true" linkageClassName="assets_dismiss" symbolType="button" lastModified="1546663017">
+  <timeline>
+    <DOMTimeline name="btn_dismiss">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="bitmap" width="47.7" height="10" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="4" ty="5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Dismiss</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" autoKern="false" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="106.45" objectHeight="19.65" x="5.25" y="1" lockFlag="true" topLeftRadius="3" topRightRadius="3" bottomLeftRadius="3" bottomRightRadius="3">
+                  <matrix>
+                    <Matrix a="0.507369995117188" d="0.914993286132813" tx="-2.65" ty="-0.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.95" y="10.8"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#222222"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" pixelHinting="true">
+                      <fill>
+                        <SolidColor color="#CCCCCC"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="106.45" objectHeight="19.65" x="5.25" y="1" lockFlag="true" topLeftRadius="3" topRightRadius="3" bottomLeftRadius="3" bottomRightRadius="3">
+                  <matrix>
+                    <Matrix a="0.507369995117188" d="0.914993286132813" tx="-2.65" ty="-0.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="58.95" y="10.8"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#333333"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" pixelHinting="true">
+                      <fill>
+                        <SolidColor color="#CCCCCC"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

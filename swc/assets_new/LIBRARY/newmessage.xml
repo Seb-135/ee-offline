@@ -1,0 +1,178 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="newmessage" itemID="55ce1448-0000063d" linkageExportForAS="true" linkageClassName="assets_newmessage" lastModified="1450264984">
+  <timeline>
+    <DOMTimeline name="newmessage">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText width="23.75" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="6.25" ty="21.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>To:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText left="15.75" width="59.25" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-13.75" ty="75.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Subject:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText width="75" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="4" ty="124.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Message:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="input_bg" name="bg_mail" centerPoint3DX="86.45" centerPoint3DY="101.8">
+                  <matrix>
+                    <Matrix a="1.25877380371094" d="0.526458740234375" ty="96.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="75.0000034150945" distance="1" inner="true" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMInputText name="tf_subject" fontRenderingMode="bitmap" width="342.5" height="13.35">
+                  <matrix>
+                    <Matrix tx="3" ty="100.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>subject</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="13.35" bitmapSize="240" face="ArialReg*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMSymbolInstance libraryItemName="input_bg" name="bg_mail" selected="true" centerPoint3DX="111.45" centerPoint3DY="162.95">
+                  <matrix>
+                    <Matrix a="1.25885009765625" d="2.10585021972656" ty="141.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="75.0000034150945" distance="1" inner="true" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMInputText name="tf_message" fontRenderingMode="bitmap" left="9.95" width="340.75" height="72.4" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-5.95" ty="145.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>message</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="13.35" bitmapSize="240" face="ArialReg*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMStaticText fontRenderingMode="bitmap" width="354" height="20" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="4.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>New Message</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" lineHeight="20" size="16" bitmapSize="320" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMDynamicText name="tf_error" fontRenderingMode="bitmap" width="303.95" height="27.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="24" ty="268.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Error&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" lineHeight="13.35" bitmapSize="240" face="ArialReg*" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Lobby/btn_sendmessage" name="btn_send" symbolType="button">
+                  <matrix>
+                    <Matrix tx="65" ty="226"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/Crew/ScrollContainer" name="dropdownContainer">
+                  <matrix>
+                    <Matrix a="0.866836547851563" tx="5.55" ty="64.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="199" y="67"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="input_bg">
+                  <matrix>
+                    <Matrix a="1.25900268554688" d="0.657501220703125" tx="0.55" ty="42.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/Crew/Crew Selector/crewSelectorTFContainer" name="btn_dropdown">
+                  <matrix>
+                    <Matrix tx="3.15" ty="44.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="172.4" y="9.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_text" selected="true" fontRenderingMode="bitmap" width="354" height="150.75" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2" ty="4.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>It looks like you don't have anyone to send messages too. To be able to send messages you need to add someone via the friends tab.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" lineHeight="17.5" size="14" bitmapSize="280" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

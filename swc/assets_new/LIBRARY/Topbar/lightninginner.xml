@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Topbar/lightninginner" itemID="4d616603-00008ae9" lastModified="1336740918">
+  <timeline>
+    <DOMTimeline name="lightninginner">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.0747222900390625" c="0.070526123046875" d="0" tx="32.15" ty="53"/>
+                        </matrix>
+                        <GradientEntry color="#FF6600" ratio="0"/>
+                        <GradientEntry color="#FFFF00" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!623 1195/382 2120!382 2120/1256 611!1256 611/634 927!634 927/875 0!875 0/0 1506!0 1506/623 1195"/>
+                    <Edge cubics="!634 927(;634,927 875,0 875,0p634 927 875 0);"/>
+                    <Edge cubics="!0 1506(;0,1506 623,1195 623,1195q0 1506 623 1195);"/>
+                    <Edge cubics="!875 0(;875,0 0,1506 0,1506q875 0 0 1506);"/>
+                    <Edge cubics="!1256 611(;1256,611 634,927 634,927q1256 611 634 927);"/>
+                    <Edge cubics="!382 2120(;382,2120 1256,611 1256,611q382 2120 1256 611);"/>
+                    <Edge cubics="!623 1195(;623,1195 382,2120 382,2120q623 1195 382 2120);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

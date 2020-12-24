@@ -1,0 +1,144 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Lobby/AlertItem" itemID="55cdfcad-000005ee" linkageExportForAS="true" linkageClassName="assets_alertitem" lastModified="1528054216">
+  <timeline>
+    <DOMTimeline name="AlertItem">
+      <layers>
+        <DOMLayer name="Close Button" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shop/nothanks" name="closebtn" symbolType="button">
+                  <matrix>
+                    <Matrix d="0.997528076171875" tx="357" ty="13"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="NoLogo" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Lobby/nologo" name="nologo">
+                  <matrix>
+                    <Matrix tx="5" ty="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_worldid" fontRenderingMode="bitmap" width="235" height="10" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="117" ty="94.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Click here to join: WORLDID</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/Crew Tab/btn_block" name="btn_block" symbolType="button">
+                  <matrix>
+                    <Matrix tx="301.75" ty="87"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/Crew Tab/btn_reject" name="btn_reject" symbolType="button">
+                  <matrix>
+                    <Matrix tx="301.75" ty="68.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/Crew Tab/btn_accept" name="btn_accept" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix tx="119.85" ty="65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TextFields" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_message" fontRenderingMode="bitmap" width="235" height="47" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="118" ty="39"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>x has invited you to join their crew!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="8.4" bitmapSize="240" face="visitor*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="tf_timestamp" fontRenderingMode="bitmap" width="235" height="8.4" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="118" ty="26.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>5:25pm jan 1, 2015</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="8.4" bitmapSize="240" face="visitor*" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Lobby/crewName" name="crewName" selected="true">
+                  <matrix>
+                    <Matrix tx="115" ty="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="112.95" y="11.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Background" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Lobby/alertBackground" name="background">
+                  <transformationPoint>
+                    <Point x="185" y="55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

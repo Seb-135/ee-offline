@@ -1,0 +1,114 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Settings/Key Bindings/Key Bindings Menu" itemID="5bd0b88c-000004eb" linkageExportForAS="true" linkageClassName="assets_keybindingsmenu" lastModified="1543091179" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Key Bindings Menu">
+      <layers>
+        <DOMLayer name="Main" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText left="-245" width="136" height="18.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="258" ty="15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Key Bindings</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="18.75" size="15" bitmapSize="300" face="NokiaCellphoneFC-Small" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter blurX="25" blurY="25" distance="0" quality="3"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Settings/Key Bindings/Cancel Button New" name="btnCancel" symbolType="button">
+                  <matrix>
+                    <Matrix tx="344" ty="270"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="14.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Settings/Key Bindings/Save Button New" name="btnSave" symbolType="button">
+                  <matrix>
+                    <Matrix tx="234" ty="270"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.5" y="14.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMRectangleObject objectWidth="429.95" objectHeight="211" x="136" y="100.05" lockFlag="true" topLeftRadius="3" topRightRadius="3" bottomLeftRadius="3" bottomRightRadius="3">
+                  <matrix>
+                    <Matrix a="1.00006103515625" tx="-121" ty="-54.05"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" pixelHinting="true">
+                      <fill>
+                        <SolidColor color="#7A7A7A"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMStaticText width="156" height="13.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="37" ty="279"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Use AZERTY Defaults</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.75" size="11" bitmapSize="220" face="system*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter blurX="25" blurY="25" distance="0" quality="3"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="checkbox" name="azertyCheck" centerPoint3DX="23" centerPoint3DY="285">
+                  <matrix>
+                    <Matrix a="1.35594177246094" d="1.35595703125" tx="15" ty="277"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#000000" inner="true" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Settings/Key Bindings/Key Bindings Reset All" name="btnResetAll" symbolType="button">
+                  <matrix>
+                    <Matrix tx="366" ty="15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="39.5" y="9.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BG" color="#00FFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Settings/Key Bindings/Key Bindings BG">
+                  <transformationPoint>
+                    <Point x="230" y="156"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="25" blurY="25" distance="0" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

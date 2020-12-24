@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="handCursorBox" itemID="55c2acd3-00000240" lastModified="1491737060">
+  <timeline>
+    <DOMTimeline name="handCursorBox">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="398.3" objectHeight="19.6" x="443.05" y="42.4" selected="true" lockFlag="true">
+                  <matrix>
+                    <Matrix tx="-443.05" ty="-42.4"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor alpha="0.00392156862745098"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

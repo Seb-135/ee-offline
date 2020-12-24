@@ -1,0 +1,121 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Profile/CloseBtn" itemID="4f68a188-00000412" linkageExportForAS="true" linkageClassName="ProfileCloseButton" symbolType="button" lastModified="1336743535">
+  <timeline>
+    <DOMTimeline name="CloseBtn">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!120 280|200 200!200 200|281 281!281 119|200 200!200 200|120 120"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!120 280|200 200!200 200|281 281!281 119|200 200!200 200|120 120"/>
+                  </edges>
+                </DOMShape>
+                <DOMRectangleObject objectWidth="24.6" objectHeight="24.7" x="166.45" y="388.95" lockFlag="true" topLeftRadius="20" topRightRadius="20" bottomLeftRadius="20" bottomRightRadius="20">
+                  <matrix>
+                    <Matrix a="0.811996459960938" d="0.811996459960938" tx="-135.15" ty="-315.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="178.75" y="401.35"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#CCCCCC"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!120 280|200 200!200 200|281 281!281 119|200 200!200 200|120 120"/>
+                  </edges>
+                </DOMShape>
+                <DOMRectangleObject objectWidth="24.6" objectHeight="24.7" x="166.45" y="388.95" lockFlag="true" topLeftRadius="20" topRightRadius="20" bottomLeftRadius="20" bottomRightRadius="20">
+                  <matrix>
+                    <Matrix a="0.811996459960938" d="0.811996459960938" tx="-135.15" ty="-315.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="178.75" y="401.35"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!120 280|200 200!200 200|281 281!281 119|200 200!200 200|120 120"/>
+                  </edges>
+                </DOMShape>
+                <DOMRectangleObject objectWidth="24.6" objectHeight="24.7" x="166.45" y="388.95" lockFlag="true" topLeftRadius="20" topRightRadius="20" bottomLeftRadius="20" bottomRightRadius="20">
+                  <matrix>
+                    <Matrix a="0.811996459960938" d="0.811996459960938" tx="-135.15" ty="-315.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="178.75" y="401.35"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

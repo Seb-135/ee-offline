@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Settings/transparencyBox" itemID="559cafe8-000001ec" lastModified="1436333858">
+  <timeline>
+    <DOMTimeline name="transparencyBox">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="33" objectHeight="16.5" x="227.85" y="115" lockFlag="true" topLeftRadius="1" topRightRadius="1" bottomLeftRadius="1" bottomRightRadius="1">
+                  <matrix>
+                    <Matrix tx="-227.85" ty="-115"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#333333"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="0.3">
+                      <fill>
+                        <SolidColor color="#CCCCCC"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

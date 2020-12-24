@@ -1,0 +1,156 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shop/ShopBar" itemID="4cfd4a98-00005b45" linkageExportForAS="true" linkageClassName="assets_shopbar" lastModified="1545077227" lastUniqueIdentifier="46">
+  <timeline>
+    <DOMTimeline name="ShopBar">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shopbar_energy" name="energy" centerPoint3DX="752.45" centerPoint3DY="15.6">
+                  <matrix>
+                    <Matrix tx="679.1" ty="1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="73.35" y="14"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="btns_info" name="info">
+                  <matrix>
+                    <Matrix a="0.959930419921875" d="0.95806884765625" tx="515" ty="70.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="122.4" y="9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="logout_btn" name="logout_btn" symbolType="button">
+                  <matrix>
+                    <Matrix tx="756.95" ty="68"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40" y="9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shopbar_gem" name="gem" centerPoint3DX="577.95" centerPoint3DY="12.15">
+                  <matrix>
+                    <Matrix tx="502" ty="1.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76.35" y="10.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="shopbar_username" name="username">
+                  <matrix>
+                    <Matrix tx="752.85" ty="43.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.5" y="8.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="shopbar_crewname" name="crewname">
+                  <matrix>
+                    <Matrix tx="651.65" ty="44"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="47.9" y="9.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Laag 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shop/Smileys/top" name="bg" centerPoint3DX="562.75" centerPoint3DY="15">
+                  <matrix>
+                    <Matrix a="0.999984741210938"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="10" blurY="10" distance="0" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Lobby Tab Buttons/btn_tab_shop" name="shopbtn">
+                  <matrix>
+                    <Matrix tx="775"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33" y="15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Lobby Tab Buttons/btn_tab_campaigns" name="campaignbtn">
+                  <matrix>
+                    <Matrix tx="84"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="42.25" y="15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Lobby Tab Buttons/btn_tab_lobby" name="lobbybtn">
+                  <transformationPoint>
+                    <Point x="42.5" y="15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Lobby Tab Buttons/btn_tab_social" name="socialbtn">
+                  <matrix>
+                    <Matrix tx="169"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="42.05" y="14.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Lobby Tab Buttons/btn_lobby_settings" name="settingsbtn">
+                  <matrix>
+                    <Matrix tx="254"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.3" y="15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="blog btn" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

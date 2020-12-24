@@ -1,0 +1,69 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btns_info" itemID="5567114c-0000049c" lastModified="1544910694">
+  <timeline>
+    <DOMTimeline name="btns_info">
+      <layers>
+        <DOMLayer name="Laag 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="profile_terms" name="terms_btn" centerPoint3DX="57.5" centerPoint3DY="8.05">
+                  <transformationPoint>
+                    <Point x="57.5" y="8.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="profile_help" name="help_btn" centerPoint3DX="141.05" centerPoint3DY="8.3">
+                  <matrix>
+                    <Matrix tx="126"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.25" y="8.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="profile_forums" name="forums_btn" centerPoint3DX="203.85" centerPoint3DY="0.5">
+                  <matrix>
+                    <Matrix tx="196.95" ty="0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7" y="0.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="shop_divider" centerPoint3DX="122.05" centerPoint3DY="6.05">
+                  <matrix>
+                    <Matrix d="0.399993896484375" tx="122.05" ty="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="10.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="shop_divider" centerPoint3DX="159.75" centerPoint3DY="6.05">
+                  <matrix>
+                    <Matrix d="0.399993896484375" tx="159.75" ty="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="10.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="shop_divider" centerPoint3DX="194.6" centerPoint3DY="6.05">
+                  <matrix>
+                    <Matrix d="0.399993896484375" tx="194.6" ty="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="10.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="profile_blog" name="blog_btn" centerPoint3DX="177.75" centerPoint3DY="8.3">
+                  <matrix>
+                    <Matrix tx="162.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.25" y="8.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

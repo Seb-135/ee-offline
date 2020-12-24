@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Profile/Crew/Crew Selector/crewselector" itemID="55ced0b2-000006f8" linkageExportForAS="true" linkageClassName="assets_crewselector" lastModified="1491737891">
+  <timeline>
+    <DOMTimeline name="crewselector">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/Crew/Crew Selector/btn_select" name="btn_select" symbolType="button">
+                  <matrix>
+                    <Matrix tx="63.5" ty="76"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/Crew/ScrollContainer" name="dropdownContainer" selected="true">
+                  <matrix>
+                    <Matrix a="0.866836547851563" tx="5" ty="58"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="199" y="67"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="input_bg" selected="true">
+                  <matrix>
+                    <Matrix a="1.25900268554688" d="0.657501220703125" ty="35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/Crew/Crew Selector/crewSelectorTFContainer" name="btn_dropdown" selected="true">
+                  <matrix>
+                    <Matrix tx="2.6" ty="38.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="172.4" y="9.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="346" height="22.5">
+                  <matrix>
+                    <Matrix tx="2" ty="2.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Select a Crew</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="22.5" size="18" bitmapSize="360" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="open" itemID="54525dd2-00000373" lastModified="1543987609">
+  <timeline>
+    <DOMTimeline name="open">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!520 180|520 160!520 160|500 160!500 160|500 140!500 140|480 140!480 140|480 120!480 120|460 120!460 120|460 180!460 180|420 180!420 180|420 40!420 40|440 40!440 40|440 60!440 60|460 60!460 60|460 80!460 80|480 80!480 80|480 100!480 100
+|500 100!500 100|500 40!500 40|540 40!540 40|540 180!540 180|520 180!380 80|380 100!380 100|340 100!340 100|340 160!340 160|400 160!400 160|400 180!400 180|300 180!300 180|300 40!300 40|400 40!400 40|400 60!400 60|340 60!340 60|340 80
+!340 80|380 80!260 40|260 60!260 60|280 60!280 60|280 120!280 120|260 120!260 120|260 140!260 140|220 140!220 140|220 180!220 180|180 180!180 180|180 40!180 40|260 40!240 120|240 60!240 60|220 60!220 60|220 120!220 120|240 120!60 180
+|60 160!60 160|40 160!40 160|40 60!40 60|60 60!60 60|60 40!60 40|140 40!140 40|140 60!140 60|160 60!160 60|160 160!160 160|140 160!140 160|140 180!140 180|60 180!120 160|120 60!120 60|80 60!80 60|80 160!80 160|120 160"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="29" objectHeight="11" x="-65.5" y="-71.5" lockFlag="true" topLeftRadius="2" topRightRadius="2" bottomLeftRadius="2" bottomRightRadius="2">
+                  <matrix>
+                    <Matrix tx="65.5" ty="71.5"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FF9999"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

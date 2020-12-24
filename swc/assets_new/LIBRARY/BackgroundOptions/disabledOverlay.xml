@@ -1,0 +1,60 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="BackgroundOptions/disabledOverlay" itemID="55fd0c7a-0000028a" lastModified="1528053371">
+  <timeline>
+    <DOMTimeline name="disabledOverlay">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="339.95" objectHeight="180" x="61" y="46" lockFlag="true" topLeftRadius="5" topRightRadius="5" bottomLeftRadius="5" bottomRightRadius="5">
+                  <matrix>
+                    <Matrix tx="-61" ty="-46"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#424242" alpha="0.8"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMStaticText left="-68.05" width="335.95" height="25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="70.05" ty="70.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Locked</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="25" size="20" bitmapSize="400" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter blurX="4" blurY="4" distance="4"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="bitmap" left="-18" width="335.95" height="10" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="20" ty="97.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Buy to unlock</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,90 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Roomlist/Filter Tab/tab_favorites" itemID="55d027f7-00000331" lastModified="1492113537">
+  <timeline>
+    <DOMTimeline name="tab_favorites" currentFrame="1">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="bitmap" width="131.5" height="8.4" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>favorites</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" lineHeight="8.4" bitmapSize="240" face="visitor*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="135.5" objectHeight="15" x="74" y="54">
+                  <matrix>
+                    <Matrix tx="-74" ty="-54"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#333333"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" joints="miter">
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="135.5" objectHeight="15" x="74" y="54">
+                  <matrix>
+                    <Matrix tx="-74" ty="-54"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#666666"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" joints="miter">
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="135.5" objectHeight="15" x="74" y="54">
+                  <matrix>
+                    <Matrix tx="-74" ty="-54"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#444444"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" joints="miter">
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

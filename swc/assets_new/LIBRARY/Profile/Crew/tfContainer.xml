@@ -1,0 +1,68 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Profile/Crew/tfContainer" itemID="55c2a941-00000207" lastModified="1439441651">
+  <timeline>
+    <DOMTimeline name="tfContainer">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/Crew/btndropdown" name="dropdown">
+                  <matrix>
+                    <Matrix tx="377.75" ty="0.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.5" y="3.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/Crew/btndropdown" name="dropdown">
+                  <matrix>
+                    <Matrix a="-1" d="-1" tx="398.25" ty="19.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.5" y="3.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="rankBox" width="371.95" height="15.6">
+                  <matrix>
+                    <Matrix tx="2" ty="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-4" y="-4.75"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>extreme nubness</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialReg*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="handCursorBox" name="handCursor">
+                  <matrix>
+                    <Matrix a="1.00927734375" d="1.19493103027344" tx="-2.6" ty="-2.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.6" y="-0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

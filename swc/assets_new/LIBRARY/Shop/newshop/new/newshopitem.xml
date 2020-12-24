@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shop/newshop/new/newshopitem" itemID="558b8e2c-000002f8" linkageExportForAS="true" linkageClassName="assets_newshopitem" lastModified="1528051608">
+  <timeline>
+    <DOMTimeline name="newshopitem">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shop/newshop/old/item_bg">
+                  <transformationPoint>
+                    <Point x="43" y="58"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Shop/newshop/new/divider" name="divider" selected="true">
+                  <matrix>
+                    <Matrix a="0" b="0.228012084960938" c="-1" d="0" tx="400.5" ty="3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="153.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

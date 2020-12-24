@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btn_retry" itemID="5c297b13-000002ea" linkageExportForAS="true" linkageClassName="assets_retry" lastModified="1546663016">
+  <timeline>
+    <DOMTimeline name="btn_retry">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="label" fontRenderingMode="bitmap" width="28" height="10" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="25" ty="5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Retry</characters>
+                      <textAttrs>
+                        <DOMTextAttrs autoKern="false" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="reloadsymbol">
+                  <matrix>
+                    <Matrix tx="10" ty="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.35" y="4.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

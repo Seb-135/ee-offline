@@ -1,0 +1,44 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Inbox/messagecontainer" itemID="55c0c28f-00000807" lastModified="1449797986">
+  <timeline>
+    <DOMTimeline name="messagecontainer">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="488" objectHeight="125" x="126" y="-258.95" bottomLeftRadius="5" bottomRightRadius="5">
+                  <matrix>
+                    <Matrix tx="-133" ty="241.95"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#111111"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke>
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMStaticText width="67.7" height="15" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="-11"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Message:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

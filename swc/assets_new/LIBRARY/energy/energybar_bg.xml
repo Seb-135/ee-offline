@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="energy/energybar_bg" itemID="5022578f-0000020b" scaleGridLeft="1.55" scaleGridRight="54.6" scaleGridTop="2.75" scaleGridBottom="9.35" lastModified="1344427981">
+  <timeline>
+    <DOMTimeline name="energybar_bg">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#333333"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1097 0|30 0!30 0[0 0 0 30!0 30|0 232!0 232[0 262 30 262!30 262|1097 262!1097 262[1127 262 1127 232!1127 232|1127 30!1127 30[1127 0 1097 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

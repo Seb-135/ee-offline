@@ -1,0 +1,128 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Profile/Crew Tab/Top Bar Buttons/topbtn_editranks" itemID="55cbfc65-0000023d" lastModified="1449797717">
+  <timeline>
+    <DOMTimeline name="topbtn_editranks" currentFrame="1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#09436D"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.0115966796875" c="0.044281005859375" d="0" tx="36.5" ty="10"/>
+                        </matrix>
+                        <GradientEntry color="#07548A" ratio="0"/>
+                        <GradientEntry color="#5AAFEF" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1460 55[1460 0 1432 0!1432 0|28 0!28 0[0 0 0 55!0 55|0 345!0 345[0 400 28 400!28 400|1432 400!1432 400[1460 400 1460 345!1460 345|1460 55"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!1432 390|28 390!28 390[4 390 4 345!4 345|4 55!4 55[4 10 28 10!28 10|1432 10!1432 10[1456 10 1456 55!1456 55|1456 345!1456 345[1456 390 1432 390"/>
+                    <Edge cubics="!0 55(;0,55 0,345 0,345q0 55 0 345);"/>
+                    <Edge cubics="!4 345(4,345;4,345 4,55 4,55q4 345 4 55)4,55;"/>
+                    <Edge cubics="!1432 0(;1432,0 1033,0 1033,0q1432 0 1033 0);"/>
+                    <Edge cubics="!1033 0(;1033,0 28,0 28,0q1033 0 28 0);"/>
+                    <Edge cubics="!1460 345(;1460,345 1460,55 1460,55q1460 345 1460 55);"/>
+                    <Edge cubics="!1432 400(;1451,400 1460,381 1460,345q1432 400Q1460 400q1460 345);"/>
+                    <Edge cubics="!1460 55(;1460,19 1451,0 1432,0q1460 55Q1460 0q1432 0);"/>
+                    <Edge cubics="!1456 345(1456,345;1456,375 1447,390 1432,390q1456 345Q1456 390q1432 390)1432,390;"/>
+                    <Edge cubics="!1456 55(1456,55;1456,55 1456,345 1456,345q1456 55 1456 345)1456,345;"/>
+                    <Edge cubics="!1432 10(1432,10;1447,10 1456,25 1456,55q1432 10Q1456 10q1456 55)1456,55;"/>
+                    <Edge cubics="!0 345(;0,381 9,400 28,400q0 345Q0 400q28 400);"/>
+                    <Edge cubics="!28 0(;9,0 0,19 0,55q28 0Q0 0q0 55);"/>
+                    <Edge cubics="!4 55(4,55;4,25 13,10 28,10q4 55Q4 10q28 10)28,10;"/>
+                    <Edge cubics="!28 390(28,390;13,390 4,375 4,345q28 390Q4 390q4 345)4,345;"/>
+                    <Edge cubics="!28 400(;28,400 1033,400 1033,400q28 400 1033 400);"/>
+                    <Edge cubics="!1033 400(;1033,400 1432,400 1432,400q1033 400 1432 400);"/>
+                    <Edge cubics="!28 10(;28,10 1033,10 1033,10q28 10 1033 10);"/>
+                    <Edge cubics="!1033 10(;1033,10 1432,10 1432,10q1033 10 1432 10);"/>
+                    <Edge cubics="!1432 390(;1432,390 1033,390 1033,390q1432 390 1033 390);"/>
+                    <Edge cubics="!1033 390(;1033,390 28,390 28,390q1033 390 28 390);"/>
+                  </edges>
+                </DOMShape>
+                <DOMDynamicText name="title" width="64" height="12.5" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.999969482421875" tx="4.9" ty="3.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Edit Ranks</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12.5" size="10" bitmapSize="200" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#09436D"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.0115966796875" c="0.044281005859375" d="0" tx="36.5" ty="10"/>
+                        </matrix>
+                        <GradientEntry color="#07548A" ratio="0"/>
+                        <GradientEntry color="#5AAFEF" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!1432 390|28 390!28 390[4 390 4 345!4 345|4 55!4 55[4 10 28 10!28 10|1432 10!1432 10[1456 10 1456 55!1456 55|1456 345!1456 345[1456 390 1432 390"/>
+                    <Edge fillStyle0="1" edges="!1460 55[1460 0 1432 0!1432 0|28 0!28 0[0 0 0 55!0 55|0 345!0 345[0 400 28 400!28 400|1432 400!1432 400[1460 400 1460 345!1460 345|1460 55"/>
+                    <Edge cubics="!0 55(;0,55 0,345 0,345q0 55 0 345);"/>
+                    <Edge cubics="!4 345(4,345;4,345 4,55 4,55q4 345 4 55)4,55;"/>
+                    <Edge cubics="!1460 345(;1460,345 1460,55 1460,55q1460 345 1460 55);"/>
+                    <Edge cubics="!1432 400(;1451,400 1460,381 1460,345q1432 400Q1460 400q1460 345);"/>
+                    <Edge cubics="!1460 55(;1460,19 1451,0 1432,0q1460 55Q1460 0q1432 0);"/>
+                    <Edge cubics="!1456 345(1456,345;1456,375 1447,390 1432,390q1456 345Q1456 390q1432 390)1432,390;"/>
+                    <Edge cubics="!1456 55(1456,55;1456,55 1456,345 1456,345q1456 55 1456 345)1456,345;"/>
+                    <Edge cubics="!1432 10(1432,10;1447,10 1456,25 1456,55q1432 10Q1456 10q1456 55)1456,55;"/>
+                    <Edge cubics="!0 345(;0,381 9,400 28,400q0 345Q0 400q28 400);"/>
+                    <Edge cubics="!28 0(;9,0 0,19 0,55q28 0Q0 0q0 55);"/>
+                    <Edge cubics="!4 55(4,55;4,25 13,10 28,10q4 55Q4 10q28 10)28,10;"/>
+                    <Edge cubics="!28 390(28,390;13,390 4,375 4,345q28 390Q4 390q4 345)4,345;"/>
+                    <Edge cubics="!1432 0(;1432,0 28,0 28,0q1432 0 28 0);"/>
+                    <Edge cubics="!28 10(;28,10 1432,10 1432,10q28 10 1432 10);"/>
+                    <Edge cubics="!1432 390(;1432,390 28,390 28,390q1432 390 28 390);"/>
+                    <Edge cubics="!28 400(;28,400 1432,400 1432,400q28 400 1432 400);"/>
+                  </edges>
+                </DOMShape>
+                <DOMDynamicText name="title" width="70" height="12.5" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.999969482421875" tx="2.2" ty="3.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>View Ranks</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12.5" size="10" bitmapSize="200" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

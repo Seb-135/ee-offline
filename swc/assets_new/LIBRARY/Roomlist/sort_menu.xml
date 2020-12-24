@@ -1,0 +1,171 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Roomlist/sort_menu" itemID="5c0946af-000007e1" linkageExportForAS="true" linkageClassName="roomlist_sortmenu" lastModified="1544127322">
+  <timeline>
+    <DOMTimeline name="sort_menu" currentFrame="1">
+      <layers>
+        <DOMLayer name="Buttons" color="#FF800A" locked="true" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Roomlist/sortbtn_main" name="btnMain" symbolType="button">
+                  <matrix>
+                    <Matrix tx="1" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.5" y="9.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/sortbtn_option" name="btnOnline" symbolType="button">
+                  <matrix>
+                    <Matrix tx="1" ty="-62"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.5" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/sortbtn_option" name="btnPlays" symbolType="button">
+                  <matrix>
+                    <Matrix tx="1" ty="-47"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.5" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/sortbtn_option" name="btnLikes" symbolType="button">
+                  <matrix>
+                    <Matrix tx="1" ty="-32"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.5" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/sortbtn_option" name="btnName" symbolType="button">
+                  <matrix>
+                    <Matrix tx="1" ty="-17"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.5" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Constant" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1144 160|1000 160!1000 160|1069 260!1069 260|1144 160"/>
+                    <Edge cubics="!1069 260(;1069,260 1144,160 1144,160q1069 260 1144 160);"/>
+                    <Edge cubics="!1144 160(;1144,160 1000,160 1000,160q1144 160 1000 160);"/>
+                    <Edge cubics="!1000 160(;1000,160 1069,260 1069,260q1000 160 1069 260);"/>
+                  </edges>
+                </DOMShape>
+                <DOMDynamicText name="label" fontRenderingMode="bitmap" width="36" height="10" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="7" ty="6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Online</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Border" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#333333"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!80 0|1200 0"/>
+                    <Edge cubics="!80 0(;80,0 1200,0 1200,0q80 0 1200 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Main" color="#00FFFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="64" objectHeight="20" x="62.05" y="454" lockFlag="true" topLeftRadius="4" topRightRadius="4" bottomLeftRadius="4" bottomRightRadius="4">
+                  <matrix>
+                    <Matrix tx="-61.55" ty="-453.5"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#202020"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="64" objectHeight="85" x="62.05" y="454" lockFlag="true" topLeftRadius="4" topRightRadius="4" bottomLeftRadius="4" bottomRightRadius="4">
+                  <matrix>
+                    <Matrix tx="-61.55" ty="-518.5"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#202020"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMStaticText fontRenderingMode="bitmap" width="36" height="55" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="7" ty="-59"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Online&#xD;Plays&#xD;Likes&#xD;Name</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineSpacing="5" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#AFAFAF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

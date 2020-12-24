@@ -1,0 +1,116 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Lobby Friends/lobbyfriends" itemID="5c15dab7-00000c54" linkageExportForAS="true" linkageClassName="assets_lobbyfriends" lastModified="1545590161">
+  <timeline>
+    <DOMTimeline name="lobbyfriends">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="1.5">
+                        <fill>
+                          <SolidColor color="#404040"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!160 560|7120 560"/>
+                    <Edge cubics="!160 560(;160,560 7120,560 7120,560q160 560 7120 560);"/>
+                  </edges>
+                </DOMShape>
+                <DOMRectangleObject objectWidth="385" objectHeight="145" x="478" y="56.05" bottomLeftRadius="6" bottomRightRadius="6">
+                  <matrix>
+                    <Matrix a="0.999984741210938" tx="-478" ty="-28.05"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" pixelHinting="true">
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMRectangleObject objectWidth="385" objectHeight="28" x="478" y="56.05" topLeftRadius="6" topRightRadius="6">
+                  <matrix>
+                    <Matrix a="0.999984741210938" tx="-478" ty="-56.05"/>
+                  </matrix>
+                  <fill>
+                    <LinearGradient>
+                      <matrix>
+                        <Matrix a="0" b="0.0167236328125" c="-0.01708984375" d="0" tx="666.65" ty="70.35"/>
+                      </matrix>
+                      <GradientEntry color="#303030" ratio="0.631372549019608"/>
+                      <GradientEntry color="#202020" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" pixelHinting="true">
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMStaticText selected="true" width="126" height="13.75" antiAliasSharpness="200" antiAliasThickness="-100" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="10" ty="8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Play with friends!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.75" size="11" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Roomlist/reload" name="btn_reload" centerPoint3DX="407.65" centerPoint3DY="15.6">
+                  <matrix>
+                    <Matrix tx="358.95" ty="6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="48.7" y="9.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="checkbox" name="check_collapsed">
+                  <matrix>
+                    <Matrix tx="285" ty="8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.9" y="5.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="bitmap" width="48" height="10" antiAliasSharpness="200" antiAliasThickness="-100" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="302" ty="9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Collapsed</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

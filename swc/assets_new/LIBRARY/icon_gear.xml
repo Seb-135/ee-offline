@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="icon_gear" itemID="55673505-0000028a" lastModified="1543877921">
+  <timeline>
+    <DOMTimeline name="icon_gear">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!375 92|409 125!409 125|388 172!388 172[398 189 404 209!404 209|450 224!450 224|450 275!450 275|404 290!404 290[399 312 388 329!388 329|409 375!409 375|375 409!375 409|330 385!330 385[312 398 290 404!290 404|276 450!276 450|225 450!225
+ 450|210 404!210 404[189 399 170 385!170 385|125 408!125 408|92 375!92 375|114 330!114 330[102 312 97 290!97 290|50 275!50 275|50 224!50 224|97 209!97 209[104 188 115 170!115 170|92 125!92 125|125 92!125 92|172 114!172 114[189 102 210
+ 97!210 97|224 50!224 50|276 50!276 50|292 97!292 97[312 104 329 114!329 114|375 92"/>
+                    <Edge fillStyle0="1" edges="
+!329 250[329 282 305 305!305 305[284 329 250 329!250 329[217 329 195 305!195 305[172 282 172 250!172 250[172 219 195 195!195 195[217 172 250 172!250 172[284 172 305 195!305 195[329 219 329 250"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

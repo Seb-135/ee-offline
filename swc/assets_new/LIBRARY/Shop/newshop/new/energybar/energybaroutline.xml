@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shop/newshop/new/energybar/energybaroutline" itemID="558b9916-00000391" lastModified="1528051617">
+  <timeline>
+    <DOMTimeline name="energybaroutline">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!50 0|2790 0!2790 0[2840 0 2840 40!2840 40|2840 360!2840 360[2840 #181.DD 2819 395!2819 395[#AF7.AC 400 2790 400!2790 400|50 400!50 400[#20.54 400 21 395!21 395[0 #181.DD 0 360!0 360|0 40!0 40[0 0 50 0"/>
+                    <Edge cubics="!0 360(;0,360 0,40 0,40q0 360 0 40);"/>
+                    <Edge cubics="!2790 0(;2824,0 2840,13 2840,40q2790 0Q2840 0q2840 40);"/>
+                    <Edge cubics="!2840 40(2840,40;2840,40 2840,360 2840,360q2840 40 2840 360);"/>
+                    <Edge cubics="!0 40(;0,13 16,0 50,0q0 40Q0 0q50 0);"/>
+                    <Edge cubics="!2790 400(2790,400;2790,400 50,400 50,400q2790 400 50 400);"/>
+                    <Edge cubics="!50 0(;50,0 2790,0 2790,0q50 0 2790 0)2790,0;"/>
+                    <Edge cubics="!2840 360(;2840,377 2833,389 2819,395q2840 360Q2840 386q2819 395);"/>
+                    <Edge cubics="!2819 395(;2812,398 2802,400 2790,400q2819 395Q2808 400q2790 400);"/>
+                    <Edge cubics="!50 400(;38,400 28,398 21,395q50 400Q32 400q21 395);"/>
+                    <Edge cubics="!21 395(;7,389 0,377 0,360q21 395Q0 386q0 360);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

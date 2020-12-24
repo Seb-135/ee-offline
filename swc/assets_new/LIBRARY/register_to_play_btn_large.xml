@@ -1,0 +1,74 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="register_to_play_btn_large" itemID="50475125-00000531" linkageExportForAS="true" linkageClassName="assets_registertoplay" symbolType="button" lastModified="1538268973">
+  <timeline>
+    <DOMTimeline name="register_to_play_btn_large">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="1.52587890625e-05" b="-0.03131103515625" c="0.032470703125" d="0" tx="144.65" ty="26.7"/>
+                        </matrix>
+                        <GradientEntry color="#9A0000" ratio="0"/>
+                        <GradientEntry color="#EA0E00" ratio="0.607843137254902"/>
+                        <GradientEntry color="#FF7B7C" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" pixelHinting="true">
+                        <fill>
+                          <SolidColor color="#828282"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!5683 0|100 0!100 0[0 0 0 100!0 100|0 967!0 967[0 1067 100 1067!100 1067|5683 1067!5683 1067[5783 1067 5783 967!5783 967|5783 100!5783 100[5783 0 5683 0"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="285" height="18.75" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="26.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Register now!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.75" size="15" bitmapSize="300" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMStaticText width="285" height="12.5" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="3.1" ty="11.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Don't have an account?</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12.5" size="10" bitmapSize="200" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

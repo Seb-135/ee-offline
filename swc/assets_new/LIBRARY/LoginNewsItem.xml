@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="LoginNewsItem" itemID="58a87ab9-000003f3" lastModified="1528052842">
+  <timeline>
+    <DOMTimeline name="LoginNewsItem">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members/>
+                </DOMGroup>
+                <DOMDynamicText name="title" width="538.45" height="20" isSelectable="false" lineType="multiline no wrap">
+                  <matrix>
+                    <Matrix tx="8.35" ty="7.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Loading...</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="20" size="16" bitmapSize="320" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="subtitle" selected="true" width="538.45" height="11.25" isSelectable="false" lineType="multiline no wrap">
+                  <matrix>
+                    <Matrix tx="8.35" ty="30.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Loading...</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="news_imageloader" name="loader">
+                  <matrix>
+                    <Matrix a="0.724441528320313" d="0.724441528320313" tx="229.4" ty="162.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="68.05" y="34.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="body" width="538.45" height="46.4" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="8.35" ty="52.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="11.25" size="9" bitmapSize="180" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

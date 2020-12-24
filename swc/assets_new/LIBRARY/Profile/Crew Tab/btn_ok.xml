@@ -1,0 +1,68 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Profile/Crew Tab/btn_ok" itemID="55d72c33-0000027f" symbolType="button" lastModified="1440164944">
+  <timeline>
+    <DOMTimeline name="btn_ok">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.023193359375" c="-0.10919189453125" d="0" tx="90" ty="20"/>
+                        </matrix>
+                        <GradientEntry color="#33D52A" ratio="0"/>
+                        <GradientEntry color="#349127" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#339427"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!3532 780|68 780!68 780[11 780 11 690!11 690|11 110!11 110[11 20 68 20!68 20|3532 20!3532 20[3589 20 3589 110!3589 110|3589 690!3589 690[3589 780 3532 780"/>
+                    <Edge fillStyle0="2" edges="!3600 110[3600 0 3532 0!3532 0|68 0!68 0[0 0 0 110!0 110|0 690!0 690[0 800 68 800!68 800|3532 800!3532 800[3600 800 3600 690!3600 690|3600 110"/>
+                    <Edge cubics="!0 110(;0,110 0,690 0,690q0 110 0 690);"/>
+                    <Edge cubics="!3532 0(;3532,0 68,0 68,0q3532 0 68 0);"/>
+                    <Edge cubics="!3600 690(;3600,690 3600,110 3600,110q3600 690 3600 110);"/>
+                    <Edge cubics="!3532 800(;3578,800 3600,763 3600,690q3532 800Q3600 800q3600 690);"/>
+                    <Edge cubics="!3600 110(;3600,38 3578,0 3532,0q3600 110Q3600 0q3532 0);"/>
+                    <Edge cubics="!3589 690(3589,690;3589,750 3568,780 3532,780q3589 690Q3589 780q3532 780)3532,780;"/>
+                    <Edge cubics="!3589 110(3589,110;3589,110 3589,690 3589,690q3589 110 3589 690)3589,690;"/>
+                    <Edge cubics="!3532 20(3532,20;3568,20 3589,50 3589,110q3532 20Q3589 20q3589 110)3589,110;"/>
+                    <Edge cubics="!0 690(;0,763 22,800 68,800q0 690Q0 800q68 800);"/>
+                    <Edge cubics="!68 0(;22,0 0,38 0,110q68 0Q0 0q0 110);"/>
+                    <Edge cubics="!11 110(11,110;11,50 32,20 68,20q11 110Q11 20q68 20)68,20;"/>
+                    <Edge cubics="!11 690(11,690;11,690 11,110 11,110q11 690 11 110)11,110;"/>
+                    <Edge cubics="!68 780(68,780;32,780 11,750 11,690q68 780Q11 780q11 690)11,690;"/>
+                    <Edge cubics="!68 800(;68,800 3532,800 3532,800q68 800 3532 800);"/>
+                    <Edge cubics="!68 20(;68,20 3532,20 3532,20q68 20 3532 20);"/>
+                    <Edge cubics="!3532 780(3532,780;3532,780 68,780 68,780q3532 780 68 780)68,780;"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="176" height="23.75" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.999969482421875" tx="2.2" ty="8.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Ok</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="23.75" size="19" bitmapSize="380" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,352 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Settings/settingsitem" itemID="559b78bd-000001c9" linkageExportForAS="true" linkageClassName="assets_settingsitem" lastModified="1601856016" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="settingsitem">
+      <layers>
+        <DOMLayer name="Layer_4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMStaticText left="-245" width="559" height="23.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="247" ty="20"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Settings</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="23.75" size="19" bitmapSize="380" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter blurX="25" blurY="25" distance="0" quality="3"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMDynamicText name="tf_chatbubbles" width="156" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="46" ty="153.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Hide Chat Bubbles</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#888888"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="checkbox" name="hideChatBubblesCheck" centerPoint3DX="251.85" centerPoint3DY="159.75">
+                  <matrix>
+                    <Matrix a="1.35594177246094" d="1.35595703125" tx="243.85" ty="151.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#000000" inner="true" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="tf_minimap" width="156" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="46" ty="103.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Green on Minimap</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#888888"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="tf_transparent" width="171" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="46" ty="128.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Minimap Transparency</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#888888"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="checkbox" name="tf_box" centerPoint3DX="230.95" centerPoint3DY="133.8">
+                  <matrix>
+                    <Matrix a="3.11180114746094" d="1.55638122558594" tx="223.15" ty="125.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter distance="0" inner="true" quality="3" strength="0.4"/>
+                    <GlowFilter blurX="6" blurY="6" color="#000000" inner="true" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMInputText name="minimapTransparency" left="-2.7" width="32.7" height="12.5" maxCharacters="4">
+                  <matrix>
+                    <Matrix tx="227.85" ty="128.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&#xD;0%</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="12.5" size="10" bitmapSize="200" face="system*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter blurX="25" blurY="25" distance="0" quality="3"/>
+                  </filters>
+                </DOMInputText>
+                <DOMSymbolInstance libraryItemName="checkbox" name="greenOnMinimapCheck" centerPoint3DX="251.5" centerPoint3DY="110">
+                  <matrix>
+                    <Matrix a="1.35594177246094" d="1.35595703125" tx="243.5" ty="102"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#000000" inner="true" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="tf_particles" width="156" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="46" ty="78.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Enable Particles</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#888888"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="checkbox" name="particleCheck" centerPoint3DX="251.5" centerPoint3DY="85">
+                  <matrix>
+                    <Matrix a="1.35594177246094" d="1.35595703125" tx="243.5" ty="77"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#000000" inner="true" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Settings/btn_keybindings" name="btnKeybindings" symbolType="button">
+                  <matrix>
+                    <Matrix tx="51" ty="176.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Settings/btn_savehotbar" name="btnSaveHotbar" symbolType="button">
+                  <matrix>
+                    <Matrix tx="311" ty="176.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Settings/btn_loadhotbar" name="btnLoadHotbar" symbolType="button">
+                  <matrix>
+                    <Matrix tx="311" ty="205.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Settings/gameitem2" name="gameBox">
+                  <matrix>
+                    <Matrix tx="37" ty="53"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="104.2" y="57.8"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="25" blurY="25" distance="0" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Settings/blocksitem">
+                  <matrix>
+                    <Matrix tx="297" ty="54.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="115.95" y="68.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="25" blurY="25" distance="0" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="tf_packagenames" width="166" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="306" ty="79.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Show Package Names</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#888888"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="checkbox" name="packageNamesCheck" centerPoint3DX="509.5" centerPoint3DY="85.1">
+                  <matrix>
+                    <Matrix a="1.35594177246094" d="1.35595703125" tx="501.5" ty="77.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#000000" inner="true" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="tf_vrows" left="73.6" width="136" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="232.4" ty="104.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Visible Rows</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#888888"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="checkbox" name="tf_visRowBox" centerPoint3DX="480.95" centerPoint3DY="110.1">
+                  <matrix>
+                    <Matrix a="2.13609313964844" d="1.55638122558594" tx="473.15" ty="102.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#000000" inner="true" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="visibleRowsNum" width="20.8" height="12.5">
+                  <matrix>
+                    <Matrix tx="475.5" ty="105.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>99</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12.5" size="10" bitmapSize="200" face="system*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="btn_plus" name="visibleRowsAdd" symbolType="button">
+                  <matrix>
+                    <Matrix tx="499.9" ty="97.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.15" y="13.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="btn_minus" name="visibleRowsRemove" symbolType="button">
+                  <matrix>
+                    <Matrix tx="453.2" ty="97.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.15" y="13.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="tf_collapsed" width="156" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="306" ty="129.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Collapsed Mode</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#888888"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="checkbox" name="collapsedCheck" centerPoint3DX="509.5" centerPoint3DY="135.1">
+                  <matrix>
+                    <Matrix a="1.35594177246094" d="1.35595703125" tx="501.5" ty="127.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#000000" inner="true" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="tf_blockpicker" width="156" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="306" ty="154.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Enable Block Picker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#888888"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="checkbox" name="blockPickerCheck" centerPoint3DX="509.5" centerPoint3DY="160.1">
+                  <matrix>
+                    <Matrix a="1.35594177246094" d="1.35595703125" tx="501.5" ty="152.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#000000" inner="true" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Settings/settingsbg" name="bg">
+                  <matrix>
+                    <Matrix a="0.685302734375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="411.55" y="197"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Settings/settingsbg2" name="bg">
+                  <transformationPoint>
+                    <Point x="411.5" y="197"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="25" blurY="25" distance="0" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

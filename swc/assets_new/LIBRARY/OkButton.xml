@@ -1,0 +1,95 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="OkButton" itemID="505039b1-00000373" lastModified="1439056889">
+  <timeline>
+    <DOMTimeline name="OkButton">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#7A7A7A"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.01806640625" c="-0.17578125" d="0" tx="145" ty="27.6"/>
+                        </matrix>
+                        <GradientEntry color="#33D52A" ratio="0"/>
+                        <GradientEntry color="#349127" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!5690 0|110 0!110 0[0 0 0 110!0 110|0 690!0 690[0 737 20 764!20 764[#2F.04 800 110 800!110 800|5690 800!5690 800[#1678.FC 800 5780 764!5780 764[5800 737 5800 690!5800 690|5800 110!5800 110[5800 0 5690 0"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!5780 110|5780 690!5780 690[5780 #2C2.83 5777 720!5777 720[#168E.7F #2DB.02 5770 740!5770 740[5750 780 5690 780!5690 780|110 780!110 780[50 780 30 740!30 740[#19.81 #2DB.02 23 720!23 720[20 #2C2.83 20 690!20 690|20 110!20 110[20 #5D.7C
+ 23 80!23 80[#24.84 20 110 20!110 20|5690 20!5690 20[#1683.7D 20 5777 80!5777 80[5780 #5D.7D 5780 110"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="283" height="23.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Ok</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="23.75" size="19" bitmapSize="380" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#7A7A7A"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.023468017578125" c="-0.0237274169921875" d="0" tx="145" ty="19.95"/>
+                        </matrix>
+                        <GradientEntry color="#999999" ratio="0"/>
+                        <GradientEntry color="#333333" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!5780 110|5780 690!5780 690[5780 780 5690 780!5690 780|110 780!110 780[20 780 20 690!20 690|20 110!20 110[20 20 110 20!110 20|5690 20!5690 20[5780 20 5780 110"/>
+                    <Edge fillStyle0="1" edges="
+!5690 0|110 0!110 0[0 0 0 110!0 110|0 690!0 690[0 800 110 800!110 800|5690 800!5690 800[5800 800 5800 690!5800 690|5800 110!5800 110[5800 0 5690 0"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="283" height="23.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Ok</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="23.75" size="19" bitmapSize="380" face="system*" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

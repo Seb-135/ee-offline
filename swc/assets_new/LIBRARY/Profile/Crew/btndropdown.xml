@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Profile/Crew/btndropdown" itemID="55bc8d8b-00000254" lastModified="1491738154">
+  <timeline>
+    <DOMTimeline name="btndropdown">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="20.1" objectHeight="15.15" x="-4.15" y="-2.3" lockFlag="true">
+                  <matrix>
+                    <Matrix a="1.02157592773438" d="1.22816467285156" tx="4.25" ty="2.8"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMRectangleObject>
+                <DOMBitmapInstance libraryItemName="dropdownarrow.png">
+                  <matrix>
+                    <Matrix tx="3.9" ty="6.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="20.1" objectHeight="15.15" x="-4.15" y="-2.3" lockFlag="true">
+                  <matrix>
+                    <Matrix a="-1.02157592773438" d="-1.2281494140625" tx="16.25" ty="15.8"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMRectangleObject>
+                <DOMBitmapInstance libraryItemName="dropdownarrow.png">
+                  <matrix>
+                    <Matrix a="-1" d="-1" tx="16.6" ty="12.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

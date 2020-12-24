@@ -1,0 +1,761 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Profile/friend" itemID="4f8818b8-000006b2" linkageExportForAS="true" linkageClassName="asset_friend" lastModified="1545518598" lastUniqueIdentifier="21">
+  <timeline>
+    <DOMTimeline name="friend">
+      <layers>
+        <DOMLayer name="labbel" color="#4F80FF" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" name="friend" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" duration="10" name="confirm" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="10" name="invite" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="10" name="pending" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="39" duration="10" name="invitation" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="49" duration="10" name="message" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="59" duration="10" name="blocked" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="69" duration="10" name="waiting" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="btn" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/deletebtn" name="btn_delete" symbolType="button">
+                  <matrix>
+                    <Matrix tx="340" ty="32"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/okbtn" name="btn_confirmdelete" symbolType="button" centerPoint3DX="174.9" centerPoint3DY="42">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="154.65" ty="33.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/canecelbtn" name="btn_confirmcancel" symbolType="button" centerPoint3DX="121.95" centerPoint3DY="42">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="101.7" ty="33.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/sendbtn" name="btn_send" symbolType="button">
+                  <matrix>
+                    <Matrix tx="340" ty="20"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/cancelsendbtn" name="btn_cancel" symbolType="button">
+                  <matrix>
+                    <Matrix tx="340" ty="50.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/deletebtn" name="btn_delete" symbolType="button">
+                  <matrix>
+                    <Matrix tx="340" ty="35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/acceptbtn" name="btn_accept" symbolType="button">
+                  <matrix>
+                    <Matrix tx="340"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.25" tintColor="#00FF00"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/btnignore" name="btn_ignore" symbolType="button">
+                  <matrix>
+                    <Matrix tx="340" ty="22"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/blockbtn" name="btn_block" symbolType="button">
+                  <matrix>
+                    <Matrix tx="340.3" ty="36"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/okbtn" name="btn_ok" symbolType="button">
+                  <matrix>
+                    <Matrix tx="340" ty="16"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/unblockbtn" name="btn_unblock" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix tx="340" ty="16"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="59" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="59" duration="10" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!702 456|702 623!702 623|135 623!135 623|135 456!135 456|702 456"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="smiley" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="10" keyMode="9728">
+              <elements>
+                <DOMStaticText width="12" height="20" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="16.65" ty="18.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>?</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="20" size="16" bitmapSize="320" face="system*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" duration="10" keyMode="9728">
+              <elements>
+                <DOMStaticText width="12" height="20" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="16.65" ty="18.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>?</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="20" size="16" bitmapSize="320" face="system*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" duration="10" keyMode="9728">
+              <elements>
+                <DOMStaticText width="12" height="20" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="16.65" ty="18.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>?</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="20" size="16" bitmapSize="320" face="system*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="69" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shop/Smileys/Guy" symbolType="graphic" firstFrame="4" loop="single frame">
+                  <matrix>
+                    <Matrix tx="5" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-656" y="26"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#CCCCCC"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shop/Smileys/Guy" symbolType="graphic" firstFrame="4" loop="single frame">
+                  <matrix>
+                    <Matrix tx="5" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-656" y="26"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFF00"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shop/Smileys/Guy" symbolType="graphic" firstFrame="4" loop="single frame">
+                  <matrix>
+                    <Matrix tx="5" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-656" y="26"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#CCCCCC"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shop/Smileys/Guy" symbolType="graphic" firstFrame="4" loop="single frame">
+                  <matrix>
+                    <Matrix tx="5" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-656" y="26"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#990000"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="input" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="input_bg" name="bg_mail" centerPoint3DX="105.6" centerPoint3DY="32.25">
+                  <matrix>
+                    <Matrix a="1.07914733886719" d="0.526443481445313" tx="10" ty="27"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="75.0000034150945" distance="3" inner="true" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMInputText name="tf_usermail" fontRenderingMode="bitmap" width="295.45" height="14" includeOutlines="true">
+                  <matrix>
+                    <Matrix a="0.999984741210938" tx="12.15" ty="30.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-2" y="-2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>dhdh</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="13.35" bitmapSize="240" face="ArialReg*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="50" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="tf_confirm" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" duration="10" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_msg" width="261" height="45" antiAliasSharpness="200" antiAliasThickness="-100" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="47" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Are you sure you want to delete this friend?</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="13.75" size="11" bitmapSize="220" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="60" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="wait" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/playbtn" name="btn_play" symbolType="button">
+                  <matrix>
+                    <Matrix tx="340" ty="3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="22.2" y="9.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="60" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="69" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/friend_wait" centerPoint3DX="181" centerPoint3DY="27.8">
+                  <matrix>
+                    <Matrix tx="45" ty="18.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="136" y="8.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="tf_mail" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="10" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_mail" width="273.2" height="14" antiAliasSharpness="200" antiAliasThickness="-100" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="14" ty="6.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Username:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.75" size="11" bitmapSize="220" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="10" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_mail" width="286.1" height="46" antiAliasSharpness="200" antiAliasThickness="-100" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="47" ty="8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Awaiting response from:&#xD;n&#xD;n</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.75" size="11" bitmapSize="220" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" duration="10" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_mail" width="270" height="30" antiAliasSharpness="200" antiAliasThickness="-100" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="47" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>xxxx would like to be your friend&#xD;g</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.75" size="11" bitmapSize="220" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" duration="10" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_mail" width="264" height="45.25" antiAliasSharpness="200" antiAliasThickness="-100" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="47" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Sorry, the invitation from some@mail.ck no longer exist.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.75" size="11" bitmapSize="220" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" duration="10" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_message" width="267" height="45.25" antiAliasSharpness="200" antiAliasThickness="-100" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="47" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>You are blocking</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.75" size="11" bitmapSize="220" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="tf_erro" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="10" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_error" width="297.7" height="10" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="10" ty="72"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Username is not valid</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#CC0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="tf_moreinfo" width="303.95" height="22" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="10" ty="57"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Enter the username of the person you want to add.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="39" duration="10" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_error" width="283" height="20" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="47" ty="33"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Email is not valid&#xD;atall</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="0" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#CC0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="59" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="tf_name" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_name" width="250.95" height="14" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.999954223632813" tx="68.95" ty="5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>My awesome friend</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.75" size="11" bitmapSize="220" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="60" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="tf_online" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_online" width="251.8" height="10" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.999954223632813" tx="68.95" ty="22.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Online. Playing in: </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="tf_playing" width="250.75" height="10" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.999954223632813" tx="68.95" ty="34"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Some world</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="10" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="60" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="vertical divider" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/friend_divider_vertical" name="divider_v" centerPoint3DX="325" centerPoint3DY="27">
+                  <matrix>
+                    <Matrix tx="325" ty="7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="20"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/friend_divider_vertical" name="divider_v" centerPoint3DX="325" centerPoint3DY="36">
+                  <matrix>
+                    <Matrix d="1.44999694824219" tx="325" ty="7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="20"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="50" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/friend_divider_vertical" name="divider_v" centerPoint3DX="325" centerPoint3DY="27">
+                  <matrix>
+                    <Matrix tx="325" ty="7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="20"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="divider" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/friend_divider" name="divider" centerPoint3DX="202" centerPoint3DY="51">
+                  <matrix>
+                    <Matrix a="1.30291748046875" tx="2" ty="51"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/friend_divider" name="divider" centerPoint3DX="202" centerPoint3DY="89">
+                  <matrix>
+                    <Matrix a="1.30291748046875" tx="2" ty="89"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="50" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/friend_divider" name="divider" centerPoint3DX="202" centerPoint3DY="54">
+                  <matrix>
+                    <Matrix a="1.30291748046875" tx="2" ty="54"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="eventarea" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/friend_bg" name="eventarea" centerPoint3DX="200" centerPoint3DY="27.5">
+                  <transformationPoint>
+                    <Point x="200" y="27.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/friend_bg" name="eventarea" centerPoint3DX="200" centerPoint3DY="24.5">
+                  <matrix>
+                    <Matrix ty="-3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="200" y="27.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="50" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/friend_bg" name="eventarea" centerPoint3DX="200" centerPoint3DY="27.5">
+                  <transformationPoint>
+                    <Point x="200" y="27.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,63 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Settings/smileyitem" itemID="559ba8c2-00000704" lastModified="1542299716">
+  <timeline>
+    <DOMTimeline name="smileyitem">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#111111"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" pixelHinting="true">
+                        <fill>
+                          <SolidColor color="#999999"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!2560 227/4561 227!4561 227[4600 227 4600 287!4600 287|4600 2665!4600 2665[4600 2725 4561 2725!4561 2725|38 2725!38 2725[0 2725 0 2665!0 2665|0 287!0 287[0 227 38 227!38 227/220 227"/>
+                    <Edge fillStyle1="1" edges="!220 227/1500 227!1500 227/2560 227"/>
+                    <Edge cubics="!4561 227(;4587,227 4600,247 4600,287q4561 227Q4600 227q4600 287);"/>
+                    <Edge cubics="!4600 2665(;4600,2705 4587,2725 4561,2725q4600 2665Q4600 2725q4561 2725);"/>
+                    <Edge cubics="!4600 287(;4600,287 4600,2665 4600,2665q4600 287 4600 2665);"/>
+                    <Edge cubics="!0 287(;0,247 13,227 38,227q0 287Q0 227q38 227);"/>
+                    <Edge cubics="!38 2725(;13,2725 0,2705 0,2665q38 2725Q0 2725q0 2665);"/>
+                    <Edge cubics="!0 2665(;0,2665 0,287 0,287q0 2665 0 287);"/>
+                    <Edge cubics="!4561 2725(;4561,2725 38,2725 38,2725q4561 2725 38 2725);"/>
+                    <Edge cubics="!38 227(;38,227 220,227 220,227q38 227 220 227);"/>
+                    <Edge cubics="!220 0(;220,0 220,227 220,227q220 0 220 227);"/>
+                    <Edge cubics="!220 227(;220,227 1500,227 1500,227q220 227 1500 227);"/>
+                    <Edge cubics="!1500 227(;1500,227 2540,227 2540,227q1500 227 2540 227);"/>
+                    <Edge cubics="!2560 0(;2560,0 2560,227 2560,227q2560 0 2560 227);"/>
+                    <Edge cubics="!2540 227(;2540,227 2560,227 2560,227q2540 227 2560 227);"/>
+                    <Edge cubics="!2560 227(;2560,227 4561,227 4561,227q2560 227 4561 227);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="116" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="15" ty="3.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Current Smiley</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

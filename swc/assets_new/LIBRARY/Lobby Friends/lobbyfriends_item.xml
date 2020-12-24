@@ -1,0 +1,87 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Lobby Friends/lobbyfriends_item" itemID="5c181a0a-00000482" linkageExportForAS="true" linkageClassName="assets_lobbyfriends_item" lastModified="1545926965">
+  <timeline>
+    <DOMTimeline name="lobbyfriends_item">
+      <layers>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/playbtn" name="btn_play" symbolType="button">
+                  <matrix>
+                    <Matrix tx="309" ty="7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="tf_names" width="231" height="12.5" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="37" ty="6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>...</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="0" lineHeight="12.5" size="10" bitmapSize="200" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="tf_world" width="225.7" height="10" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.02294921875" tx="37.05" ty="20"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.15" y="5"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>...</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Lobby Friends/lobbyfriends_item_line" name="line">
+                  <matrix>
+                    <Matrix ty="35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="177.5" y="0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="infobtn" name="btn_info" symbolType="button">
+                  <matrix>
+                    <Matrix tx="290" ty="18"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" locked="true" outline="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#00FF00" alpha="0"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 0|7100 0!7100 0|7100 720!7100 720|0 720!0 720|0 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

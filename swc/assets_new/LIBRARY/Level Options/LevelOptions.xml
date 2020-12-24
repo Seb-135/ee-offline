@@ -1,0 +1,217 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Level Options/LevelOptions" itemID="54ea2d2c-00000387" linkageExportForAS="true" linkageClassName="assets_leveloptions" lastModified="1601829889" lastUniqueIdentifier="37">
+  <timeline>
+    <DOMTimeline name="LevelOptions">
+      <layers>
+        <DOMLayer name="Buttons" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="LevelOptions_ButtonBox" selected="true">
+                  <matrix>
+                    <Matrix tx="149.75" ty="134.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.5" y="137.95"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="12" blurY="12" color="#000000" strength="0.53"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelOptions_BtnOptions" name="btn_actions">
+                  <matrix>
+                    <Matrix tx="150" ty="166.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.5" y="14.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelOptions_BtnInfo" name="btn_info">
+                  <matrix>
+                    <Matrix tx="150" ty="195.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.5" y="14.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="LevelOptions_BtnSettings" name="btn_settings">
+                  <matrix>
+                    <Matrix tx="150" ty="224.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.5" y="14.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SmallSaveButton" name="save_all" symbolType="button">
+                  <matrix>
+                    <Matrix tx="178.1" ty="374.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="9" blurY="9" color="#000000" strength="0.62"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMStaticText width="117.7" height="17.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="151.25" ty="142.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Menu</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="17.5" size="14" bitmapSize="280" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="7" blurY="7" color="#000000"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Modifications" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PageSettings" name="Settings">
+                  <matrix>
+                    <Matrix tx="290.7" ty="140.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="181.15" y="135.1"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#000000"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="PageInfo" name="Info">
+                  <matrix>
+                    <Matrix tx="289.15" ty="140.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="178.9" y="129.95"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#000000"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="PageActions" name="Actions">
+                  <matrix>
+                    <Matrix tx="290.35" ty="140.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="170.75" y="44.25"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#000000"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="status" fontRenderingMode="standard" width="541.55" height="16.25" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="128.85" ty="442"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Saved all settings!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="16.25" size="13" bitmapSize="260" face="system*" fillColor="#00CC00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Shop/nothanks" name="closebtn" symbolType="button">
+                  <matrix>
+                    <Matrix a="1.5" d="1.49626159667969" tx="667.15" ty="66.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="12" blurY="12" color="#000000" strength="0.56"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMStaticText width="488.45" height="25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="151.5" ty="83.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Modify World</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="25" size="20" bitmapSize="400" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="9" blurY="9" color="#000000"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMStaticText width="488.45" height="10" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="150.9" ty="110.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Customize your world settings</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="9" blurY="9" color="#000000"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.8"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!26417 -2688|26417 12710!26417 12710|-10221 12710!-10221 12710|-10221 -2688!-10221 -2688|26417 -2688"/>
+                    <Edge cubics="!-10221 12710(;-10221,12710 -10221,-2688 -10221,-2688q-10221 12710 -10221 -2688);"/>
+                    <Edge cubics="!26417 12710(26417,12710;26417,12710 -10221,12710 -10221,12710q26417 12710 -10221 12710);"/>
+                    <Edge cubics="!-10221 -2688(;-10221,-2688 26417,-2688 26417,-2688q-10221 -2688 26417 -2688);"/>
+                    <Edge cubics="!26417 -2688(;26417,-2688 26417,12710 26417,12710q26417 -2688 26417 12710)26417,12710;"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="prompt_bg" centerPoint3DX="372" centerPoint3DY="153.7">
+                  <matrix>
+                    <Matrix a="1.00729370117188" d="2.16329956054688" tx="127.4" ty="66.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.35" y="3.85"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#000000" quality="3"/>
+                    <GlowFilter blurX="19" blurY="19" color="#000000" inner="true" strength="0.67"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

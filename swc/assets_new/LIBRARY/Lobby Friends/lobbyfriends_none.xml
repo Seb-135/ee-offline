@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Lobby Friends/lobbyfriends_none" itemID="5c181046-00000464" linkageExportForAS="true" linkageClassName="assets_lobbyfriends_none" lastModified="1545084923">
+  <timeline>
+    <DOMTimeline name="lobbyfriends_none">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.217056274414063" d="0.0006103515625" tx="177.45" ty="35.5"/>
+                        </matrix>
+                        <GradientEntry color="#838383" ratio="0"/>
+                        <GradientEntry color="#838383" ratio="0.701960784313725"/>
+                        <GradientEntry color="#838383" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!7100 700|0 700!0 700|0 720!0 720|7100 720!7100 720|7100 700"/>
+                    <Edge cubics="!0 700(;0,700 0,720 0,720q0 700 0 720);"/>
+                    <Edge cubics="!7100 720(;7100,720 7100,700 7100,700q7100 720 7100 700);"/>
+                    <Edge cubics="!0 720(;0,720 7100,720 7100,720q0 720 7100 720);"/>
+                    <Edge cubics="!7100 700(;7100,700 0,700 0,700q7100 700 0 700);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="227" height="15" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="10"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>No friends currently playing.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#666666"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

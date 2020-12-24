@@ -1,0 +1,115 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="energy/energybar" itemID="502256ee-000001f6" lastModified="1435321688">
+  <timeline>
+    <DOMTimeline name="energybar">
+      <layers>
+        <DOMLayer name="Layer 11" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_energy" selected="true" width="46" height="11.15" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2" ty="1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>x/x</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="11.15" size="10" bitmapSize="200" face="ArialReg*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="269.999993169811" blurX="1" blurY="1" distance="1" strength="0.5"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#808080">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="energy/energybar_border" name="border" centerPoint3DX="24.55" centerPoint3DY="5.6">
+                  <matrix>
+                    <Matrix a="0.887374877929688" d="0.91436767578125"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27.65" y="6.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="energy/energybar_bg" name="glow" centerPoint3DX="25" centerPoint3DY="6">
+                  <matrix>
+                    <Matrix a="0.86956787109375" d="0.839691162109375" tx="0.5" ty="0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.15" y="6.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#00FFFF" inner="true" knockout="true"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 10" color="#9933CC" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="energy/energybar_bg" name="progress_mask" centerPoint3DX="25.55" centerPoint3DY="5.5">
+                  <matrix>
+                    <Matrix a="0.851913452148438" d="0.9150390625" tx="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF" parentLayerIndex="3">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="energy/energybar_colorbg" name="color_bg" centerPoint3DX="25" centerPoint3DY="6.5">
+                  <matrix>
+                    <Matrix a="0.979598999023438" d="0.909088134765625" tx="1" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 9" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="energy/energybar_bg" name="bg" centerPoint3DX="25" centerPoint3DY="6">
+                  <matrix>
+                    <Matrix a="0.887313842773438" d="0.916015625"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.15" y="6.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

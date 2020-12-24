@@ -1,0 +1,110 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="confirmbtn" itemID="56713cd1-00000289" linkageExportForAS="true" linkageClassName="assets_confirmbtn" lastModified="1450263881">
+  <timeline>
+    <DOMTimeline name="confirmbtn" currentFrame="1">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="title" width="218" height="23.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Confirm</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="23.75" size="19" bitmapSize="380" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="title" selected="true" width="218" height="23.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Confirm</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="23.75" size="19" bitmapSize="380" face="system*" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#7A7A7A"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.023468017578125" c="-0.01824951171875" d="0" tx="111.5" ty="19.95"/>
+                        </matrix>
+                        <GradientEntry color="#33D52A" ratio="0"/>
+                        <GradientEntry color="#349127" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!4375 780|85 780!85 780[15 780 15 690!15 690|15 110!15 110[15 20 85 20!85 20|4375 20!4375 20[4445 20 4445 110!4445 110|4445 690!4445 690[4445 780 4375 780"/>
+                    <Edge fillStyle0="1" edges="!4460 110[4460 0 4375 0!4375 0|85 0!85 0[0 0 0 110!0 110|0 690!0 690[0 800 85 800!85 800|4375 800!4375 800[4460 800 4460 690!4460 690|4460 110"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.02197265625" c="0.13519287109375" d="0" tx="111.5" ty="4"/>
+                        </matrix>
+                        <GradientEntry color="#434343" ratio="0"/>
+                        <GradientEntry color="#808080" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.009246826171875" c="0.1361083984375" d="0" tx="111.5" ty="1.1"/>
+                        </matrix>
+                        <GradientEntry color="#434343" ratio="0"/>
+                        <GradientEntry color="#808080" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!4375 780|85 780!85 780[15 780 15 690!15 690|15 110!15 110[15 20 85 20!85 20|4375 20!4375 20[4445 20 4445 110!4445 110|4445 690!4445 690[4445 780 4375 780"/>
+                    <Edge fillStyle0="2" edges="!4460 110[4460 0 4375 0!4375 0|85 0!85 0[0 0 0 110!0 110|0 690!0 690[0 800 85 800!85 800|4375 800!4375 800[4460 800 4460 690!4460 690|4460 110"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

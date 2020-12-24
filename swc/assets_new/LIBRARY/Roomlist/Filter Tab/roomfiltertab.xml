@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Roomlist/Filter Tab/roomfiltertab" itemID="55d02180-0000030a" lastModified="1492113643">
+  <timeline>
+    <DOMTimeline name="roomfiltertab">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Roomlist/Filter Tab/tab_sortby" name="tab_rooms">
+                  <transformationPoint>
+                    <Point x="75" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/Filter Tab/tab_favorites" name="tab_favorites">
+                  <matrix>
+                    <Matrix tx="135.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/Filter Tab/tabsortselector" name="sortselector" selected="true">
+                  <matrix>
+                    <Matrix ty="16.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="149" y="7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/Filter Tab/tab_history" name="tab_history">
+                  <matrix>
+                    <Matrix tx="271"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="22.5" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

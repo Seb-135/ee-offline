@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Login/Profile/Crew/btndropdown" itemID="55d0d651-00000370" lastModified="1439440554">
+  <timeline>
+    <DOMTimeline name="btndropdown">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="20.1" objectHeight="15.15" x="-4.15" y="-2.3" lockFlag="true">
+                  <matrix>
+                    <Matrix a="1.02157592773438" d="1.22816467285156" tx="4.25" ty="2.8"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="20.1" objectHeight="15.15" x="-4.15" y="-2.3" lockFlag="true">
+                  <matrix>
+                    <Matrix a="-1.02157592773438" d="-1.2281494140625" tx="16.25" ty="15.8"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

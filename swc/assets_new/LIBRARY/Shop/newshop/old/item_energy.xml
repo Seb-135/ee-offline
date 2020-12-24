@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shop/newshop/old/item_energy" itemID="5024b54e-000003d3" linkageExportForAS="true" linkageClassName="assets_itemenergy" lastModified="1345107240" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="item_energy">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shop/newshop/old/item_energy_bg" centerPoint3DX="30.25" centerPoint3DY="7.5">
+                  <matrix>
+                    <Matrix a="1.632080078125" d="1.70452880859375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.55" y="4.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

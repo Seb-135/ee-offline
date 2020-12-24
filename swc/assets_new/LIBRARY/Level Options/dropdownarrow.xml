@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Level Options/dropdownarrow" itemID="55bd9ab2-000007ad" lastModified="1491738152">
+  <timeline>
+    <DOMTimeline name="dropdownarrow">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="19.45" objectHeight="13.2" x="-3.85" y="-3.65" lockFlag="true">
+                  <matrix>
+                    <Matrix a="1.20103454589844" d="1.40611267089844" tx="4.6" ty="5.15"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMRectangleObject>
+                <DOMBitmapInstance libraryItemName="dropdownarrow.png">
+                  <matrix>
+                    <Matrix tx="5.15" ty="6.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

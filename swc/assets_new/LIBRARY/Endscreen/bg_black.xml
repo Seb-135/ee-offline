@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Endscreen/bg_black" itemID="507bc846-0000031d" scaleGridLeft="23" scaleGridRight="454" scaleGridTop="21.5" scaleGridBottom="64.55" lastModified="1528053655">
+  <timeline>
+    <DOMTimeline name="bg_black">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!157 -8[-8.203125 -8 -8 149!-8 149|-8 1572!-8 1572[-8.203125 1729 157 1729!157 1729|9282 1729!9282 1729[#24E8.3A 1729 9448 1572!9448 1572|9448 149!9448 149[#24E8.3A -8 9282 -8!9282 -8|157 -8!9432 149|9432 1572!9432 1572[#24D7.C6 1713
+ 9282 1713!9282 1713|157 1713!157 1713[#8.34 1713 8 1572!8 1572|8 149!8 149[#8.34 8 157 8!157 8|9282 8!9282 8[#24D7.C6 8 9432 149"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!9282 0|157 0!157 0[0 0 0 149!0 149/0 1572!0 1572[0 1721 157 1721!157 1721/9282 1721!9282 1721[9440 1721 9440 1572!9440 1572/9440 149!9440 149[9440 0 9282 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

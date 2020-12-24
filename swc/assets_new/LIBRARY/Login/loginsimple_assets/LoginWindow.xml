@@ -1,0 +1,146 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Login/loginsimple_assets/LoginWindow" itemID="504875b7-0000055f" linkageExportForAS="true" linkageClassName="assets_loginwindow" lastModified="1528054589" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="LoginWindow">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="input_bg" name="bg_password" centerPoint3DX="155" centerPoint3DY="314.75">
+                  <matrix>
+                    <Matrix a="1.04315185546875" d="1.04209899902344" tx="10" ty="294.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="139" y="19"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="75.0000034150945" distance="1" inner="true" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="input_bg" name="bg_mail" centerPoint3DX="155" centerPoint3DY="265.75">
+                  <matrix>
+                    <Matrix a="1.04315185546875" d="1.04209899902344" tx="10" ty="245.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="139" y="19"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="75.0000034150945" distance="1" inner="true" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMInputText name="inppassword" width="281" height="29.3">
+                  <matrix>
+                    <Matrix tx="17" ty="304.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Password</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="22.35" size="20" bitmapSize="400" face="ArialReg*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMInputText name="inpemail" width="281" height="27">
+                  <matrix>
+                    <Matrix tx="17" ty="254.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Email</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="22.35" size="20" bitmapSize="400" face="ArialReg*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMSymbolInstance libraryItemName="Shop/nothanks" name="close" symbolType="button" centerPoint3DX="310" centerPoint3DY="20">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="310" ty="20"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Login/loginsimple_assets/LoginButton" name="btn_login" symbolType="button">
+                  <matrix>
+                    <Matrix tx="10" ty="396.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="144.45" y="19.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="277" height="22.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="15.6" ty="31.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Log in to your account</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="22.5" size="18" bitmapSize="360" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Login/loginsimple_assets/RememberMeButton" name="btn_remember" selected="true" centerPoint3DX="85.4" centerPoint3DY="354">
+                  <matrix>
+                    <Matrix tx="20" ty="345.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="65.4" y="8.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="errors" fontRenderingMode="bitmap" width="278.15" height="13.35" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="18" ty="443.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="13.35" bitmapSize="240" face="ArialMT" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="LoginSmileys">
+                  <matrix>
+                    <Matrix a="0.786712646484375" d="0.786712646484375" tx="85.9" ty="84.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="88.45" y="86.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="faded_divider">
+                  <matrix>
+                    <Matrix tx="14.9" ty="63.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="140" y="0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Login/LoginBackground" name="bg" centerPoint3DX="-3.3" centerPoint3DY="127.45">
+                  <matrix>
+                    <Matrix a="0.511520385742188" d="2.3858642578125" ty="36.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="606.05" y="-7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

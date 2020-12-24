@@ -1,0 +1,87 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Profile/Crew Tab/sendinvite" itemID="55c8823e-0000028e" linkageExportForAS="true" linkageClassName="assets_sendcrewinvite" lastModified="1439391948">
+  <timeline>
+    <DOMTimeline name="sendinvite">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="bitmap" width="346" height="18.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="12"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Username:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" lineHeight="18.75" size="15" bitmapSize="300" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="input_bg" name="bg_mail" centerPoint3DX="110.5" centerPoint3DY="43.8">
+                  <matrix>
+                    <Matrix a="1.25904846191406" d="0.789657592773438" ty="36"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="75.0000034150945" distance="3" inner="true" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMInputText name="tf_username" selected="true" fontRenderingMode="bitmap" width="341" height="21.25">
+                  <matrix>
+                    <Matrix tx="5" ty="42"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>xJeex was here :D</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="20.1" size="18" bitmapSize="360" face="ArialReg*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMStaticText fontRenderingMode="bitmap" width="346" height="10" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="71.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Enter the username of the person you want to invite.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMDynamicText name="tf_error" fontRenderingMode="bitmap" width="346" height="10" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="135.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Error: that user does not exist.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Profile/Crew Tab/btn_invite" name="btn_invite" symbolType="button">
+                  <matrix>
+                    <Matrix tx="63.5" ty="87.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

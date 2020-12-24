@@ -1,0 +1,89 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Roomlist/reloadroombtn" itemID="4fb10f01-000002fc" lastModified="1337070143">
+  <timeline>
+    <DOMTimeline name="reloadroombtn">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!259 142[259 140 259 139!259 139[#103.03 #89.F 258.5 137!258.5 137[#101.06 #86.03 255.5 132.5!255.5 132.5[#FE.D3 #83.E7 254 131.5!254 131.5[#FA.AC #81.CA 249 130!249 130|248 130!248 130|231.5 132.5!231.5 132.5[#E1.5 #7A.2C 217.5 114.5
+!217.5 114.5[#C1.0A #5A.01 159 90!159 90[#7C.EA #59.FB 101.5 114.5!101.5 114.5|101.5 114!101.5 114[#5D.5 #79.74 90 128!90 128[#4C.1 #93.4B 76 173!76 173[#4B.FB #CE.04 100.5 230.5!100.5 230.5|101.5 231.5!101.5 231.5[#77.7A #FA.BA 146 255
+!146 255[#9A.2F #100.6A 161 251!161 251[#A7.A1 #F5.D1 169 238!169 238[#AA.6A #E5.D1 165 223!165 223[#9F.D1 #D8.5E 152 215!152 215|151.5 215!151.5 215[#8A.4F #D5.32 129.5 203.5!129.5 203.5[#74.0F #BE.06 116 173!116 173[#73.F6 #A0.AC 123
+ 151!123 151[#7B.FA #95.A7 124 148!124 148[#7D.B5 #91.8C 129 143!129 143|129.5 142.5!129.5 142.5[#8D.22 #82.03 159 130!159 130[#AD.52 #81.FA 184 138!184 138|173 139!173 139|172.5 139!172.5 139[#A8.B1 #8B.3 166.5 142.5!166.5 142.5[#A2.F9
+ #90.D5 163 149!163 149[#A3.04 #98.EB 165 155!165 155|165.5 155.5!165.5 155.5|212 213!212 213[#D6.7D #D9.08 219 217!219 217[221 217 223 217!223 217[#E1.0D #D8.FB 226.5 215.5!226.5 215.5[#E4.06 #D5.FC 229.5 211!229.5 211|258.5 144!258.5
+ 144[#102.F9 #8F.09 259 142"/>
+                    <Edge cubics="!96 173(;96,160 100,149 106,139q96 173Q96 154q106 139);"/>
+                    <Edge cubics="!115 217(;102,204 96,190 96,173q115 217Q96 198q96 173);"/>
+                    <Edge cubics="!106 139(;109,135 111,132 115,128q106 139Q109 134q115 128);"/>
+                    <Edge cubics="!115 128(;127,116 142,110 159,110q115 128Q133 110q159 110);"/>
+                    <Edge cubics="!159 110(;176,110 191,116 203,128q159 110Q185 110q203 128);"/>
+                    <Edge cubics="!149 235(;136,232 124,227 115,217q149 235Q129 232q115 217);"/>
+                    <Edge cubics="!220 207(;220,207 173,149 173,149q220 207 173 149);"/>
+                    <Edge cubics="!249 140(;249,140 220,207 220,207q249 140 220 207);"/>
+                    <Edge cubics="!215 144(;215,144 249,140 249,140q215 144 249 140);"/>
+                    <Edge cubics="!203 128(;208,133 212,138 215,144q203 128Q210 135q215 144);"/>
+                    <Edge cubics="!173 149(;173,149 215,144 215,144q173 149 215 144);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="bitmap" width="88.35" height="10" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="18.65" ty="4.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Reload rooms</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="10" size="8" bitmapSize="160" face="system*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="143.55" objectHeight="16.5" x="37.5" y="10.5" lockFlag="true" topLeftRadius="5" topRightRadius="5" bottomLeftRadius="5" bottomRightRadius="5">
+                  <matrix>
+                    <Matrix a="0.772918701171875" tx="-29" ty="-10.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="108.95" y="18.75"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#999999"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

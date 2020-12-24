@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="CampaignPage" itemID="5c267fb8-000002f4" linkageExportForAS="true" linkageClassName="assets_CampaignPage" lastModified="1546026936">
+  <timeline>
+    <DOMTimeline name="CampaignPage">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Settings/settingsbg" name="bg" selected="true" centerPoint3DX="411.5" centerPoint3DY="196.5">
+                  <matrix>
+                    <Matrix d="0.999984741210938"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="411.5" y="197.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="25" blurY="25" distance="0" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

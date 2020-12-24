@@ -1,0 +1,124 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Profile/Crew Tab/Top Bar Buttons/topbtn_switchcrew" itemID="55ceeff5-00000772" lastModified="1440049590">
+  <timeline>
+    <DOMTimeline name="topbtn_switchcrew">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#09436D"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.0115966796875" c="0.0515594482421875" d="0" tx="42.5" ty="10"/>
+                        </matrix>
+                        <GradientEntry color="#07548A" ratio="0"/>
+                        <GradientEntry color="#5AAFEF" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1700 55[1700 0 1667 0!1667 0|33 0!33 0[0 0 0 55!0 55|0 345!0 345[0 400 33 400!33 400|1667 400!1667 400[1700 400 1700 345!1700 345|1700 55"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!1667 390|33 390!33 390[5 390 5 345!5 345|5 55!5 55[5 10 33 10!33 10|1667 10!1667 10[1695 10 1695 55!1695 55|1695 345!1695 345[1695 390 1667 390"/>
+                    <Edge cubics="!0 55(;0,55 0,345 0,345q0 55 0 345);"/>
+                    <Edge cubics="!5 345(5,345;5,345 5,55 5,55q5 345 5 55)5,55;"/>
+                    <Edge cubics="!1667 0(;1667,0 33,0 33,0q1667 0 33 0);"/>
+                    <Edge cubics="!1700 345(;1700,345 1700,55 1700,55q1700 345 1700 55);"/>
+                    <Edge cubics="!1667 400(;1690,400 1700,381 1700,345q1667 400Q1700 400q1700 345);"/>
+                    <Edge cubics="!1700 55(;1700,19 1690,0 1667,0q1700 55Q1700 0q1667 0);"/>
+                    <Edge cubics="!1695 345(1695,345;1695,375 1685,390 1667,390q1695 345Q1695 390q1667 390)1667,390;"/>
+                    <Edge cubics="!1695 55(1695,55;1695,55 1695,345 1695,345q1695 55 1695 345)1695,345;"/>
+                    <Edge cubics="!1667 10(1667,10;1685,10 1695,25 1695,55q1667 10Q1695 10q1695 55)1695,55;"/>
+                    <Edge cubics="!0 345(;0,381 10,400 33,400q0 345Q0 400q33 400);"/>
+                    <Edge cubics="!33 0(;10,0 0,19 0,55q33 0Q0 0q0 55);"/>
+                    <Edge cubics="!5 55(5,55;5,25 15,10 33,10q5 55Q5 10q33 10)33,10;"/>
+                    <Edge cubics="!33 390(33,390;15,390 5,375 5,345q33 390Q5 390q5 345)5,345;"/>
+                    <Edge cubics="!33 400(;33,400 1667,400 1667,400q33 400 1667 400);"/>
+                    <Edge cubics="!33 10(;33,10 1667,10 1667,10q33 10 1667 10);"/>
+                    <Edge cubics="!1667 390(1667,390;1667,390 33,390 33,390q1667 390 33 390)33,390;"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="76" height="12.5" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.999969482421875" tx="4.9" ty="3.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Switch Crew</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12.5" size="10" bitmapSize="200" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#333333"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.0115966796875" c="0.0515594482421875" d="0" tx="42.5" ty="10"/>
+                        </matrix>
+                        <GradientEntry color="#444444" ratio="0"/>
+                        <GradientEntry color="#555555" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!1667 390|33 390!33 390[5 390 5 345!5 345|5 55!5 55[5 10 33 10!33 10|1667 10!1667 10[1695 10 1695 55!1695 55|1695 345!1695 345[1695 390 1667 390"/>
+                    <Edge fillStyle0="1" edges="!1700 55[1700 0 1667 0!1667 0|33 0!33 0[0 0 0 55!0 55|0 345!0 345[0 400 33 400!33 400|1667 400!1667 400[1700 400 1700 345!1700 345|1700 55"/>
+                    <Edge cubics="!0 55(;0,55 0,345 0,345q0 55 0 345);"/>
+                    <Edge cubics="!5 345(5,345;5,345 5,55 5,55q5 345 5 55)5,55;"/>
+                    <Edge cubics="!1667 0(;1667,0 33,0 33,0q1667 0 33 0);"/>
+                    <Edge cubics="!1700 345(;1700,345 1700,55 1700,55q1700 345 1700 55);"/>
+                    <Edge cubics="!1667 400(;1690,400 1700,381 1700,345q1667 400Q1700 400q1700 345);"/>
+                    <Edge cubics="!1700 55(;1700,19 1690,0 1667,0q1700 55Q1700 0q1667 0);"/>
+                    <Edge cubics="!1695 345(1695,345;1695,375 1685,390 1667,390q1695 345Q1695 390q1667 390)1667,390;"/>
+                    <Edge cubics="!1695 55(1695,55;1695,55 1695,345 1695,345q1695 55 1695 345)1695,345;"/>
+                    <Edge cubics="!1667 10(1667,10;1685,10 1695,25 1695,55q1667 10Q1695 10q1695 55)1695,55;"/>
+                    <Edge cubics="!0 345(;0,381 10,400 33,400q0 345Q0 400q33 400);"/>
+                    <Edge cubics="!33 0(;10,0 0,19 0,55q33 0Q0 0q0 55);"/>
+                    <Edge cubics="!5 55(5,55;5,25 15,10 33,10q5 55Q5 10q33 10)33,10;"/>
+                    <Edge cubics="!33 390(33,390;15,390 5,375 5,345q33 390Q5 390q5 345)5,345;"/>
+                    <Edge cubics="!33 400(;33,400 1667,400 1667,400q33 400 1667 400);"/>
+                    <Edge cubics="!33 10(;33,10 1667,10 1667,10q33 10 1667 10);"/>
+                    <Edge cubics="!1667 390(1667,390;1667,390 33,390 33,390q1667 390 33 390)33,390;"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="76" height="12.5" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.999969482421875" tx="4.9" ty="3.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Switch Crew</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12.5" size="10" bitmapSize="200" face="system*" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

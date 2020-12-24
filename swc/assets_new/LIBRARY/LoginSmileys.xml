@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="LoginSmileys" itemID="55ce3f6e-00000242" lastModified="1487477520">
+  <timeline>
+    <DOMTimeline name="LoginSmileys">
+      <layers>
+        <DOMLayer name="Laag 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shop/Smileys/Guy" symbolType="graphic" firstFrame="8" centerPoint3DX="32" centerPoint3DY="52" loop="single frame">
+                  <matrix>
+                    <Matrix a="2" d="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="26"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Shop/Smileys/Guy" symbolType="graphic" firstFrame="2" centerPoint3DX="145" centerPoint3DY="62" loop="single frame">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="113" ty="10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="26"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Shop/Smileys/Guy" symbolType="graphic" firstFrame="1" centerPoint3DX="83" centerPoint3DY="95" loop="single frame">
+                  <matrix>
+                    <Matrix a="3" d="3" tx="35" ty="17"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="26"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMBitmapInstance libraryItemName="officer.png">
+                  <matrix>
+                    <Matrix a="6.72308349609375" d="6.72308349609375"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="padlock.png">
+                  <matrix>
+                    <Matrix a="5.12818908691406" b="1.37400817871094" c="-1.37400817871094" d="5.12818908691406" tx="124.2" ty="86.2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

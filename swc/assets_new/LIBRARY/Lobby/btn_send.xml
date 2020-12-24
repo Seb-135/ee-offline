@@ -1,0 +1,68 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Lobby/btn_send" itemID="55ce16a6-00000656" linkageExportForAS="true" linkageClassName="assets_sendbtn" symbolType="button" lastModified="1545605165">
+  <timeline>
+    <DOMTimeline name="btn_send">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#27661E"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.006103515625" c="-0.036376953125" d="0" tx="30" ty="12"/>
+                        </matrix>
+                        <GradientEntry color="#33D52A" ratio="0"/>
+                        <GradientEntry color="#349127" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!1177 390|23 390!23 390[4 390 4 345!4 345|4 55!4 55[4 10 23 10!23 10|1177 10!1177 10[1196 10 1196 55!1196 55|1196 345!1196 345[1196 390 1177 390"/>
+                    <Edge fillStyle0="1" edges="!1200 55[1200 0 1177 0!1177 0|23 0!23 0[0 0 0 55!0 55|0 345!0 345[0 400 23 400!23 400|1177 400!1177 400[1200 400 1200 345!1200 345|1200 55"/>
+                    <Edge cubics="!0 55(;0,55 0,345 0,345q0 55 0 345);"/>
+                    <Edge cubics="!1177 0(;1177,0 23,0 23,0q1177 0 23 0);"/>
+                    <Edge cubics="!1200 345(;1200,345 1200,55 1200,55q1200 345 1200 55);"/>
+                    <Edge cubics="!1177 400(;1193,400 1200,381 1200,345q1177 400Q1200 400q1200 345);"/>
+                    <Edge cubics="!1200 55(;1200,19 1193,0 1177,0q1200 55Q1200 0q1177 0);"/>
+                    <Edge cubics="!1196 345(1196,345;1196,375 1189,390 1177,390q1196 345Q1196 390q1177 390)1177,390;"/>
+                    <Edge cubics="!1196 55(1196,55;1196,55 1196,345 1196,345q1196 55 1196 345)1196,345;"/>
+                    <Edge cubics="!1177 10(1177,10;1189,10 1196,25 1196,55q1177 10Q1196 10q1196 55)1196,55;"/>
+                    <Edge cubics="!0 345(;0,381 7,400 23,400q0 345Q0 400q23 400);"/>
+                    <Edge cubics="!23 0(;7,0 0,19 0,55q23 0Q0 0q0 55);"/>
+                    <Edge cubics="!4 55(4,55;4,25 11,10 23,10q4 55Q4 10q23 10)23,10;"/>
+                    <Edge cubics="!4 345(4,345;4,345 4,55 4,55q4 345 4 55)4,55;"/>
+                    <Edge cubics="!23 390(23,390;11,390 4,375 4,345q23 390Q4 390q4 345)4,345;"/>
+                    <Edge cubics="!23 400(;23,400 1177,400 1177,400q23 400 1177 400);"/>
+                    <Edge cubics="!23 10(;23,10 1177,10 1177,10q23 10 1177 10);"/>
+                    <Edge cubics="!1177 390(1177,390;1177,390 23,390 23,390q1177 390 23 390)23,390;"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="56" height="12.5" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.999969482421875" tx="2.2" ty="3.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Send</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12.5" size="10" bitmapSize="200" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="fscreen" itemID="4c6eb603-00000780" linkageExportForAS="true" linkageClassName="fscreen" lastModified="1282324090">
+  <timeline>
+    <DOMTimeline name="fscreen">
+      <layers>
+        <DOMLayer name="Layer 5" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="13.85" objectHeight="9.4" x="0.05" y="2.2" lockFlag="true" topLeftRadius="2" topRightRadius="2" bottomLeftRadius="2" bottomRightRadius="2">
+                  <matrix>
+                    <Matrix a="0.86724853515625" d="0.86724853515625" tx="2.35" ty="-1.9"/>
+                  </matrix>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" pixelHinting="true">
+                      <fill>
+                        <SolidColor color="#FFFFFF"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="13.85" objectHeight="9.4" x="0.05" y="2.2" lockFlag="true" topLeftRadius="2" topRightRadius="2" bottomLeftRadius="2" bottomRightRadius="2">
+                  <matrix>
+                    <Matrix a="0.86724853515625" d="0.86724853515625" tx="-0.05" ty="0.8"/>
+                  </matrix>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" pixelHinting="true">
+                      <fill>
+                        <SolidColor color="#FFFFFF"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF" alpha="0"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!278 -2|278 258!278 258|1 258!1 258|1 -2!1 -2|278 -2"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

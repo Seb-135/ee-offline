@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Topbar/gem" itemID="4cfd458b-0000537c" lastModified="1416500013" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="gem">
+      <layers>
+        <DOMLayer name="Layer 5" color="#4FFFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="gem_icon" centerPoint3DX="23.85" centerPoint3DY="21.3">
+                  <matrix>
+                    <Matrix tx="0.35" ty="-2.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23.5" y="23.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

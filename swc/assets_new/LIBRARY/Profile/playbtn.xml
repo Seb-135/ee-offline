@@ -1,0 +1,112 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Profile/playbtn" itemID="4f98f57f-00000306" symbolType="button" lastModified="1543968879">
+  <timeline>
+    <DOMTimeline name="playbtn">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.013580322265625" c="-0.0116119384765625" d="0" tx="23" ty="8.45"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.2" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.0379791259765625" c="-0.0116119384765625" d="0" tx="23" ty="12.6"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.2" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!900 122/900 169!900 169[831 142 736 143!736 143[689 144 547 163!547 163[408 180 312 180!312 180[166 181 20 150!20 150|20 122"/>
+                    <Edge fillStyle1="2" edges="!20 122|20 74!20 74[20 20 63 20!63 20|857 20!857 20[900 20 900 74!900 74/900 77!900 77/900 122"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!900 122|20 122"/>
+                    <Edge cubics="!63 20(;63,20 857,20 857,20q63 20 857 20);"/>
+                    <Edge cubics="!900 122(;900,122 20,122 20,122q900 122 20 122);"/>
+                    <Edge cubics="!20 122(;20,122 20,74 20,74q20 122 20 74);"/>
+                    <Edge cubics="!20 74(;20,37 34,20 63,20q20 74Q20 20q63 20);"/>
+                    <Edge cubics="!857 20(;885,20 900,37 900,74q857 20Q900 20q900 74);"/>
+                    <Edge cubics="!900 74(;900,74 900,77 900,77q900 74 900 77);"/>
+                    <Edge cubics="!900 77(;900,77 900,122 900,122q900 77 900 122);"/>
+                    <Edge cubics="!20 150(;20,150 20,122 20,122q20 150 20 122);"/>
+                    <Edge cubics="!900 122(;900,122 900,169 900,169q900 122 900 169);"/>
+                    <Edge cubics="!736 143(;705,144 642,150 547,163q736 143Q689 144q547 163);"/>
+                    <Edge cubics="!547 163(;454,174 376,180 312,180q547 163Q408 180q312 180);"/>
+                    <Edge cubics="!312 180(;215,181 117,171 20,150q312 180Q166 181q20 150);"/>
+                    <Edge cubics="!900 169(;854,151 799,142 736,143q900 169Q831 142q736 143);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="44" height="17.5" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.729095458984375" d="0.729095458984375" tx="6.45" ty="4.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Play</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="17.5" size="14" bitmapSize="280" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="43.95" objectHeight="21" x="-39.05" y="3" lockFlag="true" topLeftRadius="2.5" topRightRadius="2.5" bottomLeftRadius="2.5" bottomRightRadius="2.5">
+                  <matrix>
+                    <Matrix a="1.00119018554688" tx="40.1" ty="-2"/>
+                  </matrix>
+                  <fill>
+                    <LinearGradient>
+                      <matrix>
+                        <Matrix a="0" b="0.01019287109375" c="-0.0115966796875" d="0" tx="-17.6" ty="12.5"/>
+                      </matrix>
+                      <GradientEntry color="#444444" ratio="0"/>
+                      <GradientEntry color="#222222" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="2">
+                      <fill>
+                        <LinearGradient>
+                          <matrix>
+                            <Matrix a="0" b="0.0126800537109375" c="-0.0128173828125" d="0" tx="-17.6" ty="12.5"/>
+                          </matrix>
+                          <GradientEntry color="#606060" ratio="0"/>
+                          <GradientEntry color="#050505" ratio="1"/>
+                        </LinearGradient>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

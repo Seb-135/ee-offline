@@ -1,0 +1,164 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Login/LobbyLoginBox" itemID="4d330dee-000009c2" linkageExportForAS="true" linkageClassName="LobbyLoginBox_Asset" lastModified="1528054438" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="LobbyLoginBox" currentFrame="1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="bg" name="bg" centerPoint3DX="150.05" centerPoint3DY="77.85">
+                  <matrix>
+                    <Matrix d="0.637863159179688" tx="0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150" y="122.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="10" blurY="10" distance="0" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="bitmap" width="280.1" height="15" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="10.9" ty="8.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Get more out of Everybody Edits</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="15" bitmapSize="240" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter blurX="10" blurY="10" distance="0" quality="3"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMGroup>
+                  <members>
+                    <DOMBitmapInstance libraryItemName="Shop/ItemsGfx/smiley.jpg">
+                      <matrix>
+                        <Matrix a="0.386627197265625" d="0.386627197265625" tx="14.05" ty="43.45"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                    <DOMStaticText fontRenderingMode="bitmap" width="62.2" height="10" autoExpand="true" includeOutlines="true" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="16.05" ty="84.5"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>More Smilies</characters>
+                          <textAttrs>
+                            <DOMTextAttrs lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMBitmapInstance libraryItemName="Shop/ItemsGfx/bricks.jpg">
+                      <matrix>
+                        <Matrix a="0.386627197265625" d="0.386627197265625" tx="117.35" ty="43.45"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                    <DOMStaticText fontRenderingMode="bitmap" width="59.2" height="10" autoExpand="true" includeOutlines="true" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="122.25" ty="84.5"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>More Blocks</characters>
+                          <textAttrs>
+                            <DOMTextAttrs lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMBitmapInstance libraryItemName="Login/worlds.jpg">
+                      <matrix>
+                        <Matrix a="0.386627197265625" d="0.386627197265625" tx="216.55" ty="43.45"/>
+                      </matrix>
+                    </DOMBitmapInstance>
+                    <DOMStaticText fontRenderingMode="bitmap" width="65.2" height="10" autoExpand="true" includeOutlines="true" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="216.05" ty="84.5"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>Saved Worlds</characters>
+                          <textAttrs>
+                            <DOMTextAttrs lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="Login/loginnow" name="login_btn" symbolType="button">
+                  <matrix>
+                    <Matrix a="1.50448608398438" d="1.5030517578125" tx="17.2" ty="118.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="logininfo" fontRenderingMode="bitmap" width="167" height="10" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="188" ty="3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Logged in as: chris@lol.dk</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter blurX="10" blurY="10" distance="0" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Login/logoutbtwn" name="logout_btn" symbolType="button" centerPoint3DX="43.8" centerPoint3DY="8">
+                  <matrix>
+                    <Matrix a="0.8331298828125" d="0.83331298828125"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="profilestate" fontRenderingMode="bitmap" width="86.35" height="10" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="95.65" ty="3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Profile is private</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter blurX="10" blurY="10" distance="0" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,71 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="profile_stats" itemID="508f8ea6-000003b2" linkageExportForAS="true" linkageClassName="assets_profilestats" lastModified="1528053282" lastUniqueIdentifier="9">
+  <timeline>
+    <DOMTimeline name="profile_stats">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_level" left="51.9" width="56" height="12.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-21.9" ty="4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>level 1</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="11.25" size="9" bitmapSize="180" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="tf_woots" left="51.9" width="56" height="12.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-21.9" ty="24"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>135</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="11.25" size="9" bitmapSize="180" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="tf_woots_total" left="51.9" width="56" height="11.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-21.9" ty="44"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>10563016</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="11.25" size="9" bitmapSize="180" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MagicAnim" name="magicanim" centerPoint3DX="11.05" centerPoint3DY="30.7">
+                  <matrix>
+                    <Matrix tx="5" ty="25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.05" y="5.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,250 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="BackgroundOptions/bgsettings" itemID="5522a165-000003bc" linkageExportForAS="true" linkageClassName="assets_bgsettings" lastModified="1528053430" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="bgsettings">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="BackgroundOptions/Box" centerPoint3DX="458.25" centerPoint3DY="211.4">
+                  <matrix>
+                    <Matrix a="0.845016479492188" d="1.33795166015625" tx="186.6" ty="130.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="13" blurY="13" color="#000000" quality="3" strength="0.77"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMStaticText left="-37.85" width="457.95" height="22.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="226.7" ty="141.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Background Settings</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="22.5" size="18" bitmapSize="360" face="NokiaCellphoneFC-Small" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText left="-9.35" width="145" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="220.45" ty="260.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Most recent colors:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineHeight="15" bitmapSize="240" face="NokiaCellphoneFC-Small" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="BackgroundOptions/divider" name="divider">
+                  <matrix>
+                    <Matrix a="1.21269226074219" tx="220.9" ty="172.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText left="56.15" width="31.7" height="15" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="152.05" ty="191.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Hex:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="15" bitmapSize="240" face="NokiaCellphoneFC-Small" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="input_bg" name="bg_mail" centerPoint3DX="258.45" centerPoint3DY="225.05">
+                  <matrix>
+                    <Matrix a="0.355621337890625" d="0.815475463867188" tx="209.1" ty="209.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="138.75" y="18.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMInputText name="input_hex" width="88.85" height="23.45" maxCharacters="7" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="214.1" ty="214.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>#000000</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="22.35" size="20" bitmapSize="400" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMSymbolInstance libraryItemName="BackgroundOptions/CheckBox" name="background_checkbox" centerPoint3DX="213.5" centerPoint3DY="328.3">
+                  <matrix>
+                    <Matrix a="1.35594177246094" d="1.35595703125" tx="207.6" ty="322.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#000000" inner="true" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMStaticText width="124.55" height="12.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="228.4" ty="325.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Enable background.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineHeight="12.5" size="10" bitmapSize="200" face="NokiaCellphoneFC-Small" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMDynamicText name="txt_status" fontRenderingMode="standard" left="30.55" width="458.3" height="16.25" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="157.1" ty="365.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Changed the background color!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="16.25" size="13" bitmapSize="260" face="NokiaCellphoneFC-Small" fillColor="#00CC00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="BackgroundOptions/ColorPreview" name="colorPreview">
+                  <matrix>
+                    <Matrix a="0.910140991210938" d="1.2564697265625" tx="523.6" ty="263.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="86" y="61"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="100" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="208.2" ty="305.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Options:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineHeight="15" bitmapSize="240" face="NokiaCellphoneFC-Small" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMDynamicText name="hexLabel4" left="50.9" width="42.2" height="10" autoExpand="true" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="160" ty="279.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>#000000</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="10" size="8" bitmapSize="160" face="NokiaCellphoneFC-Small" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="hexLabel3" left="50.9" width="42.2" height="10" autoExpand="true" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="207.4" ty="279.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>#000000</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="10" size="8" bitmapSize="160" face="NokiaCellphoneFC-Small" fillColor="#838383"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="hexLabel2" left="50.9" width="42.2" height="10" autoExpand="true" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="254.8" ty="279.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>#000000</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="10" size="8" bitmapSize="160" face="NokiaCellphoneFC-Small" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="hexLabel1" left="50.9" width="42.2" height="10" autoExpand="true" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="302.2" ty="279.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>#000000</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="10" size="8" bitmapSize="160" face="NokiaCellphoneFC-Small" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="hexLabel0" left="50.9" width="42.2" height="10" autoExpand="true" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="349.6" ty="279.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>#000000</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="10" size="8" bitmapSize="160" face="NokiaCellphoneFC-Small" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="BackgroundOptions/Brightness Adjuster" name="brightnessAdjuster" centerPoint3DX="620.25" centerPoint3DY="265.1">
+                  <matrix>
+                    <Matrix a="0.759994506835938" d="0.911514282226563" tx="614.25" ty="189.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Shop/nothanks" name="closebtn" symbolType="button">
+                  <matrix>
+                    <Matrix a="1.41156005859375" d="1.41156005859375" tx="641.2" ty="129.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SmallSaveButton" name="btn_save" symbolType="button">
+                  <matrix>
+                    <Matrix tx="325.5" ty="212.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="BackgroundOptions/Colour Wheel" name="colorWheel" centerPoint3DX="526.7" centerPoint3DY="264.7">
+                  <matrix>
+                    <Matrix tx="451.9" ty="189.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

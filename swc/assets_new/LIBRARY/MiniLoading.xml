@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MiniLoading" itemID="55cf83a5-000004b5" linkageExportForAS="true" linkageClassName="assets_miniloading" lastModified="1545336896">
+  <timeline>
+    <DOMTimeline name="MiniLoading">
+      <layers>
+        <DOMLayer name="Laag 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="loadinganim">
+                  <matrix>
+                    <Matrix tx="-25.5" ty="-45.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="25"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFFFF" quality="3"/>
+                  </filters>
+                  <color>
+                    <Color redMultiplier="0.76171875" blueMultiplier="0.76171875" greenMultiplier="0.76171875" redOffset="61" blueOffset="61" greenOffset="61"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMStaticText width="100" height="17.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-49.5" ty="8.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Loading</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="17.5" size="14" bitmapSize="280" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

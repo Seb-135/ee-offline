@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Roomlist/room_divider" itemID="4fb20fe8-0000030b" lastModified="1522529133">
+  <timeline>
+    <DOMTimeline name="room_divider">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!6160 10[6160 6 6157 3!6157 3[6154 0 6150 0!6150 0|10 0!10 0[6 0 3 3!3 3[0 6 0 10!0 10[0 14 3 17!3 17[6 20 10 20!10 20|6150 20!6150 20[6154 20 6157 17!6157 17[6160 14 6160 10"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

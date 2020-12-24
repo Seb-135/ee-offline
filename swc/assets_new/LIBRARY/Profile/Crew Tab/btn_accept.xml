@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Profile/Crew Tab/btn_accept" itemID="55c882bb-000002b4" symbolType="button" lastModified="1439204783">
+  <timeline>
+    <DOMTimeline name="btn_accept">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.023468017578125" c="-0.0147247314453125" d="0" tx="90" ty="19.95"/>
+                        </matrix>
+                        <GradientEntry color="#33D52A" ratio="0"/>
+                        <GradientEntry color="#349127" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#25691C"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="2" edges="!3600 110[3600 0 3531 0!3531 0|69 0!69 0[0 0 0 110!0 110|0 690!0 690[0 800 69 800!69 800|3531 800!3531 800[3600 800 3600 690!3600 690|3600 110"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!3531 780|69 780!69 780[12 780 12 690!12 690|12 110!12 110[12 20 69 20!69 20|3531 20!3531 20[3588 20 3588 110!3588 110|3588 690!3588 690[3588 780 3531 780"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText selected="true" width="176" height="23.75" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.999969482421875" tx="2.2" ty="9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Accept</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="23.75" size="19" bitmapSize="380" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

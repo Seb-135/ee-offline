@@ -1,0 +1,60 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Settings/gameitem" itemID="559b8e2d-000006b6" lastModified="1601833403">
+  <timeline>
+    <DOMTimeline name="gameitem">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#111111"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" pixelHinting="true">
+                        <fill>
+                          <SolidColor color="#999999"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!1500 202|4560 202!4560 202[4600 202 4600 312!4600 312|4600 5812!4600 5812[4600 5892 4579 5914!4579 5914[4571 5922 4560 5922!4560 5922|40 5922!40 5922[0 5922 0 5812!0 5812|0 312!0 312[0 202 40 202!40 202|220 202"/>
+                    <Edge fillStyle1="1" edges="!220 202|1500 202"/>
+                    <Edge cubics="!40 202(;40,202 220,202 220,202q40 202 220 202);"/>
+                    <Edge cubics="!1500 202(;1500,202 4560,202 4560,202q1500 202 4560 202);"/>
+                    <Edge cubics="!220 202(;220,202 1500,202 1500,202q220 202 1500 202);"/>
+                    <Edge cubics="!4560 202(;4587,202 4600,238 4600,312q4560 202Q4600 202q4600 312);"/>
+                    <Edge cubics="!0 312(;0,238 13,202 40,202q0 312Q0 202q40 202);"/>
+                    <Edge cubics="!4600 312(;4600,312 4600,5812 4600,5812q4600 312 4600 5812);"/>
+                    <Edge cubics="!40 5922(;13,5922 0,5886 0,5812q40 5922Q0 5922q0 5812);"/>
+                    <Edge cubics="!0 5812(;0,5812 0,312 0,312q0 5812 0 312);"/>
+                    <Edge cubics="!4579 5914(;4574,5919 4567,5922 4560,5922q4579 5914Q4571 5922q4560 5922);"/>
+                    <Edge cubics="!4600 5812(;4600,5865 4593,5899 4579,5914q4600 5812Q4600 5892q4579 5914);"/>
+                    <Edge cubics="!4560 5922(;4560,5922 40,5922 40,5922q4560 5922 40 5922);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="58" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="15" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>General</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

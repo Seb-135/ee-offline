@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="BackgroundOptions/Colour Wheel Border" itemID="552284e5-000002df" lastModified="1528053368">
+  <timeline>
+    <DOMTimeline name="Colour Wheel Border">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor color="#666666"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!3063 1780[#BB0.9A #8D9.D2 2628 2628!2628 2628[2179 3080 1540 3080!1540 3080[901 3080 451 2628!451 2628[0 2179 0 1540!0 1540[0 901 451 451!451 451[#368.91 #1C.7F 1460 2!1460 2[#5DB.A 0 1540 0!1540 0[2179 0 2628 451!2628 451[3080 901 3080
+ 1540!3080 1540[3080 #67F.8F 3063 1780"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

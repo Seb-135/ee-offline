@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Login/Profile/Pages/Information/BetaInformation" itemID="56055b55-000002cc" linkageExportForAS="true" linkageClassName="assets_betainformation" lastModified="1545363388">
+  <timeline>
+    <DOMTimeline name="BetaInformation">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_text" fontRenderingMode="standard" width="453.95" height="17.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-8" ty="49"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USERNAME is a Beta member!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="17.5" size="14" bitmapSize="280" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Login/Profile/Pages/Information/Beta">
+                  <matrix>
+                    <Matrix tx="139"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="72" y="19.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

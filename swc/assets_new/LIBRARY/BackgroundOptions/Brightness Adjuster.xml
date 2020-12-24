@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="BackgroundOptions/Brightness Adjuster" itemID="5524d7ec-000000a3" lastModified="1528053347">
+  <timeline>
+    <DOMTimeline name="Brightness Adjuster">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="BackgroundOptions/Brightness Adjuster Fill" name="fill">
+                  <matrix>
+                    <Matrix a="0.75238037109375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.5" y="82.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="BackgroundOptions/Brightness Adjuster Border">
+                  <matrix>
+                    <Matrix a="0.75238037109375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.5" y="82.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

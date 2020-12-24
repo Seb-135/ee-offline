@@ -1,0 +1,87 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Profile/Crew Tab/acceptinvite" itemID="55c8825f-00000294" linkageExportForAS="true" linkageClassName="assets_acceptcrewinvite" lastModified="1439390404">
+  <timeline>
+    <DOMTimeline name="acceptinvite">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient>
+                            <matrix>
+                              <Matrix a="0.2142333984375" d="0.0006103515625" tx="175" ty="96"/>
+                            </matrix>
+                            <GradientEntry ratio="0"/>
+                            <GradientEntry color="#999999" ratio="0.498039215686275"/>
+                            <GradientEntry ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!0 1920|7000 1920"/>
+                  </edges>
+                </DOMShape>
+                <DOMDynamicText name="tf_title" fontRenderingMode="bitmap" width="346" height="29.5" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2" ty="12"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SUPERLONGUSERNAME has invited you to join SUPERLONGCREWNAME</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" lineHeight="13.75" size="11" bitmapSize="220" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="tf_error" fontRenderingMode="bitmap" width="346" height="23.2" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2" ty="103.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>There was an error accepting the invite.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Profile/Crew Tab/btn_accept" name="btn_accept" symbolType="button">
+                  <matrix>
+                    <Matrix tx="58.45" ty="48"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/Crew Tab/btn_reject" name="btn_reject" symbolType="button">
+                  <matrix>
+                    <Matrix tx="241.35" ty="49.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/Crew Tab/btn_block" name="btn_block" symbolType="button">
+                  <matrix>
+                    <Matrix tx="241.35" ty="70.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

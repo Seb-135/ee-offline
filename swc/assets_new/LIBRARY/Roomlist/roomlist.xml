@@ -1,0 +1,196 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Roomlist/roomlist" itemID="4d9dff0a-00001550" linkageExportForAS="true" linkageClassName="asset_roomlist" lastModified="1545590158">
+  <timeline>
+    <DOMTimeline name="roomlist">
+      <layers>
+        <DOMLayer name="Main" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="420" objectHeight="30" x="62.05" y="102.05" bottomLeftRadius="6" bottomRightRadius="6">
+                  <matrix>
+                    <Matrix d="1.0001220703125" tx="-62.05" ty="260.95"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#303030"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" pixelHinting="true">
+                      <fill>
+                        <SolidColor color="#FFFFFF"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMSymbolInstance libraryItemName="Roomlist/reload" name="btn_reload" centerPoint3DX="441.65" centerPoint3DY="379.6">
+                  <matrix>
+                    <Matrix tx="392.95" ty="370"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="48.7" y="9.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/loadfromid" name="btn_id" centerPoint3DX="17.15" centerPoint3DY="379.25">
+                  <matrix>
+                    <Matrix tx="9.9" ty="371.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.5" y="7.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMRectangleObject objectWidth="230" objectHeight="20" x="62.05" y="454" lockFlag="true" topLeftRadius="4" topRightRadius="4" bottomLeftRadius="4" bottomRightRadius="4">
+                  <matrix>
+                    <Matrix tx="-26.55" ty="-85.5"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMInputText name="tf_search" fontRenderingMode="bitmap" width="200" height="10">
+                  <matrix>
+                    <Matrix tx="44" ty="374"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Search...</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#666666"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="2">
+                            <fill>
+                              <SolidColor color="#666666"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                        <StrokeStyle index="2">
+                          <SolidStroke scaleMode="normal" weight="2.5">
+                            <fill>
+                              <SolidColor color="#666666"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!5140 7540[5140 7574 5117 7597!5117 7597[5094 7620 5060 7620!5060 7620[5026 7620 5003 7597!5003 7597[4980 7574 4980 7540!4980 7540[4980 7507 5003 7484!5003 7484[5026 7460 5060 7460!5060 7460[5094 7460 5117 7484!5117 7484[5140 7507 5140
+ 7540"/>
+                        <Edge strokeStyle="2" edges="
+!5200 7681|5125 7606"/>
+                        <Edge cubics="!5117 7484(;5132,7499 5140,7518 5140,7540q5117 7484Q5140 7507q5140 7540);"/>
+                        <Edge cubics="!5140 7540(;5140,7563 5132,7582 5117,7597q5140 7540Q5140 7574q5117 7597);"/>
+                        <Edge cubics="!5003 7484(;5018,7468 5037,7460 5060,7460q5003 7484Q5026 7460q5060 7460);"/>
+                        <Edge cubics="!5060 7620(;5037,7620 5018,7612 5003,7597q5060 7620Q5026 7620q5003 7597);"/>
+                        <Edge cubics="!4980 7540(;4980,7518 4988,7499 5003,7484q4980 7540Q4980 7507q5003 7484);"/>
+                        <Edge cubics="!5003 7597(;4988,7582 4980,7563 4980,7540q5003 7597Q4980 7574q4980 7540);"/>
+                        <Edge cubics="!5060 7460(;5083,7460 5102,7468 5117,7484q5060 7460Q5094 7460q5117 7484);"/>
+                        <Edge cubics="!5117 7597(;5102,7612 5083,7620 5060,7620q5117 7597Q5094 7620q5060 7620);"/>
+                        <Edge cubics="!5200 7681(;5200,7681 5125,7606 5125,7606q5200 7681 5125 7606);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMStaticText fontRenderingMode="bitmap" left="-5" width="41" height="10" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="277" ty="374"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Sort by:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Roomlist/roomlist_bg" name="bg" centerPoint3DX="150.05" centerPoint3DY="160">
+                  <matrix>
+                    <Matrix a="0.999954223632813" ty="38"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.05" y="122"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="269.999993169811" blurX="0" blurY="12" distance="4" quality="3" strength="0.75"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/sort_menu" name="sortMenu">
+                  <matrix>
+                    <Matrix tx="318" ty="368"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Bottom" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Tabs" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Roomlist/New Tabs/tab_play" name="tabPlay">
+                  <transformationPoint>
+                    <Point x="51.5" y="18"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/New Tabs/tab_sandbox" name="tabSandbox">
+                  <matrix>
+                    <Matrix tx="114"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="51.5" y="18"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/New Tabs/tab_build" name="tabBuild">
+                  <matrix>
+                    <Matrix tx="228"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="51.5" y="18"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/New Tabs/tab_favorites" name="tabFavorites">
+                  <matrix>
+                    <Matrix tx="342" ty="4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.5" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/New Tabs/tab_recent" name="tabRecent">
+                  <matrix>
+                    <Matrix tx="381" ty="4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.5" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

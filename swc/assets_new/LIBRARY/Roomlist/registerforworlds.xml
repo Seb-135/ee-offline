@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Roomlist/registerforworlds" itemID="5517e47d-000003bf" linkageExportForAS="true" linkageClassName="asset_registerforworlds" lastModified="1544233287">
+  <timeline>
+    <DOMTimeline name="registerforworlds">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.23846435546875" d="0.0006103515625" tx="194.95" ty="47.5"/>
+                        </matrix>
+                        <GradientEntry color="#838383" ratio="0"/>
+                        <GradientEntry color="#838383" ratio="0.701960784313725"/>
+                        <GradientEntry color="#838383" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!7800 940|0 940!0 940|0 960!0 960|7800 960!7800 960|7800 940"/>
+                    <Edge cubics="!7800 960(;7800,960 7800,940 7800,940q7800 960 7800 940);"/>
+                    <Edge cubics="!0 940(;0,940 0,960 0,960q0 940 0 960);"/>
+                    <Edge cubics="!0 960(;0,960 7800,960 7800,960q0 960 7800 960);"/>
+                    <Edge cubics="!7800 940(;7800,940 0,940 0,940q7800 940 0 940);"/>
+                  </edges>
+                </DOMShape>
+                <DOMDynamicText name="ltitle" width="286" height="32" antiAliasSharpness="200" antiAliasThickness="-100" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="52" ty="9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Want to save your awesome worlds?&#xD;Register an account today!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

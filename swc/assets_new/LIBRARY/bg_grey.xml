@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="bg_grey" itemID="4fb0b469-0000047d" lastModified="1336980975">
+  <timeline>
+    <DOMTimeline name="bg_grey">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#7B7B7B"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.00714111328125" c="-0.007476806640625" d="0" tx="16.3" ty="7.15"/>
+                        </matrix>
+                        <GradientEntry color="#323232" ratio="0"/>
+                        <GradientEntry color="#202120" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!630 265|20 265!20 265|20 20!20 20|630 20!630 20|630 265"/>
+                    <Edge fillStyle0="1" edges="!640 0|10 0!10 0[6 0 3 3!3 3[0 6 0 10!0 10|0 275!0 275[0 279 3 282!3 282[6 285 10 285!10 285|640 285!640 285[644 285 647 282!647 282[650 279 650 275!650 275|650 10!650 10[650 6 647 3!647 3[644 0 640 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

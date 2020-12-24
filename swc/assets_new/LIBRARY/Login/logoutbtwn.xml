@@ -1,0 +1,103 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Login/logoutbtwn" itemID="4d331aff-00002675" symbolType="button" lastModified="1417984432">
+  <timeline>
+    <DOMTimeline name="logoutbtwn">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.031280517578125" c="-0.01171875" d="0" tx="22.15" ty="9.6"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.2" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#E1A91F" alpha="0"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 84|0 45!0 45[0 0 43 0!43 0/2048 0!2048 0[2092 0 2092 45!2092 45/2092 47!2092 47/2092 84"/>
+                    <Edge fillStyle1="2" edges="!2092 84/2092 131!2092 131[2020 104 1926 105!1926 105[1869 107 1735 125!1735 125[1676 132 1004 138!1004 138[486 142 294 142!294 142[147 143 0 112!0 112|0 84"/>
+                    <Edge cubics="!2092 131(;2092,131 2092,84 2092,84p2092 131q2092 84);"/>
+                    <Edge cubics="!2092 45(;2092,15 2077,0 2048,0q2092 45Q2092 0q2048 0);"/>
+                    <Edge cubics="!2092 47(;2092,47 2092,45 2092,45q2092 47 2092 45);"/>
+                    <Edge cubics="!2092 84(;2092,84 2092,47 2092,47q2092 84 2092 47);"/>
+                    <Edge cubics="!1735 125(;1831,112 1895,106 1926,105q1735 125Q1869 107q1926 105);"/>
+                    <Edge cubics="!294 142(;359,142 1642,136 1735,125q294 142Q486 142q1004 138Q1676 132q1735 125);"/>
+                    <Edge cubics="!0 112(;98,133 196,143 294,142q0 112Q147 143q294 142);"/>
+                    <Edge cubics="!0 84(;0,84 0,112 0,112q0 84 0 112);"/>
+                    <Edge cubics="!0 45(;0,45 0,84 0,84q0 45 0 84);"/>
+                    <Edge cubics="!43 0(;14,0 0,15 0,45q43 0Q0 0q0 45);"/>
+                    <Edge cubics="!1926 105(;1990,104 2045,113 2092,131q1926 105Q2020 104q2092 131);"/>
+                    <Edge cubics="!0 84(;0,84 2092,84 2092,84q0 84 2092 84);"/>
+                    <Edge cubics="!2048 0(;2048,0 43,0 43,0q2048 0 43 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="3.0517578125e-05" b="0.01190185546875" c="-0.01171875" d="4.57763671875e-05" tx="22.2" ty="9.75"/>
+                        </matrix>
+                        <GradientEntry color="#5F5F5F" ratio="0"/>
+                        <GradientEntry ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#666666"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!2104 45[2104 0 2060 0!2060 0/43 0!43 0[0 0 0 45!0 45|0 341!0 341[0 384 43 384!43 384/2060 384!2060 384[2104 384 2104 341!2104 341/2104 45"/>
+                    <Edge cubics="!2104 45(;2104,15 2089,0 2060,0q2104 45Q2104 0q2060 0);"/>
+                    <Edge cubics="!2104 341(;2104,341 2104,45 2104,45q2104 341 2104 45);"/>
+                    <Edge cubics="!2060 384(;2089,384 2104,370 2104,341q2060 384Q2104 384q2104 341);"/>
+                    <Edge cubics="!0 341(;0,370 14,384 43,384q0 341Q0 384q43 384);"/>
+                    <Edge cubics="!0 45(;0,45 0,341 0,341q0 45 0 341);"/>
+                    <Edge cubics="!43 0(;14,0 0,15 0,45q43 0Q0 0q0 45);"/>
+                    <Edge cubics="!43 384(;43,384 2060,384 2060,384q43 384 2060 384);"/>
+                    <Edge cubics="!2060 0(;2060,0 43,0 43,0q2060 0 43 0);"/>
+                  </edges>
+                </DOMShape>
+                <DOMDynamicText name="tf" width="126" height="17.5" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.729095458984375" d="0.729095458984375" tx="6.95" ty="3.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Logout</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="17.5" size="14" bitmapSize="280" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

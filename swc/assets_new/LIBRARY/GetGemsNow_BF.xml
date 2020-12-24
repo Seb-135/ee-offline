@@ -1,0 +1,112 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="GetGemsNow_BF" itemID="5bfcac1e-0000038d" lastModified="1543285797">
+  <timeline>
+    <DOMTimeline name="GetGemsNow_BF">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="85.2" height="12.55" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix c="-0.191024780273438" d="1.08323669433594" tx="198.4" ty="165.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="98.1" y="7.95"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>+10 bonus!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="0.5" lineHeight="12.55" size="11" bitmapSize="220" face="ArialBold*" fillColor="#0099FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="85.2" height="12.55" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix c="-0.191024780273438" d="1.08323669433594" tx="198.4" ty="195.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="98.1" y="7.95"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>+20 bonus!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="0.5" lineHeight="12.55" size="11" face="ArialBold*" fillColor="#0099FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="85.2" height="12.55" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix c="-0.191024780273438" d="1.08323669433594" tx="198.4" ty="225.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="98.1" y="7.95"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>+40 bonus!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="0.5" lineHeight="12.55" size="11" face="ArialBold*" fillColor="#0099FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="85.2" height="12.55" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix c="-0.191024780273438" d="1.08323669433594" tx="198.4" ty="255.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="98.1" y="7.95"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>+100 bonus!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="0.5" lineHeight="12.55" size="11" face="ArialBold*" fillColor="#0099FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="85.2" height="12.55" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix c="-0.191024780273438" d="1.08323669433594" tx="198.4" ty="311.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="98.1" y="7.95"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>+200 bonus!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="0.5" lineHeight="12.55" size="11" bitmapSize="220" face="ArialBold*" fillColor="#0099FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="196" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix c="-0.199691772460938" d="1.1318359375" tx="262.45" ty="114.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="98.15" y="7.95"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>BLACK FRIDAY SALE!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" letterSpacing="1" lineHeight="15.6" size="14" face="ArialBold*" fillColor="#0099FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

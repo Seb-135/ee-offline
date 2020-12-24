@@ -1,0 +1,73 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Lobby/Inbox/message" itemID="55cffdaa-00000244" linkageExportForAS="true" linkageClassName="assets_message" lastModified="1545605758">
+  <timeline>
+    <DOMTimeline name="message" currentFrame="1">
+      <layers>
+        <DOMLayer name="Message Header" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Lobby/Inbox/messageHeader" name="messageHeader">
+                  <matrix>
+                    <Matrix a="1.00411987304688"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="243.5" y="22.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Message Container" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Lobby/Inbox/messagecontainer" name="messageContainer" hasAccessibleData="true" bits32="false">
+                  <matrix>
+                    <Matrix tx="10" ty="52.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-7" y="-17"/>
+                  </transformationPoint>
+                  <MatteColor/>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Lobby/Inbox/btn_delete" name="btn_delete" symbolType="button">
+                  <matrix>
+                    <Matrix tx="359.75" ty="133"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.6" y="12.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Lobby/Inbox/btn_reply" name="btn_reply" symbolType="button">
+                  <matrix>
+                    <Matrix tx="289.5" ty="133"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="msg_text" width="408.95" height="65" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="14" ty="59"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Hey... there's totally not a gem code hidden here somewhere...</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.7" bitmapSize="240" face="ArialBold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

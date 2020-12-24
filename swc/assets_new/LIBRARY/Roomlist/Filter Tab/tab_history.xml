@@ -1,0 +1,91 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Roomlist/Filter Tab/tab_history" itemID="58e9840b-000002c9" lastModified="1492113539">
+  <timeline>
+    <DOMTimeline name="tab_history" currentFrame="2">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="29" objectHeight="15" x="74" y="54" topRightRadius="3">
+                  <matrix>
+                    <Matrix tx="-74" ty="-54"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#333333"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" joints="miter">
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMBitmapInstance libraryItemName="clock.png">
+                  <matrix>
+                    <Matrix tx="8" ty="1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="29" objectHeight="15" x="74" y="54" topRightRadius="3">
+                  <matrix>
+                    <Matrix tx="-74" ty="-54"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#666666"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" joints="miter">
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMBitmapInstance libraryItemName="clock.png">
+                  <matrix>
+                    <Matrix tx="8" ty="1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="29" objectHeight="15" x="74" y="54" topRightRadius="3">
+                  <matrix>
+                    <Matrix tx="-74" ty="-54"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#444444"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" joints="miter">
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMBitmapInstance libraryItemName="clock.png">
+                  <matrix>
+                    <Matrix tx="8" ty="1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

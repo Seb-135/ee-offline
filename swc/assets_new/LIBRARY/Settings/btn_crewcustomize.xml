@@ -1,0 +1,80 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Settings/btn_crewcustomize" itemID="55b44eb4-00000536" symbolType="button" lastModified="1437880104">
+  <timeline>
+    <DOMTimeline name="btn_crewcustomize">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#7A7A7A"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#222222"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!4000 69[4000 0 3924 0!3924 0|76 0!76 0[0 0 0 69!0 69|0 431!0 431[0 500 76 500!76 500|3924 500!3924 500[4000 500 4000 431!4000 431|4000 69"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!3986 431[3986 488 3924 488!3924 488|76 488!76 488[14 488 14 431!14 431|14 69!14 69[14 13 76 13!76 13|3924 13!3924 13[3986 13 3986 69!3986 69|3986 431"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="196" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="4.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Customize Crew Profile</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#7A7A7A"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#444444"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!4000 69[4000 0 3924 0!3924 0|76 0!76 0[0 0 0 69!0 69|0 431!0 431[0 500 76 500!76 500|3924 500!3924 500[4000 500 4000 431!4000 431|4000 69"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!3986 431[3986 488 3924 488!3924 488|76 488!76 488[14 488 14 431!14 431|14 69!14 69[14 13 76 13!76 13|3924 13!3924 13[3986 13 3986 69!3986 69|3986 431"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="196" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="4.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Customize Crew Profile</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

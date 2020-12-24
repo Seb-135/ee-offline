@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shop/newshop/old/item_energy_bg" itemID="5024b5eb-000003ea" scaleGridLeft="3.55" scaleGridRight="27.5" scaleGridTop="3.4" scaleGridBottom="5.3" lastModified="1344583180">
+  <timeline>
+    <DOMTimeline name="item_energy_bg">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#202020"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none">
+                        <fill>
+                          <SolidColor color="#666666"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!733 0|733 116!733 116[733 141 715 159!715 159[698 176 673 176!673 176|10 176"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!10 176|10 60!10 60[10 35 27 18!27 18[45 0 70 0!70 0|733 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

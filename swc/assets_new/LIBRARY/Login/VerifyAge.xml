@@ -1,0 +1,234 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Login/VerifyAge" itemID="4d078e87-000018c9" linkageExportForAS="true" linkageClassName="VerifyAge" lastModified="1528054763" lastUniqueIdentifier="13">
+  <timeline>
+    <DOMTimeline name="VerifyAge">
+      <layers>
+        <DOMLayer name="Layer 11" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="420.95" height="13.7" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="17" ty="120"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Warning</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.7" bitmapSize="240" face="ArialBold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="432" height="44.05" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="22" ty="135"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The chat might not be appropriate for children! &#xD;If you are a parent and your child is below the </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.35" bitmapSize="240" face="ArialReg*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>age of 13</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.35" bitmapSize="240" face="ArialReg*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> we highly recommend that you do </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.35" bitmapSize="240" face="ArialReg*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>not</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.35" bitmapSize="240" face="ArialReg*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> enable the chat</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.35" bitmapSize="240" face="ArialReg*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="435.95" height="105.45" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="22" ty="247"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>By clicking the below button you acknowledge the following:&#xD;&#xD;1: The purchaser of this transaction takes full responsibility for this account.&#xD;2: You agree that the account will not be used to harness or threaten other players. &#xD;3: That the account will have its ability to chat removed permanently if any form of chat abuse occurs via it.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.35" bitmapSize="240" face="ArialReg*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="420.95" height="13.7" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="17" ty="232"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Terms</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.7" bitmapSize="240" face="ArialBold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Shop/Verifynow" name="verifybtn" symbolType="button">
+                  <matrix>
+                    <Matrix a="1.6771240234375" d="1.6771240234375" tx="166.6" ty="362.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="279.7" height="11.15" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="92" ty="405"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Verification is done by paying 3 $ using a credit card or PayPal.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="11.15" size="10" bitmapSize="200" face="ArialReg*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="118.4" height="18.75" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="16.2" ty="91"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Enable chat?</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="18.75" size="15" bitmapSize="300" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="273.75" height="16.8" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="93" ty="199"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Click here to learn why we are doing this.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-1" lineHeight="16.8" size="15" bitmapSize="300" face="ArialReg*" fillColor="#0099FF" target="_blank" url="http://everybodyedits.wordpress.com/2010/12/14/parental-control/"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shop/nothanks" name="closebtn" symbolType="button" centerPoint3DX="471.95" centerPoint3DY="79.3">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="471.95" ty="79.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 10" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 9" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#808080">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Login/bg" centerPoint3DX="299.95" centerPoint3DY="176.25">
+                  <matrix>
+                    <Matrix d="3.96661376953125" tx="-0.05" ty="107.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="236" y="-7"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="10" blurY="10" distance="0" quality="3" strength="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="bitmap" width="63.25" height="13.35" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="204.35" ty="336.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Loading</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" lineHeight="13.35" bitmapSize="240" face="ArialReg*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.498039215686275"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!13171 13281|-3829 13281!-3829 13281|-3829 0!-3829 0|13171 0!13171 0|13171 13281"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

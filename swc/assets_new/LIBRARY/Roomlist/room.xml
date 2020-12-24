@@ -1,0 +1,163 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Roomlist/room" itemID="4be55d24-00001b91" linkageExportForAS="true" linkageClassName="asset_roominstance" lastModified="1545493843" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="room">
+      <layers>
+        <DOMLayer name="Layer_4" color="#FF4FFF" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="full" width="59.1" height="20" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.729095458984375" d="0.729095458984375" tx="345.45" ty="11.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Full</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="20" size="16" bitmapSize="320" face="system*" fillColor="#EE3C32"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="144.999994308176" blurX="1" blurY="1" color="#4F0300" distance="1"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.23846435546875" d="0.0006103515625" tx="194.95" ty="35.5"/>
+                        </matrix>
+                        <GradientEntry color="#838383" ratio="0"/>
+                        <GradientEntry color="#838383" ratio="0.701960784313725"/>
+                        <GradientEntry color="#838383" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!7800 700|0 700!0 700|0 720!0 720|7800 720!7800 720|7800 700"/>
+                    <Edge cubics="!7800 720(;7800,720 7800,700 7800,700q7800 720 7800 700);"/>
+                    <Edge cubics="!0 700(;0,700 0,720 0,720q0 700 0 720);"/>
+                    <Edge cubics="!0 720(;0,720 7800,720 7800,720q0 720 7800 720);"/>
+                    <Edge cubics="!7800 700(;7800,700 0,700 0,700q7800 700 0 700);"/>
+                  </edges>
+                </DOMShape>
+                <DOMDynamicText name="ltitle" width="171.45" height="15" antiAliasSharpness="200" antiAliasThickness="-100" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="21" ty="4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-2" y="7.5"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>My awesome room</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.75" size="11" bitmapSize="220" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="lonline" width="256.05" height="10" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.02294921875" tx="35.05" ty="20"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.7" y="5"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>22 Online</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#835800"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Roomlist/assets/favstar" name="favstar">
+                  <matrix>
+                    <Matrix ty="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8" y="8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/playbtn" name="btn_play" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix tx="344" ty="7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="mine" name="mine">
+                  <matrix>
+                    <Matrix tx="1" ty="19"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17" y="6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="beta" name="beta">
+                  <matrix>
+                    <Matrix tx="1" ty="19"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="15" y="5.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/assets/campaignTag" name="campaignTag">
+                  <matrix>
+                    <Matrix tx="1" ty="19"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26" y="5.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="infobtn" name="btn_info" symbolType="button">
+                  <matrix>
+                    <Matrix tx="325" ty="18"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 0S2|7800 0!7800 0|7800 720!7800 720|0 720!0 720|0 0"/>
+                    <Edge cubics="!7800 0(;7800,0 7800,720 7800,720q7800 0 7800 720);"/>
+                    <Edge cubics="!0 720(;0,720 0,0 0,0q0 720 0 0);"/>
+                    <Edge cubics="!7800 720(;7800,720 0,720 0,720q7800 720 0 720);"/>
+                    <Edge cubics="!0 0(;0,0 7800,0 7800,0q0 0 7800 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

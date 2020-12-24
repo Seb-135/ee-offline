@@ -1,0 +1,102 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="universe_info" itemID="5c158271-00000c0e" linkageExportForAS="true" linkageClassName="assets_universe_info" lastModified="1546217980">
+  <timeline>
+    <DOMTimeline name="universe_info">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="bitmap" width="261" height="20" antiAliasSharpness="200" antiAliasThickness="-100" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="17" ty="23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Everybody Edits Universe!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineSpacing="1" lineHeight="20" size="16" bitmapSize="320" face="system*" fillColor="#FBC52E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="bitmap" width="351" height="90" antiAliasSharpness="200" antiAliasThickness="-100" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="17" ty="59"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>In early 2019, we're launching the spiritual successor to EE! With more modern tools and fewer restrictions, we'll have the flexibility to make a more intuitive and fun game for everybody to enjoy!&#xD;&#xD;Even though this means we won't be transferring worlds over to EE Universe, you can reserve your current username and email, and we'll be compensating your account in the new game, so you're able to purchase whatever you like as soon as we open shop! We hope to make the transition as smooth as possible!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineSpacing="0" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="btnSupportUs" name="btn_support" symbolType="button">
+                  <matrix>
+                    <Matrix tx="269.5" ty="166"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="12" blurY="12" color="#F96854" quality="2" strength="0.2"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMBitmapInstance libraryItemName="universe-decal.png">
+                  <matrix>
+                    <Matrix tx="288" ty="6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="btn_optin" name="btn_optin">
+                  <matrix>
+                    <Matrix tx="16" ty="164"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="52.5" y="11"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="tf_optin" fontRenderingMode="bitmap" width="116" height="21" antiAliasSharpness="200" antiAliasThickness="-100" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="129" ty="165"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>...</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineSpacing="1" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#835801"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="385" objectHeight="206" x="478" y="56.05" selected="true" lockFlag="true" topLeftRadius="6" topRightRadius="6" bottomLeftRadius="6" bottomRightRadius="6">
+                  <matrix>
+                    <Matrix a="0.999984741210938" tx="-478" ty="-56.05"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#181818"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" pixelHinting="true">
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

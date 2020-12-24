@@ -1,0 +1,177 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Endscreen/LevelComplete" itemID="4fc8d01f-00000344" linkageExportForAS="true" linkageClassName="assets_complete" lastModified="1528053692" lastUniqueIdentifier="11">
+  <timeline>
+    <DOMTimeline name="LevelComplete">
+      <layers>
+        <DOMLayer name="Layer 7" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_completed" width="446.95" height="15.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="109" ty="99.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>You completed this world.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialReg*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Profile/CloseBtn" name="btn_close" symbolType="button">
+                  <matrix>
+                    <Matrix tx="575" ty="32.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="495.95" height="25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="87" ty="67.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Congratulations!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="25" size="20" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="headanimation" centerPoint3DX="340.35" centerPoint3DY="217.35">
+                  <matrix>
+                    <Matrix tx="340.35" ty="217.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2735.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Endscreen/wootupbtn" name="btn_like" centerPoint3DX="458.9" centerPoint3DY="325.85">
+                  <matrix>
+                    <Matrix tx="349.5" ty="309"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="109.4" y="16.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Endscreen/favoritebtn" name="btn_favorite">
+                  <matrix>
+                    <Matrix tx="224" ty="308"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="54.5" y="39"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="headanimation" name="headanimation" centerPoint3DX="340.35" centerPoint3DY="217.35">
+                  <matrix>
+                    <Matrix tx="340.35" ty="217.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2735.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="empty" name="starholder">
+                  <matrix>
+                    <Matrix tx="340" ty="225"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="light" centerPoint3DX="340.9" centerPoint3DY="224.7">
+                  <matrix>
+                    <Matrix tx="340.9" ty="224.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.4609375"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="btnSubscribe" name="btnSubscribe">
+                  <matrix>
+                    <Matrix tx="224" ty="393.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="109.4" y="16.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Endscreen/bg_transparent" name="bg" centerPoint3DX="335" centerPoint3DY="84.65">
+                  <matrix>
+                    <Matrix a="1.059326171875" d="4.6484375" tx="85" ty="42"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#808080">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.8"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!17000 10000|0 10000!0 10000|0 0!0 0|17000 0!17000 0|17000 10000"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

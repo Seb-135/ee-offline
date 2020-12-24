@@ -1,0 +1,116 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shop/openshop" itemID="4e95980f-00000958" symbolType="button" lastModified="1544229102">
+  <timeline>
+    <DOMTimeline name="openshop">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.031280517578125" c="-0.01171875" d="0" tx="22.15" ty="9.6"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.2" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.013580322265625" c="-0.01171875" d="0" tx="22.15" ty="6.55"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.2" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="2" edges="!2088 84/2088 131!2088 131[2016 104 1922 105!1922 105[1865 107 1731 125!1731 125[1672 132 1002 138!1002 138[485 142 294 142!294 142[147 143 0 112!0 112|0 84"/>
+                    <Edge fillStyle1="1" edges="!0 84|0 45!0 45[0 0 43 0!43 0/2044 0!2044 0[2088 0 2088 45!2088 45/2088 47!2088 47/2088 84"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!0 84/2088 84"/>
+                    <Edge cubics="!2088 131(;2088,131 2088,84 2088,84p2088 131q2088 84);"/>
+                    <Edge cubics="!2088 45(;2088,15 2073,0 2044,0q2088 45Q2088 0q2044 0);"/>
+                    <Edge cubics="!2088 47(;2088,47 2088,45 2088,45q2088 47 2088 45);"/>
+                    <Edge cubics="!2088 84(;2088,84 2088,47 2088,47q2088 84 2088 47);"/>
+                    <Edge cubics="!1731 125(;1827,112 1891,106 1922,105q1731 125Q1865 107q1922 105);"/>
+                    <Edge cubics="!294 142(;359,142 1638,136 1731,125q294 142Q485 142q1002 138Q1672 132q1731 125);"/>
+                    <Edge cubics="!0 112(;98,133 196,143 294,142q0 112Q147 143q294 142);"/>
+                    <Edge cubics="!0 84(;0,84 0,112 0,112q0 84 0 112);"/>
+                    <Edge cubics="!0 45(;0,45 0,84 0,84q0 45 0 84);"/>
+                    <Edge cubics="!43 0(;14,0 0,15 0,45q43 0Q0 0q0 45);"/>
+                    <Edge cubics="!1922 105(;1986,104 2041,113 2088,131q1922 105Q2016 104q2088 131);"/>
+                    <Edge cubics="!0 84(;0,84 2088,84 2088,84q0 84 2088 84);"/>
+                    <Edge cubics="!2044 0(;2044,0 43,0 43,0q2044 0 43 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.031280517578125" c="-0.01171875" d="0" tx="22.15" ty="9.6"/>
+                        </matrix>
+                        <GradientEntry color="#666666" ratio="0"/>
+                        <GradientEntry ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2" pixelHinting="true">
+                        <fill>
+                          <LinearGradient>
+                            <matrix>
+                              <Matrix a="0" b="-0.0142822265625" c="0.01171875" d="0" tx="82.25" ty="9.6"/>
+                            </matrix>
+                            <GradientEntry color="#006D10" ratio="0"/>
+                            <GradientEntry color="#2EFF00" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!2088 45[2088 0 2044 0!2044 0/43 0!43 0[0 0 0 45!0 45|0 341!0 341[0 384 43 384!43 384/2044 384!2044 384[2088 384 2088 341!2088 341/2088 45"/>
+                    <Edge cubics="!2088 45(;2088,15 2073,0 2044,0q2088 45Q2088 0q2044 0);"/>
+                    <Edge cubics="!2088 341(;2088,341 2088,45 2088,45q2088 341 2088 45);"/>
+                    <Edge cubics="!2044 384(;2073,384 2088,370 2088,341q2044 384Q2088 384q2088 341);"/>
+                    <Edge cubics="!0 341(;0,370 14,384 43,384q0 341Q0 384q43 384);"/>
+                    <Edge cubics="!0 45(;0,45 0,341 0,341q0 45 0 341);"/>
+                    <Edge cubics="!43 0(;14,0 0,15 0,45q43 0Q0 0q0 45);"/>
+                    <Edge cubics="!43 384(;43,384 2044,384 2044,384q43 384 2044 384);"/>
+                    <Edge cubics="!2044 0(;2044,0 43,0 43,0q2044 0 43 0);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="135.45" height="17.5" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.729095458984375" d="0.729095458984375" tx="2.4" ty="3.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Open Shop</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="17.5" size="14" bitmapSize="280" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

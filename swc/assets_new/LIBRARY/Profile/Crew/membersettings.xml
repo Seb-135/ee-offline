@@ -1,0 +1,182 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Profile/Crew/membersettings" itemID="55bb5ccd-00000426" linkageExportForAS="true" linkageClassName="assets_membersettings" lastModified="1528052504">
+  <timeline>
+    <DOMTimeline name="membersettings">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.501960784313725"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 0|17000 0!17000 0|17000 10000!17000 10000|0 10000!0 10000|0 0"/>
+                    <Edge cubics="!17000 0(17000,0;17000,0 17000,10000 17000,10000q17000 0 17000 10000)17000,10000;"/>
+                    <Edge cubics="!0 10000(0,10000;0,10000 0,0 0,0q0 10000 0 0)0,0;"/>
+                    <Edge cubics="!0 0(0,0;0,0 17000,0 17000,0q0 0 17000 0)17000,0;"/>
+                    <Edge cubics="!17000 10000(;17000,10000 0,10000 0,10000q17000 10000 0 10000);"/>
+                  </edges>
+                </DOMShape>
+                <DOMRectangleObject objectWidth="400" objectHeight="278.05" x="172" y="44" lockFlag="true" topLeftRadius="5" topRightRadius="5" bottomLeftRadius="5" bottomRightRadius="5">
+                  <matrix>
+                    <Matrix a="1.10113525390625" d="0.9169921875" tx="11.1" ty="76.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="177" y="44"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#111111"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="1.5">
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMStaticText width="436.45" height="18.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="203" ty="126.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Member Settings</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="18.75" size="15" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="90" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="220" ty="230.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Description:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="input_bg">
+                  <matrix>
+                    <Matrix a="1.45527648925781" d="1.61799621582031" tx="218" ty="250.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMInputText name="descriptionBox" width="397" height="53" maxCharacters="100" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="222" ty="255.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>I'm a nub.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialReg*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMDynamicText name="usernameText" left="-59" width="436.45" height="13.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="262" ty="151.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USERNAME</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="13.75" size="11" bitmapSize="220" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Profile/Crew/btn_remove" name="btn_remove" symbolType="button">
+                  <matrix>
+                    <Matrix tx="534" ty="336.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="44" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="220" ty="173.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Rank:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMDynamicText name="chars" width="137.6" height="13.35" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="219.3" ty="314.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>0 of 100 characters</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineHeight="13.35" bitmapSize="240" face="ArialReg*" fillColor="#00FF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Profile/Crew/savebtn" name="btn_save">
+                  <matrix>
+                    <Matrix tx="218.2" ty="336.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="44.75" y="13.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/Crew/ScrollContainer" name="dropdownContainer" selected="true">
+                  <matrix>
+                    <Matrix tx="220" ty="214.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="199" y="67"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="input_bg">
+                  <matrix>
+                    <Matrix a="1.44606018066406" d="0.657501220703125" tx="218" ty="191.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/Crew/tfContainer" name="btn_dropdown">
+                  <matrix>
+                    <Matrix tx="220.9" ty="194.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="198.15" y="8.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Shop/nothanks" name="btn_close" symbolType="button">
+                  <matrix>
+                    <Matrix a="1.5" d="1.49626159667969" tx="640.5" ty="118.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

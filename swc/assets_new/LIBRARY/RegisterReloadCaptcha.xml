@@ -1,0 +1,49 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="RegisterReloadCaptcha" itemID="5793c04d-00000e6d" symbolType="button" lastModified="1469301041" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="RegisterReloadCaptcha" currentFrame="1">
+      <layers>
+        <DOMLayer name="Laag 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="reloadsymbol">
+                  <matrix>
+                    <Matrix a="2.76742553710938" d="2.76742553710938" ty="0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.6" y="4.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#454545" alpha="0"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-133 -158|732 -158!732 -158|732 661!732 661|-133 661!-133 661|-133 -158"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="reloadsymbol" centerPoint3DX="13.05" centerPoint3DY="10.95">
+                  <matrix>
+                    <Matrix a="2.76742553710938" d="2.76742553710938" ty="0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.6" y="4.1"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="0.86"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

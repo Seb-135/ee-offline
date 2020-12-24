@@ -1,0 +1,833 @@
+﻿assets_new.swf Movie Report
+-----------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1         284519         284519    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                 67465
+
+Symbol                         Shape Bytes    Text Bytes    ActionScript Bytes
+---------------------------    -----------    ----------    ------------------
+ActivateEmailWindow                      0           218                     0
+LoginBackground                         81             0                     0
+input_bg                                83             0                     0
+OkButton                               125            58                     0
+ResendActivationEmail                    0            43                     0
+CloseBtn                                 0             0                     0
+AddEnergyNow                             0             0                     0
+Arrow                                    0             0                     0
+arrow_xsmall                             0             0                     0
+asset_guestwelcome                       0           153                     0
+bg                                     167             0                     0
+asset_reopen_armorgames                 54            33                     0
+assets_cursecounter                      0            83                     0
+assets_multijumpcounter                 39            83                     0
+assets_zombiesvshumans                   0            84                     0
+BackgroundColorSelector                  0           604                     0
+CheckBox                                88             0                     0
+ColorPreview                             0             0                     0
+Brightness Adjuster                      0             0                     0
+Arrow                                    0             0                     0
+bgsettings                               0           822                     0
+Box                                     49             0                     0
+divider                                 64             0                     0
+nothanks                               121             0                     0
+SmallSaveButton                          0            30                     0
+Colour Wheel                             0             0                     0
+bgsettings_profile                      39           220                     0
+disabledOverlay                         38            56                     0
+Brightness Adjuster Fill                 0             0                     0
+Brightness Adjuster Border              25             0                     0
+Brightness Adjuster Arrow                0             0                     0
+Color Preview Border                    25             0                     0
+Color Preview Fill                      19             0                     0
+color_wheel                              0             0                     0
+Colour Wheel Border                      0             0                     0
+Colour Wheel Fill                        0             0                     0
+badge_border                             0             0                     0
+beta                                    96             0                     0
+betaonlybtn                              0             0                     0
+bg_grey                                  0             0                     0
+bg_grey_light                            0             0                     0
+BlackBackground                          0             0                     0
+BlueBtn_Bg                              69             0                     0
+bottom                                   0             0                     0
+bottom copy 2                            0             0                     0
+bottom2                                  0             0                     0
+Brightness Adjuster Arrow                0             0                     0
+btn_activate                             0             0                     0
+btn_cancel                              55            31                     0
+btn_confirm                              0            32                     0
+btn_confirm2                             0            95                     0
+btn_confirm2_btn                         0             0                     0
+btn_createlevel                         38            34                     0
+btn_delete                              92            62                     0
+btn_FBShare                              0             0                     0
+btn_login                               47            72                     0
+btn_minus                                0            92                     0
+btn_no                                  57            29                     0
+btn_nothanks                             0             0                     0
+btn_openlevel                            0            33                     0
+btn_optin                              132            94                     0
+btn_plus                                 0            92                     0
+btn_reloadpage                           0            33                     0
+btn_retry                                0            86                     0
+reloadsymbol                            41             0                     0
+btn_subscribe                           54            33                     0
+btn_timetrials                          63            33                     0
+btn_unsubscribe                         56            34                     0
+btn_yes                                 55            30                     0
+btnBuy                                   0             0                     0
+btnGetGems                             200            64                     0
+btnPlay                                  0             0                     0
+btns_info                                0             0                     0
+btnShowProfile                           0             0                     0
+btnstart                                 0             0                     0
+btnSubscribe                             0           105                     0
+btnSupportUs                           186            34                     0
+btnViewMap                               0             0                     0
+button                                   0             0                     0
+BuyNowBtn                                0             0                     0
+CampaignPage                             0             0                     0
+settingsbg                              47             0                     0
+btn_back                               105             0                     0
+btn_refresh                              0             0                     0
+checkbox                               129            33                     0
+complete                                 0             0                     0
+Component_avatar                        21             0                     0
+confirmbtn                              65           190                     0
+ConfirmPrompt                            0           195                     0
+prompt_bg                               44             0                     0
+crown                                    0             0                     0
+divider                                 64             0                     0
+divider_small                           30             0                     0
+dollars                                  0             0                     0
+empty                                    0             0                     0
+bg_black                               100             0                     0
+bg_transparent                          50             0                     0
+favoritebtn                              0            98                     0
+gotolobbybtn                             0            34                     0
+gx_btn_overlay                          47             0                     0
+gx_btn_bg                               69             0                     0
+joinroombtn                             56            33                     0
+LevelComplete                            0           132                     0
+headanimation                            0             0                     0
+wootupbtn                                0            94                     0
+light                                   50             0                     0
+staybtn                                  0            34                     0
+subscribebtn                             0             0                     0
+energy_added                             0            89                     0
+lightning                                0             0                     0
+energybar                                0            93                     0
+energybar_bg                             0             0                     0
+energybar_border                         0             0                     0
+energybar_colorbg                        0             0                     0
+energybutton_bg                          0             0                     0
+progressbar                              0             0                     0
+faded_divider                           61             0                     0
+fb_header                                0             0                     0
+fb_logo                                  0             0                     0
+fbconnect                                0             0                     0
+formbg                                  28             0                     0
+formfieldbg                             43             0                     0
+fscreen                                 64             0                     0
+fullbtn                                  0             0                     0
+gamebar                                 25             0                     0
+topbar_bg                                0             0                     0
+gem_icon                                 0             0                     0
+gem_sym                                  0             0                     0
+gem_symbol                               0             0                     0
+GemBG                                   40             0                     0
+GetGems_Middle                          40             0                     0
+GetGemsNow                               0          1412                     0
+gem                                      0             0                     0
+GoPro                                   85            32                     0
+newbuybg                                 0             0                     0
+buywithcoinsnow                          0             0                     0
+GetGemsNow_BF                            0             0                     0
+glass_timer                              0             0                     0
+goldicon_xsmall                          0             0                     0
+GoldMemberBox                            0           201                     0
+GuySprite                                0             0                     0
+gx_circle                               38             0                     0
+gx_star                                 43             0                     0
+gx_star_pixels                          25             0                     0
+halfcircle                               0             0                     0
+handCursor                               0             0                     0
+handCursorBox                           18             0                     0
+headain_inside                           0             0                     0
+HexCode Button                           0             0                     0
+hideprofile                              0             0                     0
+icon_gear                               76             0                     0
+btn_delete                              92            62                     0
+message                                  0           122                     0
+messagecontainer                        35            32                     0
+messageHeader                           74           249                     0
+infobtn                                203             0                     0
+item_locked                              0            83                     0
+joinbtn                                  0             0                     0
+Label                                    0             0                     0
+letsbuildbtn                             0            32                     0
+btn_save                               160           246                     0
+dropdownarrow                            0             0                     0
+dropdownbtn                              0            89                     0
+dropdowncontainer                       35             0                     0
+handCursor                               0             0                     0
+input_bg                                83             0                     0
+btn_save                               160           246                     0
+dropdownarrow                            0             0                     0
+dropdownbtn                              0            89                     0
+dropdowncontainer                       35             0                     0
+LevelOptions                             0           201                     0
+LevelOptions_ButtonBox                  39             0                     0
+LevelOptions_BtnOptions                  0            96                     0
+LevelOptions_BtnInfo                     0            90                     0
+LevelOptions_BtnSettings                90            96                     0
+PageSettings                            22            79                     0
+PageInfo                                22           383                     0
+PageActions                             22            31                     0
+WorldStatus                              0           160                     0
+WelcomeBack                              0           240                     0
+thanksbtn                                0            32                     0
+WelcomeGold                             10           157                     0
+light_rotation                          31             0                     0
+light_inside                           119             0                     0
+light_rotation_full                      0             0                     0
+loadinganim                              0             0                     0
+LoadingScreen                           31            96                     0
+lobby_guestpromo                        38           232                     0
+loginkongregatebtn                      79            39                     0
+register_btn_large_guest                90            64                     0
+lobbyfriends                            73            60                     0
+reload                                  50             0                     0
+lobbyfriends_item                       18           184                     0
+playbtn                                104            30                     0
+lobbyfriends_item_line                   0             0                     0
+lobbyfriends_loading                     0            37                     0
+lobbyfriends_none                        0            43                     0
+btn_lobby_logout                         0             0                     0
+btn_lobby_settings                      98             0                     0
+btn_tab_campaigns                        0            46                     0
+btn_tab_lobby                            0            42                     0
+btn_tab_shop                             0            80                     0
+btn_tab_social                          16            84                     0
+shopHighlight                           74             0                     0
+socialHighlight                         72             0                     0
+alertBackground                        101             0                     0
+AlertItem                                0           288                     0
+nologo                                   0           158                     0
+btn_block                               53            30                     0
+btn_reject                              53            31                     0
+btn_accept                              56            31                     0
+crewName                                 0            87                     0
+btn_messages                            53            32                     0
+btn_send                                53            30                     0
+btn_sendmessage                          0            30                     0
+btn_delete                              92            62                     0
+btn_reply                               88            60                     0
+message                                  0           122                     0
+messageHeader                           74           249                     0
+messagecontainer                        35            32                     0
+newalert                                 0           387                     0
+AddToCrewPrompt                          0           121                     0
+ScrollContainer                         35             0                     0
+crewSelectorTFContainer                  0            89                     0
+SaveButton                              56            92                     0
+asset_login_now                          0            37                     0
+asset_paypalreturn                       0           237                     0
+Verifynow copy                           0            34                     0
+bg                                     167             0                     0
+asset_return_to_lobby                   45            37                     0
+BuyBg                                    0             0                     0
+checkbox                               129            33                     0
+checkboxbg                              26             0                     0
+CoptTextPrompt                           0           284                     0
+facebbok_btn_large                       0             0                     0
+fbloginbtn                              49            63                     0
+ForgotPasswordBtn                        0             0                     0
+guest                                    0             0                     0
+handCursorBox                           18             0                     0
+HelpInfo                                 0           461                     0
+Info                                     0           265                     0
+input_bg                                83             0                     0
+LobbyLoginBox                            0           298                     0
+loginnow                                45            39                     0
+logoutbtwn                              92            95                     0
+loginarmorgamesbtn                     140           123                     0
+loginbg                                  0             0                     0
+loginbtn                                36            30                     0
+btn_play_as_guest                        0             0                     0
+login_to_play                           42            70                     0
+LoginButton                              0            31                     0
+LoginSimple                             23           754                     0
+register_to_play_btn_large              50            74                     0
+RecoverPassword                         44            82                     0
+LoginNewsItem                            0           230                     0
+LoginWindow                              0           235                     0
+RememberMeButton                        26            34                     0
+LoginSmileys                             0             0                     0
+TermsButton                             78             0                     0
+LoginWindowSlideshow                    46             0                     0
+arrow                                    0             0                     0
+btndropdown                              0             0                     0
+changeState                              0           197                     0
+crewSelectorTFContainer                  0            89                     0
+disabledFaceplateOverlay                31            63                     0
+btn_add                                 55            29                     0
+btn_remove                             162           125                     0
+btn_save                               160           246                     0
+FaceplateSettings                        0           132                     0
+ScrollContainer                         35             0                     0
+Beta                                     0             0                     0
+BetaInformation                          0            96                     0
+EnergyInformation                        0            91                     0
+lightning                                0             0                     0
+GoldInformation                          0           292                     0
+InformationContainer                     0             0                     0
+RegisterInformation                      0           102                     0
+Prompt                                   0           277                     0
+register_button                          0             0                     0
+RegisterWindow                           0           686                     0
+register_btn_large                     273            60                     0
+TermsText                                0           106                     0
+RegisterReloadCaptcha                   18             0                     0
+RegisterWindowCaptchaHolder             45             0                     0
+ResetPassword                            0           260                     0
+Guy                                     18             0                     0
+SendButton                               0            30                     0
+save                                     0             0                     0
+setanme                                  0             0                     0
+Share                                    0           260                     0
+share_bg                                40             0                     0
+Upgrade                                 70           394                     0
+upgrade_bg                               0             0                     0
+read blog                               95            35                     0
+VerifyAge                               21           782                     0
+Verifynow                              105            33                     0
+WorldDescription                        22           417                     0
+news_imageloader                        31             0                     0
+logout_btn                              43            31                     0
+MagicAnim                                0             0                     0
+masker                                   0             0                     0
+mine                                   102             0                     0
+MiniLoading                              0            32                     0
+mute                                    74             0                     0
+newmessage                               0           709                     0
+asset_bignews                            0           375                     0
+newslettersignup                         0             0                     0
+NewsletterSignup                         0             0                     0
+not_hud_bg                               0             0                     0
+notifierbg                               0             0                     0
+open                                     0             0                     0
+Options_ClearLevel                       0            33                     0
+Options_LoadLevel                        0            33                     0
+Options_Regenerate                       0             0                     0
+Options_ResetLevel                       0            33                     0
+Options_SaveLevel                        0            33                     0
+OptionsConfirm                           0           132                     0
+outOfGems                                0             0                     0
+playasguest                              0             0                     0
+playonfb                                 0             0                     0
+plus                                     0             0                     0
+profile_blog                            27            30                     0
+profile_forums                          28            31                     0
+profile_help                            27            30                     0
+profile_icon_xs                          0             0                     0
+profile_stats                            0           281                     0
+profile_terms                           35            38                     0
+acceptbtn                              102            31                     0
+blockbtn                                40            60                     0
+btnignore                               40            62                     0
+cancelsendbtn                           40            62                     0
+canecelbtn                               0            31                     0
+acceptinvite                            33           222                     0
+blockeduser                             33            91                     0
+btn_unblock                             56            32                     0
+btn_invite                               0            31                     0
+btn_invitestatus                        56            60                     0
+btn_ok                                   0             0                     0
+btn_openshop                             0            33                     0
+btn_setname                              0            32                     0
+invitestatus                            33           102                     0
+nocrew                                   0            70                     0
+nocrewname                               0            86                     0
+sendinvite                               0           254                     0
+TopBar                                   0             0                     0
+topbtn_editranks                       105           192                     0
+topbtn_invite                          105            62                     0
+topbtn_members                         105            62                     0
+topbtn_newalert                        107            68                     0
+topbtn_pending                         105            62                     0
+topbtn_switchcrew                      105            66                     0
+topbtn_worlds                          105            62                     0
+topbtn_leave                           105            61                     0
+topbtn_blocked                           0             0                     0
+btn_clear                              106            94                     0
+btn_create                             107           188                     0
+btn_edit                                 0             0                     0
+btn_remove                             162           125                     0
+btn_save                               160           246                     0
+btndropdown                              0             0                     0
+createbtn                                0             0                     0
+btn_select                              56            31                     0
+crewselector                             0            98                     0
+dropdownbtn                              0            89                     0
+editbtn                                  0             0                     0
+LogoContainer                            0             0                     0
+membersettings                          46           321                     0
+savebtn                                 53            93                     0
+tfContainer                              0            89                     0
+rankcreation                            59          1078                     0
+deletebtn                               40            62                     0
+denybtn                                  0             0                     0
+friend                                  18          1663                     0
+okbtn                                    0            28                     0
+sendbtn                                  0            30                     0
+unblockbtn                             118            31                     0
+friend_wait                              0           100                     0
+friend_divider_vertical                 19             0                     0
+friend_divider                          34             0                     0
+friend_bg                               20             0                     0
+friendrequestbtn                        52            30                     0
+mainProfile                              0             0                     0
+mainProfileBg                            0             0                     0
+tab_crew                                 0            20                     0
+tab_friends                              0            22                     0
+tab_inbox                                0            84                     0
+tab_news                                82            83                     0
+tab_worlds                               0             0                     0
+tabbar                                   0             0                     0
+shop_newitem                            22             0                     0
+profile_logout                           0             0                     0
+showblockedbtn                          53            31                     0
+showfriendsbtn                          53            31                     0
+showpendingbtn                          53            31                     0
+tabbg                                  127             0                     0
+profileViewSwitch                        0            97                     0
+progressbar                              0             0                     0
+RecoverPassword_old                      0             0                     0
+register_add                             0           956                     0
+register_image                           0             0                     0
+reload                                  50             0                     0
+reloadanim                               0             0                     0
+underlineText                           21             0                     0
+campaignTag                            172             0                     0
+compassIcon                              0             0                     0
+favstar                                  0             0                     0
+pathlock                                 0             0                     0
+betaonly                                 0             0                     0
+btn_createworld                         55            34                     0
+buyworld                                 0            42                     0
+openshop                               111            33                     0
+CreateLevel                              0           445                     0
+CreateRoom                              21           442                     0
+createroombtn                           54            34                     0
+roomfiltertab                            0             0                     0
+tab_favorites                          152             0                     0
+tab_history                              0             0                     0
+tab_sortby                               0             0                     0
+tabsortselector                          0             0                     0
+filterworlds                             0             0                     0
+loadfromid                             128             0                     0
+loadingrooms                             0            37                     0
+LoadRoomFromID                           0           131                     0
+tab_build                               66            60                     0
+tab_favorites                          152             0                     0
+tab_featured                             0             0                     0
+tab_play                                 0            60                     0
+tab_recent                             200             0                     0
+tab_sandbox                              0            62                     0
+norooms                                  0            36                     0
+openworld                                0            39                     0
+registerforworlds                       30           186                     0
+reloadroombtn                            0             0                     0
+room                                    41           286                     0
+room_bg                                  0             0                     0
+room_divider                             0             0                     0
+roomfilter                               0             0                     0
+roomlist                               119           111                     0
+roomlist_bg                             28             0                     0
+sort_menu                              111           117                     0
+roomListItemBG                           0             0                     0
+roomListItemBGHighlight                  0             0                     0
+sortbtn_main                            27             0                     0
+sortbtn_option                          17             0                     0
+sortby_featured                          0             0                     0
+sortby_myworlds                          0             0                     0
+sortby_name                              0             0                     0
+sortby_online                            0             0                     0
+sortby_open                              0             0                     0
+sortby_plays                             0             0                     0
+sortby_shuffle                           0             0                     0
+sortby_woots                             0             0                     0
+tabplay                                  0             0                     0
+tabplayedit                              0             0                     0
+tabsaved                                 0             0                     0
+blocksitem                              43            31                     0
+btn_crewcustomize                        0             0                     0
+btn_customize                            0             0                     0
+btn_keybindings                          0            37                     0
+btn_loadhotbar                          74            34                     0
+btn_savehotbar                           0            34                     0
+chatitem                                 0             0                     0
+gameitem                                 0             0                     0
+gameitem2                               43            31                     0
+Cancel Button New                       43            31                     0
+Key Binding Item                        34           192                     0
+Key Binding Reset                       17             0                     0
+Key Binding Item Button                 36             0                     0
+Key Bindings BG                         39             0                     0
+Key Bindings Menu                       39            78                     0
+Save Button New                         43            30                     0
+Key Bindings Reset All                  59            33                     0
+profileitem                              0             0                     0
+settingsbg2                             47             0                     0
+settingsitem                             0          1020                     0
+smileyitem                               0             0                     0
+transparencyBox                          0             0                     0
+SetUsernameSmileys                       0             0                     0
+sharebtn                                 0             0                     0
+shop_divider                            19             0                     0
+energybutton_bg                          0             0                     0
+divider                                 64             0                     0
+energybar                                0            93                     0
+energybarbg                             29             0                     0
+energybarmask                           38             0                     0
+energybaroutline                        36             0                     0
+energybtn                              211           186                     0
+energyicon                               0             0                     0
+gemsbutton                             231            95                     0
+getnow                                   0            62                     0
+gem                                      0             0                     0
+newshopitem                              0             0                     0
+item_bg                                  0             0                     0
+button_loader                           56             0                     0
+buybutton                                0             0                     0
+energybutton                             0             0                     0
+item                                     0             0                     0
+item_bgbox                              37             0                     0
+item_border                             63             0                     0
+item_count                               0            85                     0
+item_count_bg                           41             0                     0
+item_energy                              0             0                     0
+item_energy_bg                          41             0                     0
+item_iteminfo                            0            98                     0
+item_label                               0             0                     0
+item_max                                 0            87                     0
+item_owned                              37            87                     0
+itemtext                                 0           216                     0
+itemtitle                                0            91                     0
+shopmore                               108            33                     0
+ShopBar                                  0             0                     0
+shopbar_energy                           0           182                     0
+shopbar_gem                              0            94                     0
+shopbar_username                         0            94                     0
+shopbar_crewname                         0            94                     0
+top                                     35             0                     0
+shopContent                             39             0                     0
+shopContentInner                         0             0                     0
+tabOld                                   0             0                     0
+Symbol 1                                 0             0                     0
+tab                                      0            89                     0
+smiley_sunglasses                        0             0                     0
+Symbol 7                                 0             0                     0
+lightninginner                          33             0                     0
+shopbar_username_highlight              21             0                     0
+shopbar_defbg                            0             0                     0
+socialpage                               0             0                     0
+srbtn                                    0             0                     0
+star                                     0             0                     0
+staranimation                            0             0                     0
+Symbol 1                                 0             0                     0
+Symbol 607                               0             0                     0
+Symbol 816                               0             0                     0
+Symbool 1                                0             0                     0
+team_icon                              122             0                     0
+TermsWindow                              0           225                     0
+lightninginner                          33             0                     0
+togglenewsbtn                            0             0                     0
+toggleshopbtwn                           0             0                     0
+Tween 2                                  0             0                     0
+Tween 3                                  0             0                     0
+underline                                0             0                     0
+universe_info                           38           396                     0
+UsernameWindow                           0           264                     0
+visibleSelectorTFContainer               0             0                     0
+btn_dismiss                             70            22                     0
+btn_favorite                            70            47                     0
+btn_like                                70            43                     0
+btn_subscribe_small                     70            45                     0
+WorldStatusSmall                         0           223                     0
+WorldVisibility                          0           189                     0
+fl.core.ComponentShim                    0             0                     0
+fl.controls.Button                       0             0                     0
+
+Font Name                        Bytes         Characters
+-----------------------------    ----------    ----------
+ArialMT 18 pts                         8524     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+NokiaCellphoneFC-Small 9 pts           3474     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ’€
+NokiaCellphoneFC-Small 19 pts          3465     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ’€
+NokiaCellphoneFC-Small 14 pts          3438     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ’€
+ArialMT 11 pts                         8057     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+NokiaCellphoneFC-Small 12 pts          3441     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ’€
+Verdana                                1616     !,ETWabcdefghiklmnoprstuvwy 
+VisitorTT2BRK 12 pts                   3601     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ˜–—‘’‚“”„†‡•…‰‹›™
+NokiaCellphoneFC-Small 11 pts          3425     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ’€
+Arial-BoldMT Bold                      9433     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+NokiaCellphoneFC-Small 15 pts          3462     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ’€
+ArialMT 20 pts                         8915     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+ArialMT 12 pts                         8263     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+NokiaCellphoneFC-Small 16 pts          3469     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ’€
+NokiaCellphoneFC-Small 8 pts           3467     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ’€
+ArialMT                                9581     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+NokiaCellphoneFC-Small                 3449     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ’€
+
+ActionScript Bytes    Location
+------------------    --------
+               561    Scene 1:Frame 1:fl.managers.IFocusManager
+               354    Scene 1:Frame 1:fl.managers.IFocusManagerComponent
+               398    Scene 1:Frame 1:fl.core.InvalidationType
+              1614    Scene 1:Frame 1:fl.managers.StyleManager
+               283    Scene 1:Frame 1:fl.managers.IFocusManagerGroup
+               319    Scene 1:Frame 1:fl.controls.ButtonLabelPlacement
+               125    Scene 1:Frame 1:system
+               511    Scene 1:Frame 1:fl.events.ComponentEvent
+              4763    Scene 1:Frame 1:fl.managers.FocusManager
+               191    Scene 1:Frame 1:ProfileCloseButton
+               190    Scene 1:Frame 1:asset_friendrequest
+               186    Scene 1:Frame 1:asset_login_now
+               194    Scene 1:Frame 1:asset_reopen_armorgames
+               192    Scene 1:Frame 1:asset_return_to_lobby
+               188    Scene 1:Frame 1:asset_showblocked
+               188    Scene 1:Frame 1:asset_showfriends
+               188    Scene 1:Frame 1:asset_showpending
+               188    Scene 1:Frame 1:assets_backbutton
+               191    Scene 1:Frame 1:assets_btn_confirm
+               193    Scene 1:Frame 1:assets_btn_createlevel
+               191    Scene 1:Frame 1:assets_btn_openlevel
+               192    Scene 1:Frame 1:assets_btn_timetrials
+               185    Scene 1:Frame 1:assets_dismiss
+               187    Scene 1:Frame 1:assets_infobtn
+               197    Scene 1:Frame 1:assets_keybindingitembtn
+               191    Scene 1:Frame 1:assets_loginbutton
+               189    Scene 1:Frame 1:assets_messagesbtn
+               194    Scene 1:Frame 1:assets_registertoplay
+               185    Scene 1:Frame 1:assets_sendbtn
+               186    Scene 1:Frame 1:assets_shopmore
+               190    Scene 1:Frame 1:assets_subscribebtn
+               192    Scene 1:Frame 1:assets_unsubscribebtn
+               183    Scene 1:Frame 1:fbconnectbtn
+              5342    Scene 1:Frame 1:fl.core.UIComponent
+               200    Scene 1:Frame 1:BlackBG
+               374    Scene 1:Frame 1:CreateLevel
+               324    Scene 1:Frame 1:CreateRoom
+               510    Scene 1:Frame 1:GetGemsNow
+               304    Scene 1:Frame 1:HelpInfoBox
+               275    Scene 1:Frame 1:InfoBox
+               280    Scene 1:Frame 1:LoadRoom
+               365    Scene 1:Frame 1:LobbyLoginBox_Asset
+               225    Scene 1:Frame 1:ShopUI
+               234    Scene 1:Frame 1:Upgrade
+               240    Scene 1:Frame 1:VerifyAge
+               341    Scene 1:Frame 1:asset_bignews
+               320    Scene 1:Frame 1:asset_changedescription
+               329    Scene 1:Frame 1:asset_confirmprompt
+               310    Scene 1:Frame 1:asset_crewprompt
+               604    Scene 1:Frame 1:asset_friend
+               212    Scene 1:Frame 1:asset_guestwelcome
+               208    Scene 1:Frame 1:asset_lobbybtn
+               238    Scene 1:Frame 1:asset_paypalreturn
+               314    Scene 1:Frame 1:asset_prompt
+               321    Scene 1:Frame 1:asset_registeradd
+               218    Scene 1:Frame 1:asset_registerbtnguest
+               243    Scene 1:Frame 1:asset_registerforworlds
+               508    Scene 1:Frame 1:asset_registerwindow
+               367    Scene 1:Frame 1:asset_roominstance
+               388    Scene 1:Frame 1:asset_roomlist
+               284    Scene 1:Frame 1:asset_share
+               210    Scene 1:Frame 1:asset_starpixels
+               206    Scene 1:Frame 1:asset_staybtn
+               311    Scene 1:Frame 1:asset_tab
+               224    Scene 1:Frame 1:assets_CampaignPage
+               314    Scene 1:Frame 1:assets_acceptcrewinvite
+               333    Scene 1:Frame 1:assets_activatemail
+               385    Scene 1:Frame 1:assets_alertitem
+               212    Scene 1:Frame 1:assets_arrowxsmall
+               243    Scene 1:Frame 1:assets_betainformation
+               470    Scene 1:Frame 1:assets_bgsettings
+               265    Scene 1:Frame 1:assets_blockeduser
+               213    Scene 1:Frame 1:assets_buttonloader
+               237    Scene 1:Frame 1:assets_buybutton
+               229    Scene 1:Frame 1:assets_buyworlds
+               239    Scene 1:Frame 1:assets_changeState
+               390    Scene 1:Frame 1:assets_colorselector
+               368    Scene 1:Frame 1:assets_complete
+               237    Scene 1:Frame 1:assets_confirmbtn
+               306    Scene 1:Frame 1:assets_copyprompt
+               235    Scene 1:Frame 1:assets_createopenworld
+               272    Scene 1:Frame 1:assets_crewselector
+               343    Scene 1:Frame 1:assets_crewtabbar
+               241    Scene 1:Frame 1:assets_cursecounter
+               240    Scene 1:Frame 1:assets_energyadded
+               249    Scene 1:Frame 1:assets_energybar
+               238    Scene 1:Frame 1:assets_energybutton
+               211    Scene 1:Frame 1:assets_energyicon
+               245    Scene 1:Frame 1:assets_energyinformation
+               359    Scene 1:Frame 1:assets_faceplateselector
+               209    Scene 1:Frame 1:assets_favorite
+               208    Scene 1:Frame 1:assets_gamebar
+               206    Scene 1:Frame 1:assets_getnow
+               215    Scene 1:Frame 1:assets_goldiconxsmall
+               273    Scene 1:Frame 1:assets_goldinformation
+               259    Scene 1:Frame 1:assets_goldmemberbox
+               256    Scene 1:Frame 1:assets_invitestatus
+               247    Scene 1:Frame 1:assets_itemcount
+               211    Scene 1:Frame 1:assets_itemenergy
+               234    Scene 1:Frame 1:assets_iteminfo
+               210    Scene 1:Frame 1:assets_itemlabel
+               238    Scene 1:Frame 1:assets_itemlocked
+               235    Scene 1:Frame 1:assets_itemmax
+               237    Scene 1:Frame 1:assets_itemowned
+               247    Scene 1:Frame 1:assets_itemtext
+               235    Scene 1:Frame 1:assets_itemtitle
+               309    Scene 1:Frame 1:assets_keybindingitem
+               285    Scene 1:Frame 1:assets_keybindingsmenu
+               411    Scene 1:Frame 1:assets_leveloptions
+               330    Scene 1:Frame 1:assets_leveloptions_actions
+               299    Scene 1:Frame 1:assets_leveloptions_confirm
+               302    Scene 1:Frame 1:assets_leveloptions_info
+               246    Scene 1:Frame 1:assets_leveloptions_settings
+               212    Scene 1:Frame 1:assets_lightning
+               214    Scene 1:Frame 1:assets_lightrotation
+               204    Scene 1:Frame 1:assets_like
+               210    Scene 1:Frame 1:assets_loading
+               262    Scene 1:Frame 1:assets_loadingscreen
+               271    Scene 1:Frame 1:assets_lobby_guestpromo
+               254    Scene 1:Frame 1:assets_lobbyfriends
+               318    Scene 1:Frame 1:assets_lobbyfriends_item
+               221    Scene 1:Frame 1:assets_lobbyfriends_loading
+               218    Scene 1:Frame 1:assets_lobbyfriends_none
+               550    Scene 1:Frame 1:assets_loginsimple
+               376    Scene 1:Frame 1:assets_loginwindow
+               365    Scene 1:Frame 1:assets_membersettings
+               310    Scene 1:Frame 1:assets_message
+               212    Scene 1:Frame 1:assets_miniloading
+               244    Scene 1:Frame 1:assets_multijumpcounter
+               293    Scene 1:Frame 1:assets_new_fla.checkbox_211
+               313    Scene 1:Frame 1:assets_new_fla.checkbox_50
+               288    Scene 1:Frame 1:assets_new_fla.crown_385
+               291    Scene 1:Frame 1:assets_new_fla.input_bg_56
+               288    Scene 1:Frame 1:assets_new_fla.tabbg_384
+               289    Scene 1:Frame 1:assets_newalert
+               357    Scene 1:Frame 1:assets_newmessage
+               225    Scene 1:Frame 1:assets_newshopitem
+               231    Scene 1:Frame 1:assets_nocrew
+               234    Scene 1:Frame 1:assets_nocrewname
+               214    Scene 1:Frame 1:assets_profileaddbtn
+               398    Scene 1:Frame 1:assets_profilecolor
+               212    Scene 1:Frame 1:assets_profileicon
+               217    Scene 1:Frame 1:assets_profileremovebtn
+               215    Scene 1:Frame 1:assets_profilesavebtn
+               288    Scene 1:Frame 1:assets_profilestats
+               275    Scene 1:Frame 1:assets_profileviewswitch
+               462    Scene 1:Frame 1:assets_rankcreation
+               247    Scene 1:Frame 1:assets_registerinformation
+               223    Scene 1:Frame 1:assets_reload
+               317    Scene 1:Frame 1:assets_resetpassword
+               231    Scene 1:Frame 1:assets_retry
+               297    Scene 1:Frame 1:assets_sendcrewinvite
+               674    Scene 1:Frame 1:assets_settingsitem
+               410    Scene 1:Frame 1:assets_shopbar
+               280    Scene 1:Frame 1:assets_shopbarenergy
+               263    Scene 1:Frame 1:assets_shopbargem
+               209    Scene 1:Frame 1:assets_shopitem
+               235    Scene 1:Frame 1:assets_shopitembg
+               244    Scene 1:Frame 1:assets_socialpage
+               293    Scene 1:Frame 1:assets_statusoptions
+               215    Scene 1:Frame 1:assets_subscribesmall
+               270    Scene 1:Frame 1:assets_tabbar
+               267    Scene 1:Frame 1:assets_teamicons
+               294    Scene 1:Frame 1:assets_termswindow
+               281    Scene 1:Frame 1:assets_universe_info
+               318    Scene 1:Frame 1:assets_username
+               309    Scene 1:Frame 1:assets_welcomeback
+               309    Scene 1:Frame 1:assets_welcomegold
+               212    Scene 1:Frame 1:assets_wootupbtn
+               329    Scene 1:Frame 1:assets_worldstatus
+               295    Scene 1:Frame 1:assets_worldvisibility
+               244    Scene 1:Frame 1:assets_zombiesvshumans
+               254    Scene 1:Frame 1:btn_confirm2
+               285    Scene 1:Frame 1:fl.core.ComponentShim
+               200    Scene 1:Frame 1:fscreen
+               205    Scene 1:Frame 1:loadingrooms
+               254    Scene 1:Frame 1:mute
+               200    Scene 1:Frame 1:norooms
+               320    Scene 1:Frame 1:roomlist_sortmenu
+              1824    Scene 1:Frame 1:fl.controls.Label
+              1865    Scene 1:Frame 1:fl.controls.BaseButton
+              2909    Scene 1:Frame 1:fl.controls.LabelButton
+              1068    Scene 1:Frame 1:fl.controls.Button
+
+Bitmap                            Compressed    Original      Compression
+------------------------------    ----------    ----------    -----------
+dropdownarrow.png                         26           364    Lossless
+crewiconv2.png                           237          1024    Lossless
+likeheartsmall_1.png                     248          1024    Lossless
+likeheartsmall_0.png                     276          1024    Lossless
+favstarsmall_1.png                       280          1024    Lossless
+favorite.png                             290           900    Lossless
+teamdots.png                             384          6144    Lossless
+smilie.png                               294          1024    Lossless
+chatbbl.png                              222          1584    Lossless
+postman.png                              250          1024    Lossless
+Crown.png                                 78           480    Lossless
+Guy.png                                  276          1024    Lossless
+single.png                               367          1024    Lossless
+world.png                                464          1024    Lossless
+book.png                                  69          1024    Lossless
+aura.png                                 273          1024    Lossless
+serviceicon.png                          281          1024    Lossless
+NPC.png                                  143          1024    Lossless
+new.png                                 1964         15376    Lossless
+sale.png                                1666         15376    Lossless
+sale6.png                               1739          7744    Lossless
+sale24.png                              1981          9604    Lossless
+xmas-sale50.png                         2500         26244    Lossless
+xmas_sale60.png                         2475         26244    Lossless
+xmas_sale75.png                         2491         26244    Lossless
+xmas_sale.png                           3284         26244    Lossless
+gem.png                                  231          1024    Lossless
+buy_now_.png                             231          1024    Lossless
+favstarsmall_0.png copy                  293          1024    Lossless
+Guest Promo.png                          730          3840    Lossless
+profile_icon.png                          81           324    Lossless
+padlock.png                               65           308    Lossless
+gold_membership_shop_image.png          5097         52560    Lossless
+beta.png                                3832         24960    Lossless
+officer.png                              305          2704    Lossless
+worlds.jpg                              3184         70296    Imported JPEG
+bricks.jpg                              1592         70296    Imported JPEG
+smiley.jpg                              2544         70296    Imported JPEG
+gold.png                                 123           400    Lossless
+paypal-transparent-logo.png              389          7084    Lossless
+bn.png                                   603         11128    Lossless
+fbc.png                                 2064         40000    JPEG Quality=80
+likeheart_1.png                          307          4096    Lossless
+likeheart_0.png copy                     317          4096    Lossless
+favorite2.png                            345          4096    Lossless
+favstar_0.png                            321          4096    Lossless
+Silver_clock.png                         278           900    Lossless
+folder.png                               105          1024    Lossless
+zombie.png                               328          1024    Lossless
+multiJump.png                            275          1024    Lossless
+curse.png                                136          1024    Lossless
+mail.png                                 133          4096    Lossless
+patreon.png                              173           784    Lossless
+universe-decal.png                      2460         15360    Lossless
+
+
+
+

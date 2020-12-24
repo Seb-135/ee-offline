@@ -1,0 +1,148 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Login/asset_paypalreturn" itemID="4ea6cf30-00000564" linkageExportForAS="true" linkageClassName="asset_paypalreturn" lastModified="1336745183" lastUniqueIdentifier="12">
+  <timeline>
+    <DOMTimeline name="asset_paypalreturn">
+      <layers>
+        <DOMLayer name="Layer 11" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" width="432" height="64" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="23" ty="180"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Thank you for supporting Everybody Edits!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="14.5" bitmapSize="240" face="Verdana" fillColor="#00FF6B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="14.5" bitmapSize="240" face="Verdana" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>When you have completed your transaction, simply press the below button to return to the game with your new gems!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="14.5" bitmapSize="240" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Shop/Verifynow copy" name="btn_returntogame" symbolType="button">
+                  <matrix>
+                    <Matrix a="1.6771240234375" d="1.6771240234375" tx="166.65" ty="276.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="118.4" height="16.8" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="176.6" ty="141"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Done shopping?</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="16.8" size="15" bitmapSize="300" face="ArialBold_no*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="48.6" height="14.5" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="211.75" ty="284.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>loading!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="14.5" bitmapSize="240" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 10" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 9" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#808080">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Login/bg" centerPoint3DX="300" centerPoint3DY="226.25">
+                  <matrix>
+                    <Matrix d="2.21073913574219" ty="144.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="236" y="-7"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="10" blurY="10" distance="0" quality="3" strength="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.8"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!13221 12000|-3780 12000!-3780 12000|-3780 0!-3780 0|13221 0!13221 0|13221 12000"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

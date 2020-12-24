@@ -1,0 +1,110 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Inbox/messageHeader" itemID="55c1f777-00000213" lastModified="1528053792">
+  <timeline>
+    <DOMTimeline name="messageHeader">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMStaticText width="58.7" height="15" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="12" ty="6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Subject:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="bitmap" width="29.2" height="10" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="13" ty="21.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>From:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMDynamicText name="msg_subject" width="366" height="15" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="79" ty="6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>LOOK BEHIND YOU!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="msg_sender" fontRenderingMode="bitmap" width="366" height="10" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="79" ty="21.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>THEGUYTHATSTOLEYOURSALAD</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="489" objectHeight="36" x="66.7" y="-114" topLeftRadius="5" topRightRadius="5" bottomLeftRadius="5">
+                  <matrix>
+                    <Matrix tx="-66.7" ty="114"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#222222"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke>
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="489" objectHeight="36" x="66.7" y="-114" topLeftRadius="5" topRightRadius="5" bottomLeftRadius="5">
+                  <matrix>
+                    <Matrix tx="-66.7" ty="114"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#333333"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke>
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,95 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Roomlist/New Tabs/tab_build" itemID="5c0839a6-00000441" lastModified="1545158218">
+  <timeline>
+    <DOMTimeline name="tab_build">
+      <layers>
+        <DOMLayer name="Layer_3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="61" height="13.75" antiAliasSharpness="200" antiAliasThickness="-100" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="33" ty="13"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Build</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.75" size="11" bitmapSize="220" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMStaticText width="61" height="13.75" antiAliasSharpness="200" antiAliasThickness="-100" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="33" ty="13"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Build</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.75" size="11" bitmapSize="220" face="system*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="114" objectHeight="38" x="62.05" y="102.05" topLeftRadius="6" topRightRadius="6">
+                  <matrix>
+                    <Matrix d="1.0001220703125" tx="-62.05" ty="-102.05"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#202020"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" pixelHinting="true">
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="114" objectHeight="38" x="62.05" y="102.05" topLeftRadius="6" topRightRadius="6">
+                  <matrix>
+                    <Matrix d="1.0001220703125" tx="-62.05" ty="-102.05"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" pixelHinting="true">
+                      <fill>
+                        <SolidColor color="#FFFFFF"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="notifierbg" itemID="54ea4c4f-000004ff" lastModified="1424641780">
+  <timeline>
+    <DOMTimeline name="notifierbg">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#202020"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="horizontal" weight="0.05" pixelHinting="true" joints="bevel" solidStyle="hairline">
+                        <fill>
+                          <SolidColor color="#999999"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!8160 220[8160 0 7940 0!7940 0|220 0!220 0[0 0 0 220!0 220|0 940!0 940[0 1160 220 1160!220 1160|7940 1160!7940 1160[8160 1160 8160 940!8160 940|8160 220"/>
+                    <Edge cubics="!8160 220(;8160,73 8087,0 7940,0q8160 220Q8160 0q7940 0);"/>
+                    <Edge cubics="!7940 1160(;8087,1160 8160,1087 8160,940q7940 1160Q8160 1160q8160 940);"/>
+                    <Edge cubics="!8160 940(;8160,940 8160,220 8160,220q8160 940 8160 220)8160,220;"/>
+                    <Edge cubics="!220 0(220,0;73,0 0,73 0,220q220 0Q0 0q0 220);"/>
+                    <Edge cubics="!0 940(;0,1087 73,1160 220,1160q0 940Q0 1160q220 1160);"/>
+                    <Edge cubics="!0 220(;0,220 0,940 0,940q0 220 0 940)0,940;"/>
+                    <Edge cubics="!7940 0(;7940,0 220,0 220,0q7940 0 220 0);"/>
+                    <Edge cubics="!220 1160(;220,1160 7940,1160 7940,1160q220 1160 7940 1160)7940,1160;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

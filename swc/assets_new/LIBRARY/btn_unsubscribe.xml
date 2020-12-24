@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btn_unsubscribe" itemID="55a5b386-000001d6" linkageExportForAS="true" linkageClassName="assets_unsubscribebtn" symbolType="button" lastModified="1440069166">
+  <timeline>
+    <DOMTimeline name="btn_unsubscribe">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.0115966796875" c="0.084259033203125" d="0" tx="69.45" ty="10"/>
+                        </matrix>
+                        <GradientEntry color="#9A0000" ratio="0"/>
+                        <GradientEntry color="#EA0E00" ratio="0.607843137254902"/>
+                        <GradientEntry color="#FF7B7C" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#A60200"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!2727 390|53 390!53 390[9 390 9 345!9 345|9 55!9 55[9 10 53 10!53 10|2727 10!2727 10[2770 10 2770 55!2770 55|2770 345!2770 345[2770 390 2727 390"/>
+                    <Edge fillStyle0="2" edges="!2780 345|2780 55!2780 55[2780 0 2727 0!2727 0|53 0!53 0[0 0 0 55!0 55|0 345!0 345[0 400 53 400!53 400|2727 400!2727 400[2780 400 2780 345"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="123" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="8" ty="2.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Unsubscribe</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

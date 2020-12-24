@@ -1,0 +1,91 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Profile/New Tabs/tab_friends" itemID="55cf4d05-00000214" lastModified="1545506658">
+  <timeline>
+    <DOMTimeline name="tab_friends">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="76" height="17.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="38" ty="11"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Friends</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="17.5" size="14" bitmapSize="280" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="137.999993169811" blurX="3" blurY="3" distance="1" quality="3" strength="2"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMBitmapInstance libraryItemName="smilie.png">
+                  <matrix>
+                    <Matrix tx="12" ty="11"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="190" objectHeight="38" x="4" y="21" topLeftRadius="5" topRightRadius="5">
+                  <matrix>
+                    <Matrix tx="-4" ty="-21"/>
+                  </matrix>
+                  <fill>
+                    <LinearGradient>
+                      <matrix>
+                        <Matrix a="0" b="0.028076171875" c="-0.052490234375" d="0" tx="47" ty="41"/>
+                      </matrix>
+                      <GradientEntry color="#333333" ratio="0"/>
+                      <GradientEntry color="#111111" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" pixelHinting="true">
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="190" objectHeight="38" x="4" y="21" topLeftRadius="5" topRightRadius="5">
+                  <matrix>
+                    <Matrix tx="-4" ty="-21"/>
+                  </matrix>
+                  <fill>
+                    <LinearGradient>
+                      <matrix>
+                        <Matrix a="0" b="0.028076171875" c="-0.052490234375" d="0" tx="47" ty="41"/>
+                      </matrix>
+                      <GradientEntry color="#666666" ratio="0"/>
+                      <GradientEntry color="#444444" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" pixelHinting="true">
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

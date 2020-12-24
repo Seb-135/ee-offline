@@ -1,0 +1,75 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Profile/showfriendsbtn" itemID="4f9150d3-000002f9" linkageExportForAS="true" linkageClassName="asset_showfriends" symbolType="button" lastModified="1439614119">
+  <timeline>
+    <DOMTimeline name="showfriendsbtn">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#09436D"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.0115966796875" c="0.0394287109375" d="0" tx="32.5" ty="10"/>
+                        </matrix>
+                        <GradientEntry color="#07548A" ratio="0"/>
+                        <GradientEntry color="#5AAFEF" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!1275 390|25 390!25 390[4 390 4 345!4 345|4 55!4 55[4 10 25 10!25 10|1275 10!1275 10[1296 10 1296 55!1296 55|1296 345!1296 345[1296 390 1275 390"/>
+                    <Edge fillStyle0="1" edges="!1300 55[1300 0 1275 0!1275 0|25 0!25 0[0 0 0 55!0 55|0 345!0 345[0 400 25 400!25 400|1275 400!1275 400[1300 400 1300 345!1300 345|1300 55"/>
+                    <Edge cubics="!0 55(;0,55 0,345 0,345q0 55 0 345);"/>
+                    <Edge cubics="!4 345(4,345;4,345 4,55 4,55q4 345 4 55)4,55;"/>
+                    <Edge cubics="!1275 0(;1275,0 25,0 25,0q1275 0 25 0);"/>
+                    <Edge cubics="!1300 345(;1300,345 1300,55 1300,55q1300 345 1300 55);"/>
+                    <Edge cubics="!1275 400(;1292,400 1300,381 1300,345q1275 400Q1300 400q1300 345);"/>
+                    <Edge cubics="!1300 55(;1300,19 1292,0 1275,0q1300 55Q1300 0q1275 0);"/>
+                    <Edge cubics="!1296 345(1296,345;1296,375 1288,390 1275,390q1296 345Q1296 390q1275 390)1275,390;"/>
+                    <Edge cubics="!1296 55(1296,55;1296,55 1296,345 1296,345q1296 55 1296 345)1296,345;"/>
+                    <Edge cubics="!1275 10(1275,10;1288,10 1296,25 1296,55q1275 10Q1296 10q1296 55)1296,55;"/>
+                    <Edge cubics="!0 345(;0,381 8,400 25,400q0 345Q0 400q25 400);"/>
+                    <Edge cubics="!25 0(;8,0 0,19 0,55q25 0Q0 0q0 55);"/>
+                    <Edge cubics="!4 55(4,55;4,25 12,10 25,10q4 55Q4 10q25 10)25,10;"/>
+                    <Edge cubics="!25 390(25,390;12,390 4,375 4,345q25 390Q4 390q4 345)4,345;"/>
+                    <Edge cubics="!25 400(;25,400 1275,400 1275,400q25 400 1275 400);"/>
+                    <Edge cubics="!25 10(;25,10 1275,10 1275,10q25 10 1275 10);"/>
+                    <Edge cubics="!1275 390(1275,390;1275,390 25,390 25,390q1275 390 25 390)25,390;"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText selected="true" width="61" height="12.5" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.999969482421875" tx="2.95" ty="3.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Friends</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12.5" size="10" bitmapSize="200" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

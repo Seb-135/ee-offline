@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="halfcircle" itemID="50a5ffb5-00000329" symbolType="graphic" lastModified="1353058271">
+  <timeline>
+    <DOMTimeline name="halfcircle">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!0 130[0 183 38 221!38 221[76 260 130 260!130 260/130 132!130 132/130 0!130 0[76 0 38 38!38 38[0 77 0 130"/>
+                    <Edge cubics="!130 260(;130,260 63,247 38,221q130 260Q76 260q38 221);"/>
+                    <Edge cubics="!38 221(;13,196 0,165 0,130q38 221Q0 183q0 130);"/>
+                    <Edge cubics="!0 130(;0,95 13,64 38,38q0 130Q0 77q38 38);"/>
+                    <Edge cubics="!38 38(;63,13 130,0 130,0q38 38Q76 0q130 0);"/>
+                    <Edge cubics="!130 260(;130,260 130,132 130,132q130 260 130 132);"/>
+                    <Edge cubics="!130 132(;130,132 130,0 130,0q130 132 130 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

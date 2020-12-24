@@ -1,0 +1,55 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Roomlist/assets/pathlock" itemID="4d9e0161-00001554" lastModified="1302200680">
+  <timeline>
+    <DOMTimeline name="pathlock">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="8.1" objectHeight="8.1" x="25.1" y="4.95" selected="true" topLeftRadius="5" topRightRadius="5">
+                  <matrix>
+                    <Matrix a="0.5977783203125" d="0.52630615234375" tx="-13.4" ty="-2.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.1" y="8.95"/>
+                  </transformationPoint>
+                  <stroke>
+                    <SolidStroke scaleMode="horizontal" weight="0.05" pixelHinting="true" joints="bevel" solidStyle="hairline">
+                      <fill>
+                        <SolidColor color="#CCCCCC"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMRectangleObject objectWidth="8.1" objectHeight="8.1" x="25.1" y="4.95" selected="true" topLeftRadius="2" topRightRadius="2">
+                  <matrix>
+                    <Matrix a="0.988571166992188" d="0.870361328125" tx="-24.8" ty="-0.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29.1" y="9"/>
+                  </transformationPoint>
+                  <fill>
+                    <LinearGradient>
+                      <matrix>
+                        <Matrix a="0" b="-0.013458251953125" c="0.00494384765625" d="0" tx="29.15" ty="9"/>
+                      </matrix>
+                      <GradientEntry ratio="0"/>
+                      <GradientEntry color="#FFFFFF" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="horizontal" weight="0.05" pixelHinting="true" joints="bevel" solidStyle="hairline">
+                      <fill>
+                        <SolidColor color="#CCCCCC"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,51 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btn_FBShare" itemID="551817ac-0000040e" symbolType="button" lastModified="1427642284">
+  <timeline>
+    <DOMTimeline name="btn_FBShare">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="gx_btn_bg" selected="true" centerPoint3DX="77.25" centerPoint3DY="10.6">
+                  <matrix>
+                    <Matrix a="3.3282470703125"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23.25" y="10.6"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.31" tintColor="#628BFF"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMDynamicText selected="true" width="141.5" height="15" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="7.25" ty="3.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Share on Facebook</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="gx_btn_overlay" selected="true" centerPoint3DX="23.1" centerPoint3DY="4.45">
+                  <matrix>
+                    <Matrix a="3.43353271484375" tx="0.9" ty="0.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="3.55"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.55" tintColor="#00BEFF"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

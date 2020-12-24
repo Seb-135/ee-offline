@@ -1,0 +1,117 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TermsWindow" itemID="510680b5-000003d5" linkageExportForAS="true" linkageClassName="assets_termswindow" lastModified="1528051286" lastUniqueIdentifier="7">
+  <timeline>
+    <DOMTimeline name="TermsWindow">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Login/LoginBackground" name="bg" centerPoint3DX="-3.3" centerPoint3DY="127.45">
+                  <matrix>
+                    <Matrix a="0.511520385742188" d="2.3858642578125" ty="36.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="606.05" y="-7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Shop/Smileys/Guy" symbolType="graphic" firstFrame="9" centerPoint3DX="99" centerPoint3DY="96.55" loop="single frame">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="67" ty="44.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="26"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.41"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Shop/Smileys/Guy" symbolType="graphic" firstFrame="6" centerPoint3DX="212" centerPoint3DY="104.55" loop="single frame">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="180" ty="52.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="26"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.29"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMStaticText width="277" height="22.5" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="12" ty="218"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Terms and Conditions</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="22.5" size="18" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMDynamicText name="errors" fontRenderingMode="bitmap" width="278.15" height="13.35" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="17" ty="387"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="13.35" bitmapSize="240" face="ArialReg*" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Shop/Smileys/Guy" symbolType="graphic" firstFrame="1" centerPoint3DX="150" centerPoint3DY="133.55" loop="single frame">
+                  <matrix>
+                    <Matrix a="3" d="3" tx="102" ty="55.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="26"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="OkButton" name="btnOk" centerPoint3DX="155" centerPoint3DY="430">
+                  <matrix>
+                    <Matrix tx="10" ty="410"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="145" y="20"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="283.95" height="106.95" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="12" ty="245.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Before playing Everybody Edits, please read and accept the Terms &amp; Conditions. They also include general rules of how to behave. Enjoy!&#xD;&#xD;We're allowed to change our Terms &amp; Conditions at any time. Therefore you'll have to accept again when we change it.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="2.25" lineHeight="13.35" face="ArialReg*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Login/loginsimple_assets/TermsButton" name="termsbutton" centerPoint3DX="97.5" centerPoint3DY="380.65">
+                  <matrix>
+                    <Matrix tx="11" ty="366.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="TermsText" name="termslink" centerPoint3DX="166.25" centerPoint3DY="380.6">
+                  <matrix>
+                    <Matrix tx="38" ty="371.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="128.25" y="8.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

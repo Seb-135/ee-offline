@@ -1,0 +1,106 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shop/shop_newitem" itemID="4fcdc1f9-00000300" lastModified="1528051544" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="shop_newitem" currentFrame="179">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="180" keyMode="9728">
+              <elements>
+                <DOMShape selected="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!121 196|121 54!121 54|178 54!178 54|178 196!178 196|121 196!178 224|178 252!178 252|121 252!121 252|121 224!121 224|178 224"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="179" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="gx_star" centerPoint3DX="7.7" centerPoint3DY="7.8">
+                  <matrix>
+                    <Matrix a="1.2440185546875" d="1.2440185546875" tx="1.2" ty="1.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.25" y="5.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="179" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="gx_star" centerPoint3DX="7.65" centerPoint3DY="7.8">
+                  <matrix>
+                    <Matrix a="1.2440185546875" d="1.2440185546875" tx="1.2" ty="1.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.2" y="5.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="164" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="gx_circle" centerPoint3DX="7.5" centerPoint3DY="7.5">
+                  <transformationPoint>
+                    <Point x="7.5" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="164" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <tweens>
+                <Ease target="all" intensity="-100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="gx_circle" selected="true" centerPoint3DX="7.5" centerPoint3DY="7.5">
+                  <transformationPoint>
+                    <Point x="7.5" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="172" duration="7" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="100">
+              <tweens>
+                <Ease target="all" intensity="100"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="gx_circle" centerPoint3DX="7.5" centerPoint3DY="7.5">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="-3.8" ty="-3.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.55" y="7.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="0.9"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="179" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="gx_circle" centerPoint3DX="7.5" centerPoint3DY="7.5">
+                  <transformationPoint>
+                    <Point x="7.5" y="7.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

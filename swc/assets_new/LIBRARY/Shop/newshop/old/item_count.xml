@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shop/newshop/old/item_count" itemID="5021148f-00000398" linkageExportForAS="true" linkageClassName="assets_itemcount" lastModified="1422991803" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="item_count">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shop/newshop/old/item_count_bg" name="bg" centerPoint3DX="6.95" centerPoint3DY="9.05">
+                  <matrix>
+                    <Matrix a="1.63214111328125" d="1.70294189453125"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="count" selected="true" width="46.3" height="11.4" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="7" ty="2.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Count: 10</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="11.15" size="10" bitmapSize="200" face="ArialReg*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

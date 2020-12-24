@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shop/newshop/old/item_bgbox" itemID="501f7b99-00000365" scaleGridLeft="21" scaleGridRight="63.05" scaleGridTop="28.5" scaleGridBottom="85.5" lastModified="1344240537">
+  <timeline>
+    <DOMTimeline name="item_bgbox">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#202020"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!90 0|1591 0!1591 0[1681 0 1681 90!1681 90|1681 2191!1681 2191[1681 2280 1591 2280!1591 2280|90 2280!90 2280[0 2280 0 2191!0 2191|0 90!0 90[0 0 90 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

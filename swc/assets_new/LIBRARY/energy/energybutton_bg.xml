@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="energy/energybutton_bg" itemID="5023b659-00000421" lastModified="1346835156">
+  <timeline>
+    <DOMTimeline name="energybutton_bg">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.02105712890625" c="0.02044677734375" d="0" tx="29.5" ty="17.25"/>
+                        </matrix>
+                        <GradientEntry color="#030305" ratio="0.235294117647059"/>
+                        <GradientEntry color="#FFFFFF" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1070 0S1|110 0!110 0[75 0 53 11!53 11[0 35 0 110!0 110|0 580!0 580[0 690 110 690!110 690|1070 690!1070 690[#45D.F4 690 1145 669!1145 669[1180 #282.0C 1180 580!1180 580|1180 110!1180 110[1180 0 1070 0"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!1145 638.5S3[#463.43 670 1070 670!1070 670|110 670!110 670[20 670 20 580!20 580|20 110!20 110[20 49 61 29!61 29|62 29!62 29[81 20 110 20!110 20|1070 20!1070 20[1160 20 1160 110!1160 110|1160 580!1160 580[1160 #268.BD 1145 638.5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

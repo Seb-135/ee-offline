@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Profile/New Tabs/tabbar" itemID="55cf4cfb-00000212" linkageExportForAS="true" linkageClassName="assets_tabbar" lastModified="1545506919" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="tabbar">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/New Tabs/tab_friends" name="tab_friends">
+                  <matrix>
+                    <Matrix tx="8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.75" y="19"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/New Tabs/tab_crew" name="tab_crew">
+                  <matrix>
+                    <Matrix tx="214"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.75" y="19"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/New Tabs/tab_inbox" name="tab_inbox">
+                  <matrix>
+                    <Matrix tx="420"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.75" y="19"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/New Tabs/tab_news" name="tab_news">
+                  <matrix>
+                    <Matrix tx="626"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.75" y="19"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

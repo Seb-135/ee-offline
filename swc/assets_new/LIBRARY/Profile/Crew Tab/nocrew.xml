@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Profile/Crew Tab/nocrew" itemID="55cefc04-0000077f" linkageExportForAS="true" linkageClassName="assets_nocrew" lastModified="1439634189">
+  <timeline>
+    <DOMTimeline name="nocrew">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="346" height="60.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="11.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Hey, it looks like you're not in a crew. Head over to the shop to start your own!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.75" size="15" bitmapSize="300" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Profile/Crew Tab/btn_openshop" name="btn_openshop" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix tx="63.5" ty="81"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

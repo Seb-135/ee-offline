@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="dollars" itemID="502cb2f6-0000038f" lastModified="1528053641">
+  <timeline>
+    <DOMTimeline name="dollars">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="6" height="9.45" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="4.9" ty="5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="9.45" size="8.5" bitmapSize="170" face="ArialReg*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Coin.png">
+                  <matrix>
+                    <Matrix tx="1.4" ty="2.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.5" y="8"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btn_delete" itemID="5516f1d0-00000489" symbolType="button" lastModified="1540319338">
+  <timeline>
+    <DOMTimeline name="btn_delete">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-639.7" ty="20.75"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.01544189453125" c="0.015411376953125" d="0" tx="672.25" ty="-8.1"/>
+                        </matrix>
+                        <GradientEntry color="#9A0000" ratio="0"/>
+                        <GradientEntry color="#EA0E00" ratio="0.607843137254902"/>
+                        <GradientEntry color="#FF7B7C" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#999999"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!14059 -415|12834 -415!12834 -415[12794 -415 12794 -375!12794 -375|12794 50!12794 50[12794 90 12834 90!12834 90|14059 90!14059 90[14099 90 14099 50!14099 50|14099 -375!14099 -375[14099 -415 14059 -415"/>
+                    <Edge cubics="!14099 -375(14099,-375;14099,-402 14086,-415 14059,-415q14099 -375Q14099 -415q14059 -415);"/>
+                    <Edge cubics="!12834 -415(;12807,-415 12794,-402 12794,-375q12834 -415Q12794 -415q12794 -375);"/>
+                    <Edge cubics="!12794 50(;12794,77 12807,90 12834,90q12794 50Q12794 90q12834 90);"/>
+                    <Edge cubics="!14059 90(14059,90;14086,90 14099,77 14099,50q14059 90Q14099 90q14099 50);"/>
+                    <Edge cubics="!12834 90(;12834,90 14059,90 14059,90q12834 90 14059 90);"/>
+                    <Edge cubics="!14099 50(14099,50;14099,50 14099,-375 14099,-375q14099 50 14099 -375);"/>
+                    <Edge cubics="!14059 -415(;14059,-415 12834,-415 12834,-415q14059 -415 12834 -415);"/>
+                    <Edge cubics="!12794 -375(;12794,-375 12794,50 12794,50q12794 -375 12794 50);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="81.95" height="22.5" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.729095458984375" d="0.729095458984375" tx="3.55" ty="5.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Delete</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="22.5" size="18" bitmapSize="360" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

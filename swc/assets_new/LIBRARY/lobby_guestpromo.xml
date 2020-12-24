@@ -1,0 +1,186 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="lobby_guestpromo" itemID="5c244fba-000003b9" linkageExportForAS="true" linkageClassName="assets_lobby_guestpromo" lastModified="1546119701">
+  <timeline>
+    <DOMTimeline name="lobby_guestpromo">
+      <layers>
+        <DOMLayer name="Kong" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Login/loginkongregatebtn" name="btnKongregate" symbolType="button" centerPoint3DX="183.55" centerPoint3DY="149.05">
+                  <matrix>
+                    <Matrix a="1.35417175292969" d="1.35417175292969" tx="64" ty="136"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="361" height="22.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="12" ty="12"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Get in on all the fun!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="22.5" size="18" bitmapSize="360" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMBitmapInstance libraryItemName="Guest Promo.png">
+                  <matrix>
+                    <Matrix a="2.99996948242188" d="2.99996948242188" tx="54" ty="38"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMStaticText width="156" height="14.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="196.05" ty="57"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Build with more blocks!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="14.5" size="13" bitmapSize="260" face="ArialReg*" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Topbar/lightning" centerPoint3DX="185.4" centerPoint3DY="65.1">
+                  <matrix>
+                    <Matrix a="0.131103515625" d="0.13226318359375" tx="182" ty="57.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.95" y="54.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="156" height="14.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="200.05" ty="75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Get unique smileys!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="14.5" size="13" bitmapSize="260" face="ArialReg*" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Topbar/lightning" centerPoint3DX="189.4" centerPoint3DY="83.1">
+                  <matrix>
+                    <Matrix a="0.131103515625" d="0.13226318359375" tx="186" ty="75.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.95" y="54.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="156" height="14.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="196.05" ty="93"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Chat with other players!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="14.5" size="13" bitmapSize="260" face="ArialReg*" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Topbar/lightning" centerPoint3DX="185.4" centerPoint3DY="101.1">
+                  <matrix>
+                    <Matrix a="0.131103515625" d="0.13226318359375" tx="182" ty="94"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.95" y="53.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="156" height="14.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="192.05" ty="111"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Make new friends!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="14.5" size="13" bitmapSize="260" face="ArialReg*" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Topbar/lightning" centerPoint3DX="181.4" centerPoint3DY="119.1">
+                  <matrix>
+                    <Matrix a="0.131103515625" d="0.13226318359375" tx="178" ty="112"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.95" y="53.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="156" height="14.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="192.05" ty="39"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Save your creations!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="14.5" size="13" bitmapSize="260" face="ArialReg*" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Topbar/lightning" centerPoint3DX="180.55" centerPoint3DY="46.25">
+                  <matrix>
+                    <Matrix a="0.131103515625" d="0.13226318359375" tx="178" ty="39.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19.45" y="47.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="register_btn_large_guest" name="btnRegister">
+                  <matrix>
+                    <Matrix a="0.66912841796875" d="0.666656494140625" tx="92" ty="136"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.2" y="20.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_1" color="#00FFFF" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="385" objectHeight="173" x="727.9" y="155.05" lockFlag="true" topLeftRadius="6" topRightRadius="6" bottomLeftRadius="6" bottomRightRadius="6">
+                  <matrix>
+                    <Matrix tx="-727.9" ty="-155.05"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#181818"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" pixelHinting="true">
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

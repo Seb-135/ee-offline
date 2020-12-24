@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Settings/chatitem" itemID="559b8e28-000006b5" lastModified="1540261657">
+  <timeline>
+    <DOMTimeline name="chatitem">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#111111"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" pixelHinting="true">
+                        <fill>
+                          <SolidColor color="#999999"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!1020 226|4560 226!4560 226[4600 226 4600 273!4600 273|4600 2632!4600 2632[4600 2679 4560 2679!4560 2679|40 2679!40 2679[0 2679 0 2632!0 2632|0 273!0 273[0 226 40 226!40 226|220 226"/>
+                    <Edge fillStyle1="1" edges="!220 226|1020 226"/>
+                    <Edge cubics="!4560 226(;4587,226 4600,242 4600,273q4560 226Q4600 226q4600 273);"/>
+                    <Edge cubics="!4600 2632(;4600,2664 4587,2679 4560,2679q4600 2632Q4600 2679q4560 2679);"/>
+                    <Edge cubics="!4600 273(;4600,273 4600,2632 4600,2632q4600 273 4600 2632);"/>
+                    <Edge cubics="!0 273(;0,242 13,226 40,226q0 273Q0 226q40 226);"/>
+                    <Edge cubics="!40 2679(;13,2679 0,2664 0,2632q40 2679Q0 2679q0 2632);"/>
+                    <Edge cubics="!0 2632(;0,2632 0,273 0,273q0 2632 0 273);"/>
+                    <Edge cubics="!4560 2679(;4560,2679 40,2679 40,2679q4560 2679 40 2679);"/>
+                    <Edge cubics="!40 226(;40,226 220,226 220,226q40 226 220 226);"/>
+                    <Edge cubics="!220 226(;220,226 1020,226 1020,226q220 226 1020 226);"/>
+                    <Edge cubics="!1020 226(;1020,226 4560,226 4560,226q1020 226 4560 226);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="36" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="15" ty="3.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Chat</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

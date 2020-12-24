@@ -1,0 +1,55 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shop/newshop/old/energybutton" itemID="501fada5-000003d7" lastModified="1435320388">
+  <timeline>
+    <DOMTimeline name="energybutton">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="energy/energybutton_bg" name="bg" centerPoint3DX="29.5" centerPoint3DY="17.25">
+                  <transformationPoint>
+                    <Point x="29.5" y="17.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Shop/Topbar/lightning" centerPoint3DX="47.05" centerPoint3DY="10.35">
+                  <matrix>
+                    <Matrix a="0.13836669921875" d="0.11236572265625" tx="43.55" ty="4.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.3" y="53.4"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter color="#1F1F21" distance="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="tf_click" selected="true" width="46" height="12.2" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="6" ty="4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Add 25</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="11.15" size="10" bitmapSize="200" face="ArialReg*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="269.999993169811" blurX="1" blurY="1" distance="1" strength="0.5"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

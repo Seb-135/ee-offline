@@ -1,0 +1,80 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Profile/Crew Tab/Top Bar Buttons/TopBar" itemID="55d56553-00000849" linkageExportForAS="true" linkageClassName="assets_crewtabbar" lastModified="1545839312">
+  <timeline>
+    <DOMTimeline name="TopBar">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/Crew Tab/Top Bar Buttons/topbtn_editranks" name="btn_editranks">
+                  <matrix>
+                    <Matrix tx="-158" ty="22"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/Crew Tab/Top Bar Buttons/topbtn_invite" name="btn_invite">
+                  <matrix>
+                    <Matrix tx="-132"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/Crew Tab/Top Bar Buttons/topbtn_members" name="btn_members">
+                  <matrix>
+                    <Matrix tx="-1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/Crew Tab/Top Bar Buttons/topbtn_newalert" name="btn_createalert">
+                  <matrix>
+                    <Matrix tx="-83" ty="22"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/Crew Tab/Top Bar Buttons/topbtn_pending" name="btn_pending">
+                  <matrix>
+                    <Matrix tx="-69"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/Crew Tab/Top Bar Buttons/topbtn_switchcrew" name="btn_switchcrew">
+                  <matrix>
+                    <Matrix tx="5" ty="22"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/Crew Tab/Top Bar Buttons/topbtn_worlds" name="btn_worlds">
+                  <matrix>
+                    <Matrix tx="67"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/Crew Tab/Top Bar Buttons/topbtn_leave" name="btn_leave">
+                  <matrix>
+                    <Matrix tx="92" ty="22"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="32.95" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

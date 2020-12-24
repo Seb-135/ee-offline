@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="shopbar_username" itemID="55d1d946-0000025e" lastModified="1528051368">
+  <timeline>
+    <DOMTimeline name="shopbar_username">
+      <layers>
+        <DOMLayer name="Username" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_username" width="82.95" height="16.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="2.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USERNAME</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="16.25" size="13" bitmapSize="260" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Highlight" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shopbar_username_highlight" name="highlight">
+                  <matrix>
+                    <Matrix tx="1.45" ty="16.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="38.35" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

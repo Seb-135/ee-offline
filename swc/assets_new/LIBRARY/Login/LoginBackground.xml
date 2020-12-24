@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Login/LoginBackground" itemID="4c62cb81-000003b2" scaleGridLeft="151.5" scaleGridRight="454.5" scaleGridTop="39.75" scaleGridBottom="133.3" lastModified="1341830792">
+  <timeline>
+    <DOMTimeline name="LoginBackground">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.05" pixelHinting="true" solidStyle="hairline">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!157 -140[0 -140 0 9!0 9/0 3452!0 3452[0 3601 157 3601!157 3601/11962 3601!11962 3601[12120 3601 12120 3452!12120 3452/12120 9!12120 9[12120 -140 11962 -140!11962 -140/157 -140"/>
+                    <Edge cubics="!11962 -140(;11962,-140 157,-140 157,-140q11962 -140 157 -140);"/>
+                    <Edge cubics="!11962 3601(;12067,3601 12120,3551 12120,3452q11962 3601Q12120 3601q12120 3452);"/>
+                    <Edge cubics="!12120 3452(;12120,3452 12120,9 12120,9q12120 3452 12120 9);"/>
+                    <Edge cubics="!0 3452(;0,3551 52,3601 157,3601q0 3452Q0 3601q157 3601);"/>
+                    <Edge cubics="!0 9(;0,9 0,3452 0,3452q0 9 0 3452);"/>
+                    <Edge cubics="!157 3601(;157,3601 11962,3601 11962,3601q157 3601 11962 3601);"/>
+                    <Edge cubics="!157 -140(;52,-140 0,-90 0,9q157 -140Q0 -140q0 9);"/>
+                    <Edge cubics="!12120 9(;12120,-90 12067,-140 11962,-140q12120 9Q12120 -140q11962 -140);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#202020"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!157 -140[0 -140 0 9!0 9/0 3452!0 3452[0 3601 157 3601!157 3601/11962 3601!11962 3601[12120 3601 12120 3452!12120 3452/12120 9!12120 9[12120 -140 11962 -140!11962 -140/157 -140"/>
+                    <Edge cubics="!11962 -140(;11962,-140 157,-140 157,-140q11962 -140 157 -140);"/>
+                    <Edge cubics="!11962 3601(;12067,3601 12120,3551 12120,3452q11962 3601Q12120 3601q12120 3452);"/>
+                    <Edge cubics="!12120 3452(;12120,3452 12120,9 12120,9q12120 3452 12120 9);"/>
+                    <Edge cubics="!0 3452(;0,3551 52,3601 157,3601q0 3452Q0 3601q157 3601);"/>
+                    <Edge cubics="!0 9(;0,9 0,3452 0,3452q0 9 0 3452);"/>
+                    <Edge cubics="!157 3601(;157,3601 11962,3601 11962,3601q157 3601 11962 3601);"/>
+                    <Edge cubics="!157 -140(;52,-140 0,-90 0,9q157 -140Q0 -140q0 9);"/>
+                    <Edge cubics="!12120 9(;12120,-90 12067,-140 11962,-140q12120 9Q12120 -140q11962 -140);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

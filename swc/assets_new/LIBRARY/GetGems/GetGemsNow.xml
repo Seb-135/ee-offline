@@ -1,0 +1,1392 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="GetGems/GetGemsNow" itemID="4cffd662-00000445" linkageExportForAS="true" linkageClassName="GetGemsNow" lastModified="1543285799" lastUniqueIdentifier="93">
+  <timeline>
+    <DOMTimeline name="GetGemsNow">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="gem_icon" centerPoint3DX="199.1" centerPoint3DY="92.6">
+                  <matrix>
+                    <Matrix a="2.37454223632813" d="2.37799072265625" tx="143.25" ty="36.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23.5" y="23.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.3984375"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="gem_icon" centerPoint3DX="186.35" centerPoint3DY="92.4">
+                  <matrix>
+                    <Matrix a="2.37454223632813" d="2.37799072265625" tx="130.5" ty="36.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23.5" y="23.4"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="1" blurY="1"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.69921875"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="gem_icon" centerPoint3DX="175.7" centerPoint3DY="92.4">
+                  <matrix>
+                    <Matrix a="2.37457275390625" d="2.3753662109375" tx="120" ty="36.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23.45" y="23.4"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="14" blurY="14" quality="3" strength="0.85"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Checkout" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Topbar/gem" centerPoint3DX="191.55" centerPoint3DY="176.25">
+                  <matrix>
+                    <Matrix a="0.993331909179688" d="0.987319946289063" tx="170" ty="154.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.7" y="21.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="81" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="191.3" ty="152.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>50 Gems</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="60.25" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="283" ty="152.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$5 </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>USD</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="btnBuy" name="buybtn3" symbolType="button">
+                  <matrix>
+                    <Matrix tx="352.25" ty="147.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="53.5" y="13"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#000000"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Topbar/gem" centerPoint3DX="191.55" centerPoint3DY="207.05">
+                  <matrix>
+                    <Matrix a="0.993331909179688" d="0.987319946289063" tx="170" ty="185.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.7" y="21.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="81" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="191.3" ty="183.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>105 Gems</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="62.25" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="282" ty="183.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$10 </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>USD</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="btnBuy" name="buybtn4" symbolType="button">
+                  <matrix>
+                    <Matrix tx="352.25" ty="177.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="53.5" y="13"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#000000"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Topbar/gem" centerPoint3DX="191.55" centerPoint3DY="235.9">
+                  <matrix>
+                    <Matrix a="0.993331909179688" d="0.987319946289063" tx="170" ty="214.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.7" y="21.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="81" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="191.3" ty="212"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>220 Gems</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="84.55" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="258.7" ty="212"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$20 </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>USD</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="btnBuy" name="buybtn5" symbolType="button">
+                  <matrix>
+                    <Matrix tx="352.25" ty="207"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="53.5" y="13"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#000000"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Topbar/gem" centerPoint3DX="191.55" centerPoint3DY="265.6">
+                  <matrix>
+                    <Matrix a="0.993331909179688" d="0.987319946289063" tx="170" ty="244.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.7" y="21.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="81" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="191.3" ty="241.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>575 Gems</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="84.55" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="258.7" ty="241.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$50 </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>USD</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="btnBuy" name="buybtn6" symbolType="button">
+                  <matrix>
+                    <Matrix tx="352.25" ty="236.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="53.5" y="13"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#000000"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Topbar/gem" centerPoint3DX="191.55" centerPoint3DY="321.95">
+                  <matrix>
+                    <Matrix a="0.993331909179688" d="0.987319946289063" tx="170" ty="300.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.7" y="21.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="81" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="191.3" ty="298.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>1000 Gems</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="84.55" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="258.7" ty="298.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$85 </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>USD</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="btnBuy" name="buybtn7" symbolType="button">
+                  <matrix>
+                    <Matrix tx="352.25" ty="293.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="53.5" y="13"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#000000"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Topbar/gem" centerPoint3DX="198.5" centerPoint3DY="148.55">
+                  <matrix>
+                    <Matrix a="0.999465942382813" d="0.999847412109375" tx="177.8" ty="126.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.7" y="21.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="81" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="200.3" ty="126.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>20 Gems</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.6" size="14" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="85.95" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="274" ty="127.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>20 Kreds</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="GoPro" name="kreds3" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.99249267578125" d="0.99249267578125" tx="372.55" ty="125.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter distance="3" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Topbar/gem" centerPoint3DX="199.45" centerPoint3DY="175.45">
+                  <matrix>
+                    <Matrix a="0.99957275390625" d="0.99981689453125" tx="177.7" ty="153.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.75" y="21.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="81" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="200.2" ty="153.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>50 Gems</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.6" size="14" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="85.95" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="273.9" ty="154.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>50 Kreds</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="GoPro" name="kreds4" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.99249267578125" d="0.99249267578125" tx="372.45" ty="152.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter distance="3" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Topbar/gem" centerPoint3DX="200.15" centerPoint3DY="202.25">
+                  <matrix>
+                    <Matrix a="0.99957275390625" d="0.99981689453125" tx="178.35" ty="180.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.8" y="21.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="81" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="200.85" ty="180.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>100 Gems</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.6" size="14" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="85.95" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="273.55" ty="181.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>100 Kreds</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="GoPro" name="kreds5" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.99249267578125" d="0.99249267578125" tx="373.1" ty="179.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter distance="3" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Topbar/gem" centerPoint3DX="200.2" centerPoint3DY="229.4">
+                  <matrix>
+                    <Matrix a="0.99957275390625" d="0.99981689453125" tx="178.3" ty="207.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.9" y="21.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="81" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="200.7" ty="207.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>200 Gems</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.6" size="14" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="85.95" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="273.4" ty="208.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>200 Kreds</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="GoPro" name="kreds6" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.99249267578125" d="0.99249267578125" tx="372.95" ty="206.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter distance="3" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Topbar/gem" centerPoint3DX="199.55" centerPoint3DY="148.4">
+                  <matrix>
+                    <Matrix a="0.993331909179688" d="0.99981689453125" tx="177.85" ty="126.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.85" y="21.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="81" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="200.3" ty="126.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>20 Gems</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.6" size="14" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="85.95" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="278" ty="127.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>20 Credits</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" face="ArialBold*" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="GoPro" name="credits3" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.99249267578125" d="0.99249267578125" tx="373.55" ty="125.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter distance="3" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Topbar/gem" centerPoint3DX="199.2" centerPoint3DY="175.45">
+                  <matrix>
+                    <Matrix a="0.993331909179688" d="0.99981689453125" tx="177.65" ty="153.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.7" y="21.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="81" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="200.2" ty="153.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>50 Gems</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.6" size="14" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="85.95" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="277.9" ty="154.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>50 Credits</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" face="ArialBold*" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="GoPro" name="credits4" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.99249267578125" d="0.99249267578125" tx="373.45" ty="152.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter distance="3" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Topbar/gem" centerPoint3DX="199.85" centerPoint3DY="202.25">
+                  <matrix>
+                    <Matrix a="0.993331909179688" d="0.99981689453125" tx="178.3" ty="180.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.7" y="21.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="81" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="200.85" ty="180.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>100 Gems</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.6" size="14" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="85.95" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="277.55" ty="181.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>100 Credits</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" face="ArialBold*" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="GoPro" name="credits5" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.99249267578125" d="0.99249267578125" tx="374.1" ty="179.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter distance="3" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Topbar/gem" centerPoint3DX="199.8" centerPoint3DY="229.4">
+                  <matrix>
+                    <Matrix a="0.993331909179688" d="0.99981689453125" tx="178.25" ty="207.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.7" y="21.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="81" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="200.7" ty="207.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>200 Gems</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.6" size="14" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="85.95" height="15.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="277.4" ty="208.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>200 Credits</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" face="ArialBold*" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="GoPro" name="credits6" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.99249267578125" d="0.99249267578125" tx="373.95" ty="206.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter distance="3" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Middle" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="GetGems_Middle" centerPoint3DX="313.95" centerPoint3DY="221.95">
+                  <matrix>
+                    <Matrix a="1.17521667480469" d="0.83111572265625" tx="152" ty="95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.3"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#000000" inner="true" quality="3" strength="2.79"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMStaticText width="259.9" height="20.1" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="187.05" ty="65.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Get Everybody Edits Gems!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="20.1" size="18" bitmapSize="360" face="ArialBold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Shop/nothanks" name="closebtn" symbolType="button" centerPoint3DX="490" centerPoint3DY="52.75">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="490" ty="52.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText left="2.25" width="146.35" height="15.6" autoExpand="true" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="168.25" ty="275.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Best value for money!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMBitmapInstance libraryItemName="Shop/paypal-transparent-logo.png">
+                  <matrix>
+                    <Matrix tx="168.8" ty="114.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="GetGems_Middle" centerPoint3DX="312.95" centerPoint3DY="175.2">
+                  <matrix>
+                    <Matrix a="1.1824951171875" d="0.831039428710938" tx="151" ty="95.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#000000" inner="true" quality="3" strength="2.79"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMStaticText width="304" height="20.1" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="161" ty="65.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Get Gems with Kongregate Kreds!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="20.1" size="18" bitmapSize="360" face="ArialBold*" fillColor="#BC1010"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Shop/nothanks" name="closebtn" symbolType="button" centerPoint3DX="490" centerPoint3DY="52.75">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="490" ty="52.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="GetGems_Middle" centerPoint3DX="313.95" centerPoint3DY="176.2">
+                  <matrix>
+                    <Matrix a="1.17886352539063" d="0.831069946289063" tx="152" ty="95.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#000000" inner="true" quality="3" strength="2.79"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMStaticText width="309.9" height="20.1" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="159.05" ty="65.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Get Gems with Facebook Credits</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="20.1" size="18" bitmapSize="360" face="ArialBold*" fillColor="#6699FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Shop/nothanks" name="closebtn" symbolType="button" centerPoint3DX="490" centerPoint3DY="52.75">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="490" ty="52.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMBitmapInstance libraryItemName="fbc.png">
+                  <matrix>
+                    <Matrix tx="263" ty="235"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Background" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="newbuybg" name="bg" centerPoint3DX="314.25" centerPoint3DY="241.4">
+                  <matrix>
+                    <Matrix d="1.04478454589844" tx="137.55" ty="51.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#666666" quality="3" strength="1.13"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="shortText" fontRenderingMode="bitmap" left="-16.8" width="338.95" height="13.75" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="161.05" ty="385.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" lineHeight="13.75" size="11" bitmapSize="220" face="system*" fillColor="#CC0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="10" blurY="10" color="#000000" quality="2" strength="3.19"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 10" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="gambit" color="#FF4FFF" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shop/buywithcoinsnow" name="ggbtn" symbolType="button">
+                  <matrix>
+                    <Matrix a="1.25018310546875" d="1.25054931640625" tx="427.25" ty="307.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#000000"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMBitmapInstance libraryItemName="mobile_logo11.gif">
+                  <matrix>
+                    <Matrix tx="408.95" ty="301.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 8" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="old" color="#FF800A" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" left="50.65" width="42.7" height="13.35" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="200.45" ty="161.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Loading</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="13.35" bitmapSize="240" face="ArialReg*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" left="50.65" width="42.7" height="13.35" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="200.45" ty="191.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Loading</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="13.35" bitmapSize="240" face="ArialReg*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Topbar/gem" centerPoint3DX="45.95" centerPoint3DY="199.1">
+                  <matrix>
+                    <Matrix a="0.34564208984375" d="0.34368896484375" tx="38.45" ty="191.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.7" y="21.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" width="81" height="15.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="60" ty="191.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>15 Gems</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="84.55" height="15.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="119.4" ty="191.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$2 </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>USD</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="btnBuy" name="buybtn2" symbolType="button">
+                  <matrix>
+                    <Matrix tx="218.95" ty="186.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="53.5" y="13"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#000000"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Topbar/gem" centerPoint3DX="45.95" centerPoint3DY="168.75">
+                  <matrix>
+                    <Matrix a="0.34564208984375" d="0.34368896484375" tx="38.45" ty="161.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.7" y="21.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" width="81" height="15.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="60" ty="160.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>5 Gems</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="84.55" height="15.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="119.4" ty="160.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$1 </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>USD</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="btnBuy" name="buybtn1" symbolType="button">
+                  <matrix>
+                    <Matrix tx="218.95" ty="155.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="53.5" y="13"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#000000"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" width="42.75" height="13.35" autoExpand="true" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="407.95" ty="166.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Loading</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.35" bitmapSize="240" face="ArialReg*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="42.75" height="13.35" autoExpand="true" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="407.95" ty="197.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Loading</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.35" bitmapSize="240" face="ArialReg*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Topbar/gem" centerPoint3DX="126.75" centerPoint3DY="173.35">
+                  <matrix>
+                    <Matrix a="0.34564208984375" d="0.34368896484375" tx="119.25" ty="165.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.7" y="21.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" width="81" height="15.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="140.8" ty="165.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>5 Gems for</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold_no*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" left="0.05" width="51.55" height="15.6" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="321.95" ty="165.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>5 Kreds</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold_no*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="GoPro" name="kreds1" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.99249267578125" d="0.99249267578125" tx="389.95" ty="163.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter distance="3" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Topbar/gem" centerPoint3DX="126.75" centerPoint3DY="204.1">
+                  <matrix>
+                    <Matrix a="0.34564208984375" d="0.34368896484375" tx="119.25" ty="196.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.7" y="21.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" width="81" height="15.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="140.8" ty="196.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>10 Gems for</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold_no*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" left="-7.75" width="59.35" height="15.6" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="321.95" ty="196.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>10 Kreds</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold_no*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="GoPro" name="kreds2" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.99249267578125" d="0.99249267578125" tx="389.95" ty="194.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter distance="3" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" width="42.75" height="13.35" autoExpand="true" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="460.95" ty="166.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Loading</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.35" bitmapSize="240" face="ArialReg*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="42.75" height="13.35" autoExpand="true" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="460.95" ty="197.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Loading</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.35" bitmapSize="240" face="ArialReg*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Topbar/gem" centerPoint3DX="164.75" centerPoint3DY="173.35">
+                  <matrix>
+                    <Matrix a="0.34564208984375" d="0.34368896484375" tx="157.25" ty="165.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.7" y="21.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" width="81" height="15.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="178.8" ty="165.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>10 Gems for</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" left="-16.3" width="67.9" height="15.6" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="359.95" ty="165.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>10 Credits</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="GoPro" name="credits1" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.99249267578125" d="0.99249267578125" tx="434.95" ty="163.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter distance="3" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Topbar/gem" centerPoint3DX="164.75" centerPoint3DY="204.1">
+                  <matrix>
+                    <Matrix a="0.34564208984375" d="0.34368896484375" tx="157.25" ty="196.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.7" y="21.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" width="81" height="15.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="178.8" ty="196.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>20 Gems for</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" left="-16.3" width="67.9" height="15.6" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="359.95" ty="196.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>20 Credits</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialBold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="GoPro" name="credits2" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.99249267578125" d="0.99249267578125" tx="434.95" ty="194.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter distance="3" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMBitmapInstance libraryItemName="fbcsmall.png">
+                  <matrix>
+                    <Matrix tx="414.9" ty="166.4"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="fbcsmall.png">
+                  <matrix>
+                    <Matrix tx="414.9" ty="197.4"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#808080">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="closebtn" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 11" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="GemBG" name="bg" centerPoint3DX="312.95" centerPoint3DY="199.45">
+                  <matrix>
+                    <Matrix d="0.821624755859375" tx="135.95" ty="50.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.6" y="-1.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 9" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 12" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,41 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="reload" itemID="4fb10f17-000003f2" lastModified="1528051993">
+  <timeline>
+    <DOMTimeline name="reload">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.007904052734375" d="0.007904052734375"/>
+                        </matrix>
+                        <GradientEntry color="#136900" ratio="0"/>
+                        <GradientEntry color="#69DE5F" ratio="0.635294117647059"/>
+                        <GradientEntry color="#CEE9C9" ratio="0.780392156862745"/>
+                        <GradientEntry color="#35852A" ratio="0.874509803921569"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!85 -85[120 -50 120 0!120 0[120 50 85 85!85 85[50 120 0 120!0 120[-50 120 -85 85!-85 85[-120 50 -120 0!-120 0[-120 -50 -85 -85!-85 -85[-50 -120 0 -120!0 -120[50 -120 85 -85"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,55 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Login/Profile/Crew/disabledFaceplateOverlay" itemID="55fd0ea8-000002fa" lastModified="1442648826">
+  <timeline>
+    <DOMTimeline name="disabledFaceplateOverlay">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#434343" alpha="0.8"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!149 20[20 20 20 220!20 220|20 3219!20 3219[20 3420 149 3420!149 3420|6891 3420!6891 3420[7020 3420 7020 3219!7020 3219|7020 220!7020 220[7020 20 6891 20!6891 20|149 20"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText left="-74.05" width="346.95" height="25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="75.05" ty="71.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Locked</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="25" size="20" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter blurX="4" blurY="4" distance="4"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="bitmap" left="-23" width="346.95" height="10" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="25" ty="97.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Buy a faceplate to unlock</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

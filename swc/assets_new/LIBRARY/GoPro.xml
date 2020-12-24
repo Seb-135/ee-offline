@@ -1,0 +1,105 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="GoPro" itemID="4cd146ab-000002d0" symbolType="button" lastModified="1336744857">
+  <timeline>
+    <DOMTimeline name="GoPro">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E1A91F" alpha="0"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!0 84|0 112!0 112[147 143 294 142!294 142[581 142 1044 130!1044 130[1141 127 1151 125!1151 125[1285 107 1342 105!1342 105[1436 104 1508 131!1508 131/1508 84"/>
+                    <Edge edges="!1508 84|1044 84!1044 84|0 84"/>
+                    <Edge cubics="!1508 131(;1508,131 1508,84 1508,84p1508 131q1508 84);"/>
+                    <Edge cubics="!1508 45(;1508,15 1493,0 1464,0q1508 45Q1508 0q1464 0);"/>
+                    <Edge cubics="!1508 47(;1508,47 1508,45 1508,45q1508 47 1508 45);"/>
+                    <Edge cubics="!1508 84(;1508,84 1508,47 1508,47q1508 84 1508 47);"/>
+                    <Edge cubics="!1151 125(;1247,112 1311,106 1342,105q1151 125Q1285 107q1342 105);"/>
+                    <Edge cubics="!294 142(;350,142 735,138 1044,130q294 142Q581 142q1044 130);"/>
+                    <Edge cubics="!1044 130(;1101,128 1138,127 1151,125q1044 130Q1141 127q1151 125);"/>
+                    <Edge cubics="!0 112(;98,133 196,143 294,142q0 112Q147 143q294 142);"/>
+                    <Edge cubics="!0 84(;0,84 0,112 0,112q0 84 0 112);"/>
+                    <Edge cubics="!0 45(;0,45 0,84 0,84q0 45 0 84);"/>
+                    <Edge cubics="!43 0(;14,0 0,15 0,45q43 0Q0 0q0 45);"/>
+                    <Edge cubics="!1342 105(;1406,104 1461,113 1508,131q1342 105Q1436 104q1508 131);"/>
+                    <Edge cubics="!0 84(;0,84 1044,84 1044,84q0 84 1044 84);"/>
+                    <Edge cubics="!1044 84(;1044,84 1508,84 1508,84q1044 84 1508 84);"/>
+                    <Edge cubics="!1464 0(;1464,0 1044,0 1044,0q1464 0 1044 0);"/>
+                    <Edge cubics="!1044 0(;1044,0 43,0 43,0q1044 0 43 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="3.0517578125e-05" b="0.01190185546875" c="-0.01171875" d="4.57763671875e-05" tx="22.2" ty="9.75"/>
+                        </matrix>
+                        <GradientEntry color="#5F5F5F" ratio="0"/>
+                        <GradientEntry ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <LinearGradient>
+                            <matrix>
+                              <Matrix a="0.0013885498046875" b="0.0142059326171875" c="-0.01165771484375" d="0.001129150390625" tx="22.3" ty="12.3"/>
+                            </matrix>
+                            <GradientEntry color="#C68E00" ratio="0"/>
+                            <GradientEntry color="#C28B00" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!1044 0/43 0!43 0[0 0 0 45!0 45|0 341!0 341[0 384 43 384!43 384/1044 384!1044 384/1464 384!1464 384[1508 384 1508 341!1508 341/1508 45!1508 45[1508 0 1464 0!1464 0/1044 0"/>
+                    <Edge cubics="!1508 45(;1508,15 1493,0 1464,0q1508 45Q1508 0q1464 0);"/>
+                    <Edge cubics="!1508 341(;1508,341 1508,45 1508,45q1508 341 1508 45);"/>
+                    <Edge cubics="!1464 384(;1493,384 1508,370 1508,341q1464 384Q1508 384q1508 341);"/>
+                    <Edge cubics="!0 341(;0,370 14,384 43,384q0 341Q0 384q43 384);"/>
+                    <Edge cubics="!0 45(;0,45 0,341 0,341q0 45 0 341);"/>
+                    <Edge cubics="!43 0(;14,0 0,15 0,45q43 0Q0 0q0 45);"/>
+                    <Edge cubics="!43 384(;43,384 1044,384 1044,384q43 384 1044 384);"/>
+                    <Edge cubics="!1044 384(;1044,384 1464,384 1464,384q1044 384 1464 384);"/>
+                    <Edge cubics="!1464 0(;1464,0 1044,0 1044,0q1464 0 1044 0);"/>
+                    <Edge cubics="!1044 0(;1044,0 43,0 43,0q1044 0 43 0);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText selected="true" width="86.4" height="17.5" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.729095458984375" d="0.729095458984375" tx="6.2" ty="2.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Buy now!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="17.5" size="14" bitmapSize="280" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

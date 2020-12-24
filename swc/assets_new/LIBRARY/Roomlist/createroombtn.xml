@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Roomlist/createroombtn" itemID="4da07bfe-00000374" symbolType="button" lastModified="1544212947" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="createroombtn">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#7A7A7A"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.0117340087890625" c="-0.0091705322265625" d="0" tx="56" ty="10"/>
+                        </matrix>
+                        <GradientEntry color="#33D52A" ratio="0"/>
+                        <GradientEntry color="#349127" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!2197 390|43 390!43 390[8 390 8 345!8 345|8 55!8 55[8 10 43 10!43 10|2197 10!2197 10[2232 10 2232 55!2232 55|2232 345!2232 345[2232 390 2197 390"/>
+                    <Edge fillStyle0="1" edges="!2240 55[2240 0 2197 0!2197 0|43 0!43 0[0 0 0 55!0 55|0 345!0 345[0 400 43 400!43 400|2197 400!2197 400[2240 400 2240 345!2240 345|2240 55"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="108" height="11.25" antiAliasSharpness="200" antiAliasThickness="-100" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Create World</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="11.25" size="9" bitmapSize="180" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

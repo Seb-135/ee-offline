@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Roomlist/filterworlds" itemID="4be851e3-00000b44" lastModified="1545590179">
+  <timeline>
+    <DOMTimeline name="filterworlds">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMInputText name="filter" selected="true" fontRenderingMode="bitmap" width="212.9" height="18" border="true">
+                  <matrix>
+                    <Matrix a="0.801559448242188" tx="2.6" ty="21"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="118.45" y="9"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="17.5" size="14" bitmapSize="280" face="NokiaCellphoneFC-Small"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMStaticText fontRenderingMode="bitmap" width="123" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Search worlds</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="15" bitmapSize="240" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

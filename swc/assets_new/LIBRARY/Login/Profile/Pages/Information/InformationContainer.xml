@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Login/Profile/Pages/Information/InformationContainer" itemID="5605541a-0000027f" lastModified="1522529567">
+  <timeline>
+    <DOMTimeline name="InformationContainer">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="458" objectHeight="388" x="469.95" y="245" lockFlag="true">
+                  <matrix>
+                    <Matrix tx="-469.95" ty="-245"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor alpha="0.00392156862745098"/>
+                  </fill>
+                </DOMRectangleObject>
+                <DOMSymbolInstance libraryItemName="Login/Profile/Pages/Information/RegisterInformation">
+                  <matrix>
+                    <Matrix ty="40.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="229" y="10.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Login/Profile/Pages/Information/GoldInformation">
+                  <matrix>
+                    <Matrix tx="0.05" ty="97"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="229" y="43.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Login/Profile/Pages/Information/BetaInformation">
+                  <matrix>
+                    <Matrix tx="0.05" ty="209.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="228.95" y="34.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Login/Profile/Pages/Information/EnergyInformation">
+                  <matrix>
+                    <Matrix tx="0.05" ty="293.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="229" y="37.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

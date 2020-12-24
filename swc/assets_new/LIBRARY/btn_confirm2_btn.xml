@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btn_confirm2_btn" itemID="5bf4ded1-000005de" symbolType="button" lastModified="1542774482">
+  <timeline>
+    <DOMTimeline name="btn_confirm2_btn">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#7A7A7A"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="1.52587890625e-05" b="-0.0213623046875" c="0.020263671875" d="1.52587890625e-05" tx="69.55" ty="17.5"/>
+                        </matrix>
+                        <GradientEntry color="#9A0000" ratio="0"/>
+                        <GradientEntry color="#EA0E00" ratio="0.607843137254902"/>
+                        <GradientEntry color="#FF7B7C" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!2727 683S3|53 683!53 683[9 683 9 604!9 604|9 97!9 97[9 18 53 18!53 18|2727 18!2727 18[2770 18 2770 97!2770 97|2770 604!2770 604[2770 683 2727 683"/>
+                    <Edge fillStyle0="1" edges="!2780 604S1|2780 97!2780 97[2780 0 2727 0!2727 0|53 0!53 0[0 0 0 97!0 97|0 604!0 604[0 701 53 701!53 701|2727 701!2727 701[2780 701 2780 604"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

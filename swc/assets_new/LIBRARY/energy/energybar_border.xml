@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="energy/energybar_border" itemID="50225730-00000205" scaleGridLeft="13.55" scaleGridRight="41.8" scaleGridTop="2.75" scaleGridBottom="9.35" lastModified="1344427853">
+  <timeline>
+    <DOMTimeline name="energybar_border">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="0.5" ty="0.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#999999"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!20 -10S1[-10 -10 -10 20!-10 20|-10 222!-10 222[-10 252 20 252!20 252|1087 252!1087 252[1117 252 1117 222!1117 222|1117 20!1117 20[1117 -10 1087 -10!1087 -10|20 -10!1097 222[1097 232 1087 232!1087 232|20 232!20 232[10 232 10 222!10 222
+|10 20!10 20[10 10 20 10!20 10|1087 10!1087 10[1097 10 1097 20!1097 20|1097 222"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Login/setanme" itemID="4cea68a7-000012fc" symbolType="button" lastModified="1336745174">
+  <timeline>
+    <DOMTimeline name="setanme">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="74.8" height="13.35" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="9.8" ty="3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Set username</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.35" bitmapSize="240" face="ArialReg*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" pixelHinting="true">
+                        <fill>
+                          <SolidColor color="#666666"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!1885 60[1885 0 1825 0!1825 0/60 0!60 0[0 0 0 60!0 60|0 340!0 340[0 400 60 400!60 400/1825 400!1825 400[1885 400 1885 340!1885 340/1885 60"/>
+                    <Edge cubics="!1825 400(;1865,400 1885,380 1885,340q1825 400Q1885 400q1885 340);"/>
+                    <Edge cubics="!1885 60(;1885,20 1865,0 1825,0q1885 60Q1885 0q1825 0);"/>
+                    <Edge cubics="!1885 340(;1885,340 1885,60 1885,60q1885 340 1885 60);"/>
+                    <Edge cubics="!0 340(;0,380 20,400 60,400q0 340Q0 400q60 400);"/>
+                    <Edge cubics="!0 60(;0,60 0,340 0,340q0 60 0 340);"/>
+                    <Edge cubics="!60 0(;20,0 0,20 0,60q60 0Q0 0q0 60);"/>
+                    <Edge cubics="!60 400(;60,400 1825,400 1825,400q60 400 1825 400);"/>
+                    <Edge cubics="!1825 0(;1825,0 60,0 60,0q1825 0 60 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

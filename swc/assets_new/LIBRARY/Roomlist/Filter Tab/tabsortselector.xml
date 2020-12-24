@@ -1,0 +1,133 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Roomlist/Filter Tab/tabsortselector" itemID="55d029c2-00000367" lastModified="1492114517">
+  <timeline>
+    <DOMTimeline name="tabsortselector" currentFrame="2">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Roomlist/sortby_shuffle" name="btn_beta" centerPoint3DX="282.2" centerPoint3DY="7">
+                  <matrix>
+                    <Matrix tx="262.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/sortby_woots" name="btn_likes" centerPoint3DX="85.5" centerPoint3DY="7">
+                  <matrix>
+                    <Matrix tx="68.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/sortby_plays" name="btn_plays" centerPoint3DX="167.2" centerPoint3DY="7">
+                  <matrix>
+                    <Matrix tx="152.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/sortby_online" name="btn_online" centerPoint3DX="125.55" centerPoint3DY="7">
+                  <matrix>
+                    <Matrix tx="107.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/sortby_featured" name="btn_featured" centerPoint3DX="29.9" centerPoint3DY="7">
+                  <matrix>
+                    <Matrix tx="10.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19.3" y="7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/sortby_myworlds" name="btn_myworlds" centerPoint3DX="253.4" centerPoint3DY="7">
+                  <matrix>
+                    <Matrix tx="226.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/sortby_open" name="btn_open" centerPoint3DX="202.65" centerPoint3DY="7">
+                  <matrix>
+                    <Matrix tx="188.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14.5" y="7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Roomlist/sortby_shuffle" name="btn_beta" centerPoint3DX="245.35" centerPoint3DY="7">
+                  <matrix>
+                    <Matrix tx="226.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/sortby_woots" name="btn_likes" centerPoint3DX="123.65" centerPoint3DY="7">
+                  <matrix>
+                    <Matrix tx="106.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/sortby_plays" name="btn_plays" centerPoint3DX="205.35" centerPoint3DY="7">
+                  <matrix>
+                    <Matrix tx="190.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/sortby_online" name="btn_online" centerPoint3DX="163.7" centerPoint3DY="7">
+                  <matrix>
+                    <Matrix tx="145.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Roomlist/sortby_featured" name="btn_featured" centerPoint3DX="68.05" centerPoint3DY="7">
+                  <matrix>
+                    <Matrix tx="48.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19.3" y="7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMStaticText width="109.55" height="9.7" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="95.2" ty="2.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Recently Joined Worlds</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="9.7" size="7.75" face="system*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

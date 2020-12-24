@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="BackgroundOptions/divider" itemID="55225fc8-000001e2" lastModified="1528053376">
+  <timeline>
+    <DOMTimeline name="divider">
+      <layers>
+        <DOMLayer name="Layer 1" color="#9FE08C" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.18798828125" d="0.0006103515625" tx="153.5"/>
+                            </matrix>
+                            <GradientEntry color="#202020" ratio="0"/>
+                            <GradientEntry color="#838383" ratio="0.501960784313725"/>
+                            <GradientEntry color="#202020" ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!0 0|6140 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

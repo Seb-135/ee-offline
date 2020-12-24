@@ -1,0 +1,67 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="LoadingScreen" itemID="551857b6-000005e7" linkageExportForAS="true" linkageClassName="assets_loadingscreen" lastModified="1528054170" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="LoadingScreen">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="loadinganim" name="gear" centerPoint3DX="456.1" centerPoint3DY="254.4">
+                  <matrix>
+                    <Matrix a="1.95529174804688" d="1.95475769042969" tx="372.95" ty="186.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="42.65" y="34.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#FFFFFF" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="textfield" width="796.95" height="25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="25" ty="290.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Loading</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0.988235294117647" lineHeight="25" size="20" bitmapSize="400" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.698039215686274"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="1.5">
+                        <fill>
+                          <SolidColor color="#CCCCCC" alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!22405 -1761|22405 15123!22405 15123|-2961 15123!-2961 15123|-2961 -1761!-2961 -1761|22405 -1761"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

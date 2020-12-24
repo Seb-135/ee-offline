@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btn_nothanks" itemID="551816a7-000003fc" symbolType="button" lastModified="1427642023">
+  <timeline>
+    <DOMTimeline name="btn_nothanks">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="gx_btn_bg" selected="true" centerPoint3DX="50.15" centerPoint3DY="10.6">
+                  <matrix>
+                    <Matrix a="2.1619873046875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23.2" y="10.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="gx_btn_overlay" selected="true" centerPoint3DX="23" centerPoint3DY="4.4">
+                  <matrix>
+                    <Matrix a="2.22184753417969" tx="0.8" ty="0.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="3.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText selected="true" width="94" height="15" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2.9" ty="3.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>No thanks</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

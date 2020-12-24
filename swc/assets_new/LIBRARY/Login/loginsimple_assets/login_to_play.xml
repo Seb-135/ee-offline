@@ -1,0 +1,94 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Login/loginsimple_assets/login_to_play" itemID="504859ff-00000335" symbolType="button" lastModified="1427566042">
+  <timeline>
+    <DOMTimeline name="login_to_play">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#7795BB"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!30 298|1593 298"/>
+                    <Edge cubics="!30 298(;30,298 1593,298 1593,298q30 298 1593 298);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="77.1" height="12.2" autoExpand="true" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Log in as Guest</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="12.2" size="11" bitmapSize="220" face="ArialReg*" fillColor="#7795BB"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!29 305|1592 305"/>
+                    <Edge cubics="!29 305(;29,305 1592,305 1592,305q29 305 1592 305);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="77.1" height="12.2" autoExpand="true" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1.95" ty="2.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Log in as Guest</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="12.2" size="11" bitmapSize="220" face="ArialReg*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1659 420|-2017 420!-2017 420|-2017 -56!-2017 -56|1659 -56!1659 -56|1659 420"/>
+                    <Edge cubics="!1659 -56(;1659,-56 1659,420 1659,420q1659 -56 1659 420);"/>
+                    <Edge cubics="!-2017 420(;-2017,420 -2017,-56 -2017,-56q-2017 420 -2017 -56)-2017,-56;"/>
+                    <Edge cubics="!1659 420(;1659,420 -2017,420 -2017,420q1659 420 -2017 420);"/>
+                    <Edge cubics="!-2017 -56(;-2017,-56 1659,-56 1659,-56q-2017 -56 1659 -56);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

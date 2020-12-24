@@ -1,0 +1,92 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Win Screen/btn_subscribe_small" itemID="56742874-00000dec" linkageExportForAS="true" linkageClassName="assets_subscribesmall" lastModified="1450454208">
+  <timeline>
+    <DOMTimeline name="btn_subscribe_small" currentFrame="1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="64.4" objectHeight="32.8" x="5.25" y="1" lockFlag="true" topLeftRadius="2.95" topRightRadius="2.95" bottomLeftRadius="2.95" bottomRightRadius="2.95">
+                  <matrix>
+                    <Matrix a="1.00926208496094" d="0.913467407226563" tx="-5.3" ty="-0.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.85" y="28.15"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#222222"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMStaticText fontRenderingMode="bitmap" left="-11.85" width="61" height="10" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="14.25" ty="18.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Subscribe!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" autoKern="false" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMBitmapInstance libraryItemName="crewiconv2.png">
+                  <matrix>
+                    <Matrix tx="24.15" ty="2.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="64.4" objectHeight="32.8" x="5.25" y="1" lockFlag="true" topLeftRadius="2.95" topRightRadius="2.95" bottomLeftRadius="2.95" bottomRightRadius="2.95">
+                  <matrix>
+                    <Matrix a="1.00926208496094" d="0.913467407226563" tx="-5.3" ty="-0.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.85" y="28.15"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#222222"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMStaticText fontRenderingMode="bitmap" left="-11.85" width="61" height="10" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="14.25" ty="18.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Thanks!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" autoKern="false" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMBitmapInstance libraryItemName="crewiconv2.png">
+                  <matrix>
+                    <Matrix tx="24.15" ty="2.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btnViewMap" itemID="553276c5-00000394" symbolType="button" lastModified="1545085206">
+  <timeline>
+    <DOMTimeline name="btnViewMap" currentFrame="2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Roomlist/assets/compassIcon" selected="true">
+                  <transformationPoint>
+                    <Point x="10.5" y="10.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="144.999994308176" blurX="1" blurY="1" distance="1" quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Roomlist/assets/compassIcon">
+                  <transformationPoint>
+                    <Point x="10.5" y="10.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#CCCCCC" quality="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

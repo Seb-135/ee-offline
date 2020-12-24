@@ -1,0 +1,131 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PageInfo" itemID="5630e4f3-00000587" linkageExportForAS="true" linkageClassName="assets_leveloptions_info" lastModified="1601830018">
+  <timeline>
+    <DOMTimeline name="PageInfo">
+      <layers>
+        <DOMLayer name="Laag 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#999999"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!83 500|7147 500"/>
+                    <Edge cubics="!83 500(83,500;83,500 7147,500 7147,500q83 500 7147 500);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="89.45" height="20" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="3.55" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Info</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="20" size="16" bitmapSize="320" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="252.95" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="3.55" ty="37.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>World name:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="input_bg" name="bg_mail" centerPoint3DX="247.25" centerPoint3DY="76">
+                  <matrix>
+                    <Matrix a="1.25616455078125" d="0.816192626953125" tx="2.55" ty="53.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="74.0000022767297" distance="3" inner="true" strength="0.32"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMInputText name="input_name" width="338.2" height="23.45">
+                  <matrix>
+                    <Matrix tx="7.55" ty="57.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>LuciferX was here ^.^</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="22.35" size="20" bitmapSize="400" face="ArialMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMSymbolInstance libraryItemName="input_bg" name="bg_mail" centerPoint3DX="147.55" centerPoint3DY="127.15">
+                  <matrix>
+                    <Matrix a="1.2576904296875" d="2.007080078125" tx="2.5" ty="107.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="74.0000022767297" distance="3" inner="true" strength="0.32"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMInputText name="input_description" width="335.95" height="64.45" maxCharacters="100" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="8.5" ty="113.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Seb135 was here too, OR WAS HE???</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialReg*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMDynamicText name="description_chars" width="115" height="13.35" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2.8" ty="188.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>0 of 100 characters</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.35" bitmapSize="240" face="ArialReg*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMStaticText width="252.95" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="91.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>World description:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

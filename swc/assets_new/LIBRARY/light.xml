@@ -1,0 +1,49 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="light" itemID="4fd063d6-0000005d" lastModified="1528053958" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="light">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.1717529296875" d="0.1717529296875" tx="-0.35" ty="-9.05"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.513725490196078" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0.835294117647059"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2763 -181[2763 966 1951 1777!1951 1777[1140 2589 -7 2589!-7 2589[-1154 2589 -1966 1777!-1966 1777[-2777 966 -2777 -181!-2777 -181[-2777 -1328 -1966 -2140!-1966 -2140[-1154 -2951 -7 -2951!-7 -2951[1140 -2951 1951 -2140!1951 -2140[2763
+ -1328 2763 -181"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="light_rotation" centerPoint3DX="-5.85" centerPoint3DY="17.4">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.4609375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

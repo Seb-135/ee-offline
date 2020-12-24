@@ -1,0 +1,162 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shop/shopContentInner" itemID="4cff64e2-000003e4" linkageExportForAS="true" linkageClassName="ShopUI" lastModified="1544728713" lastUniqueIdentifier="15">
+  <timeline>
+    <DOMTimeline name="shopContentInner">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FF800A" locked="true" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shop/tabOld" name="tabClassic" centerPoint3DX="565.25" centerPoint3DY="-11.05">
+                  <matrix>
+                    <Matrix tx="484.25" ty="-22.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="81" y="11"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Shop/tabOld" name="tabFeatured" centerPoint3DX="85" centerPoint3DY="-10.75">
+                  <matrix>
+                    <Matrix tx="4" ty="-21.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="81" y="11"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Shop/tabOld" name="tabSmiley" centerPoint3DX="204.9" centerPoint3DY="-11">
+                  <matrix>
+                    <Matrix tx="123.9" ty="-22"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="81" y="11"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Shop/tabOld" name="tabBrick" centerPoint3DX="325.05" centerPoint3DY="-11">
+                  <matrix>
+                    <Matrix tx="244.05" ty="-22"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="81" y="11"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Shop/tabOld" name="tabWorld" centerPoint3DX="445.25" centerPoint3DY="-11">
+                  <matrix>
+                    <Matrix tx="364.25" ty="-22"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="81" y="11"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shop/tabOld" name="tabClassic" centerPoint3DX="565.25" centerPoint3DY="-11.05">
+                  <matrix>
+                    <Matrix tx="484.25" ty="-22.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="81" y="11"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Shop/tabOld" name="tabFeatured" centerPoint3DX="85" centerPoint3DY="-10.75">
+                  <matrix>
+                    <Matrix tx="4" ty="-21.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="81" y="11"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Shop/tabOld" name="tabSmiley" centerPoint3DX="204.9" centerPoint3DY="-11">
+                  <matrix>
+                    <Matrix tx="123.9" ty="-22"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="81" y="11"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Shop/tabOld" name="tabBrick" centerPoint3DX="325.05" centerPoint3DY="-11">
+                  <matrix>
+                    <Matrix tx="244.05" ty="-22"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="81" y="11"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Shop/tabOld" name="tabWorld" centerPoint3DX="445.25" centerPoint3DY="-11">
+                  <matrix>
+                    <Matrix tx="364.25" ty="-22"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="81" y="11"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="empty" name="content">
+                  <matrix>
+                    <Matrix tx="10" ty="10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="empty" name="content">
+                  <matrix>
+                    <Matrix tx="10" ty="10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shop/shopContent" name="bg" centerPoint3DX="409.7" centerPoint3DY="196.15">
+                  <matrix>
+                    <Matrix a="1.32745361328125" d="0.920654296875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="308.95" y="213.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="10" blurY="10" distance="0" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shop/shopContent" name="bg" centerPoint3DX="384.8" centerPoint3DY="196.15">
+                  <matrix>
+                    <Matrix a="1.24679565429688" d="0.920654296875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="308.95" y="213.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="10" blurY="10" distance="0" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

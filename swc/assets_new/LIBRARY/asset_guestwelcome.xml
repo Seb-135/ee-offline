@@ -1,0 +1,209 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="asset_guestwelcome" itemID="4da1cf42-00000572" linkageExportForAS="true" linkageClassName="asset_guestwelcome" lastModified="1545883598" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="asset_guestwelcome">
+      <layers>
+        <DOMLayer name="Layer 5" color="#4FFFFF" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!844 1916S2|702 1775!702 1775|845 1632!845 1632/845 1735!845 1735|1046 1735!1046 1735|1046 1814!1046 1814|845 1814!845 1814/844 1916"/>
+                        <Edge cubics="!1046 1814(;1046,1814 845,1814 845,1814q1046 1814 845 1814);"/>
+                        <Edge cubics="!1046 1735(1046,1735;1046,1735 1046,1814 1046,1814q1046 1735 1046 1814);"/>
+                        <Edge cubics="!845 1735(;845,1735 1046,1735 1046,1735q845 1735 1046 1735)1046,1735;"/>
+                        <Edge cubics="!844 1916(;844,1916 845,1814 845,1814q844 1916 845 1814)845,1814;"/>
+                        <Edge cubics="!844 1916(;844,1916 702,1775 702,1775q844 1916 702 1775);"/>
+                        <Edge cubics="!702 1775(;702,1775 845,1632 845,1632q702 1775 845 1632);"/>
+                        <Edge cubics="!845 1735(;845,1735 845,1632 845,1632q845 1735 845 1632);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText fontRenderingMode="bitmap" width="192.2" height="15.6" autoExpand="true" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="59.25" ty="80.7"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>Click </characters>
+                          <textAttrs>
+                            <DOMTextAttrs lineHeight="15.6" size="14" bitmapSize="280" face="ArialReg*" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                        <DOMTextRun>
+                          <characters>Play</characters>
+                          <textAttrs>
+                            <DOMTextAttrs lineHeight="15.6" size="14" bitmapSize="280" face="Arial-BoldItalicMT" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                        <DOMTextRun>
+                          <characters> on a level in the list!</characters>
+                          <textAttrs>
+                            <DOMTextAttrs lineHeight="15.6" size="14" bitmapSize="280" face="ArialReg*" fillColor="#FFFFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!1026 1755|1026 1834!1026 1834|825 1834!825 1834/824 1936!824 1936|682 1795!682 1795|825 1652!825 1652/825 1755!825 1755|1026 1755"/>
+                        <Edge cubics="!1026 1834(;1026,1834 825,1834 825,1834q1026 1834 825 1834);"/>
+                        <Edge cubics="!1026 1755(1026,1755;1026,1755 1026,1834 1026,1834q1026 1755 1026 1834);"/>
+                        <Edge cubics="!825 1755(;825,1755 1026,1755 1026,1755q825 1755 1026 1755)1026,1755;"/>
+                        <Edge cubics="!824 1936(;824,1936 825,1834 825,1834q824 1936 825 1834)825,1834;"/>
+                        <Edge cubics="!824 1936(;824,1936 682,1795 682,1795q824 1936 682 1795);"/>
+                        <Edge cubics="!682 1795(;682,1795 825,1652 825,1652q682 1795 825 1652);"/>
+                        <Edge cubics="!825 1755(;825,1755 825,1652 825,1652q825 1755 825 1652);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText fontRenderingMode="bitmap" width="192.2" height="15.6" autoExpand="true" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="58.25" ty="81.7"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>Click </characters>
+                          <textAttrs>
+                            <DOMTextAttrs lineHeight="15.6" size="14" bitmapSize="280" face="ArialReg*"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                        <DOMTextRun>
+                          <characters>Play</characters>
+                          <textAttrs>
+                            <DOMTextAttrs lineHeight="15.6" size="14" bitmapSize="280" face="Arial-BoldItalicMT"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                        <DOMTextRun>
+                          <characters> on a level in the list!</characters>
+                          <textAttrs>
+                            <DOMTextAttrs lineHeight="15.6" size="14" bitmapSize="280" face="ArialReg*"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="bitmap" width="279" height="18.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="10" ty="10"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Welcome stranger!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="18.75" size="15" bitmapSize="300" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter blurX="10" blurY="10" distance="0" quality="3"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMStaticText selected="true" left="-18.6" width="254.05" height="28.7" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="28.6" ty="74"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Or you can try one of the user-generated levels &#xD;from the list. </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.35" bitmapSize="240" face="ArialReg*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText left="-182.6" width="276" height="28.7" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="192.6" ty="34"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>New around here? Start out by playing one of the tutorials on the left.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.35" bitmapSize="240" face="ArialReg*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="vertical" weight="0.05" pixelHinting="true" joints="bevel" solidStyle="hairline">
+                        <fill>
+                          <SolidColor color="#CCCCCC"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!20 1470|6000 1470"/>
+                    <Edge strokeStyle="1" edges="!6000 2087S4|20 2087"/>
+                    <Edge cubics="!6000 1470(;6000,1470 6000,2087 6000,2087q6000 1470 6000 2087);"/>
+                    <Edge cubics="!20 2087(;20,2087 20,1470 20,1470q20 2087 20 1470);"/>
+                    <Edge cubics="!6000 2087(;6000,2087 20,2087 20,2087q6000 2087 20 2087);"/>
+                    <Edge cubics="!20 1470(;20,1470 6000,1470 6000,1470q20 1470 6000 1470);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="bg" centerPoint3DX="150" centerPoint3DY="158.3">
+                  <matrix>
+                    <Matrix d="1.07818603515625"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

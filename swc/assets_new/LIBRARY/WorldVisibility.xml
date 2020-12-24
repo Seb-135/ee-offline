@@ -1,0 +1,69 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="WorldVisibility" itemID="58ea1e65-000003dc" linkageExportForAS="true" linkageClassName="assets_worldvisibility" lastModified="1491740296">
+  <timeline>
+    <DOMTimeline name="WorldVisibility">
+      <layers>
+        <DOMLayer name="Laag 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="status_info" fontRenderingMode="bitmap" left="28" width="286.35" height="28.7" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-12.45" ty="45.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>You found me :C</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" lineHeight="8.4" bitmapSize="240" face="visitor*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Level Options/dropdowncontainer" name="dropdownContainer">
+                  <matrix>
+                    <Matrix d="1.82795715332031" tx="3.45" ty="27.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="input_bg" name="bg_mail" centerPoint3DX="267.1" centerPoint3DY="39.1">
+                  <matrix>
+                    <Matrix a="1.18701171875" d="0.65911865234375" tx="1.6" ty="16.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="74.0000022767297" distance="3" inner="true" strength="0.32"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Level Options/dropdownbtn" name="btn_dropdown">
+                  <matrix>
+                    <Matrix tx="4.55" ty="20"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="162.8" y="9.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText width="246" height="12.5" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>World Visibility:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="12.5" size="10" bitmapSize="200" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

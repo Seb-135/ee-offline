@@ -1,0 +1,216 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="NewsletterSignup" itemID="54527029-00000454" lastModified="1423166557">
+  <timeline>
+    <DOMTimeline name="NewsletterSignup" currentFrame="1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMStaticText left="-8.5" width="46.7" height="15" autoExpand="true" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="73.5" ty="36.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Name:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#FFFFFF" target="_blank"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMInputText name="newsletter_name" fontRenderingMode="bitmap" width="166" height="15" includeOutlines="true">
+                  <matrix>
+                    <Matrix tx="121.5" ty="34.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="13.35" bitmapSize="240" face="ArialMT" target="_blank"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMInputText name="newsletter_email" fontRenderingMode="bitmap" width="166" height="14" includeOutlines="true">
+                  <matrix>
+                    <Matrix tx="121.5" ty="58.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="13.35" bitmapSize="240" face="ArialReg*" target="_blank"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMSymbolInstance libraryItemName="news/newslettersignup" name="btnreadnewsletter" symbolType="button">
+                  <matrix>
+                    <Matrix a="1.03302001953125" d="1.033203125" tx="179.9" ty="82.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="233.3" height="17.5" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="36.7" ty="9.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Sign up for our newsletter!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="17.5" size="14" bitmapSize="280" face="system*" fillColor="#FFFFFF" target="_blank"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="160" height="22.3" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="13" ty="81.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Sign up for our newsletter now and get the Postman Smiley for FREE!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="0" lineHeight="11.15" size="10" bitmapSize="200" face="ArialReg*" fillColor="#CCCCCC" target="_blank"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Shop/Smileys/Guy" symbolType="graphic" firstFrame="6" loop="single frame">
+                  <matrix>
+                    <Matrix tx="17.5" ty="31.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="26"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText left="-7" width="45.2" height="15" autoExpand="true" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="71.5" ty="59.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Email:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#FFFFFF" target="_blank"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMStaticText width="296" height="17.5" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="3" ty="18.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Thank you!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="17.5" size="14" bitmapSize="280" face="system*" fillColor="#FFFFFF" target="_blank"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="297" height="13.35" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="3" ty="84.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Please check your mail to confirm your subscription!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineSpacing="0" lineHeight="13.35" bitmapSize="240" face="ArialReg*" fillColor="#FFFFFF" target="_blank"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMBitmapInstance libraryItemName="smilie.png">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="137.35" ty="40.35"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="input_bg" name="bg_name" centerPoint3DX="204.5" centerPoint3DY="42.6">
+                  <matrix>
+                    <Matrix a="0.61151123046875" d="0.473678588867188" tx="119.5" ty="33.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="139" y="19"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="75.0000034150945" blurX="3" blurY="3" distance="1" inner="true" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="input_bg" name="bg_mail" centerPoint3DX="204.5" centerPoint3DY="65.6">
+                  <matrix>
+                    <Matrix a="0.61151123046875" d="0.473678588867188" tx="119.5" ty="56.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="139" y="19"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="75.0000034150945" blurX="3" blurY="3" distance="1" inner="true" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#333333"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#999999"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!6000 0|80 0!80 0[0 0 0 74!0 74|0 2194!0 2194[0 2268 80 2268!80 2268|6000 2268!6000 2268[6080 2268 6080 2194!6080 2194|6080 74!6080 74[6080 0 6000 0"/>
+                    <Edge cubics="!80 0(80,0;27,0 0,25 0,74q80 0Q0 0q0 74)0,74;"/>
+                    <Edge cubics="!6080 74(;6080,25 6053,0 6000,0q6080 74Q6080 0q6000 0);"/>
+                    <Edge cubics="!6000 2268(;6053,2268 6080,2243 6080,2194q6000 2268Q6080 2268q6080 2194);"/>
+                    <Edge cubics="!0 2194(;0,2243 27,2268 80,2268q0 2194Q0 2268q80 2268);"/>
+                    <Edge cubics="!0 74(;0,74 0,2194 0,2194q0 74 0 2194);"/>
+                    <Edge cubics="!6080 2194(6080,2194;6080,2194 6080,74 6080,74q6080 2194 6080 74);"/>
+                    <Edge cubics="!6000 0(;6000,0 80,0 80,0q6000 0 80 0);"/>
+                    <Edge cubics="!80 2268(;80,2268 6000,2268 6000,2268q80 2268 6000 2268);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

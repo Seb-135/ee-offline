@@ -1,0 +1,92 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Win Screen/btn_favorite" itemID="55c63ab4-00000f83" linkageExportForAS="true" linkageClassName="assets_favorite" lastModified="1450468900">
+  <timeline>
+    <DOMTimeline name="btn_favorite" currentFrame="1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="64.4" objectHeight="32.8" x="5.25" y="1" lockFlag="true" topLeftRadius="3" topRightRadius="3" bottomLeftRadius="3" bottomRightRadius="3">
+                  <matrix>
+                    <Matrix a="1.00926208496094" d="0.913467407226563" tx="-5.3" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.85" y="28.15"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#222222"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMStaticText fontRenderingMode="bitmap" left="-11.85" width="61" height="10" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="14.25" ty="19"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Favorite!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" autoKern="false" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMBitmapInstance libraryItemName="favstarsmall_1.png">
+                  <matrix>
+                    <Matrix tx="24.5" ty="1.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="64.4" objectHeight="32.8" x="5.25" y="1" lockFlag="true" topLeftRadius="3" topRightRadius="3" bottomLeftRadius="3" bottomRightRadius="3">
+                  <matrix>
+                    <Matrix a="1.00926208496094" d="0.913467407226563" tx="-5.3" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.85" y="28.15"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#222222"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMStaticText fontRenderingMode="bitmap" left="-11.85" width="61" height="10" isSelectable="false" hasAccessibleData="true">
+                  <matrix>
+                    <Matrix tx="14.65" ty="18.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Unfavorite!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" autoKern="false" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMBitmapInstance libraryItemName="favorite.png">
+                  <matrix>
+                    <Matrix tx="25.5" ty="2.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

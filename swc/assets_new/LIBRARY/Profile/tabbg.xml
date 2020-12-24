@@ -1,0 +1,110 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Profile/tabbg" itemID="4f97e130-0000033b" scaleGridLeft="6" scaleGridRight="111" scaleGridTop="5" scaleGridBottom="20.25" lastModified="1335353648">
+  <timeline>
+    <DOMTimeline name="tabbg">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#999999"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!2280 0|43 0!43 0[0 -1 0 49!0 49|0 430!0 430|20 430!20 430|20 49!20 49[20 21 43 20!43 20|2279 20!2279 20[2299 22 2300 47!2300 47|2300 430!2300 430|2320 430!2320 430|2320 47!2320 47[2319 0 2280 0"/>
+                    <Edge cubics="!2280 0(;2280,0 43,0 43,0q2280 0 43 0);"/>
+                    <Edge cubics="!2279 20(;2292,21 2299,30 2300,47q2279 20Q2299 22q2300 47);"/>
+                    <Edge cubics="!2300 430(;2300,430 2320,430 2320,430q2300 430 2320 430);"/>
+                    <Edge cubics="!2300 47(;2300,47 2300,430 2300,430q2300 47 2300 430);"/>
+                    <Edge cubics="!2320 430(;2320,430 2320,47 2320,47q2320 430 2320 47);"/>
+                    <Edge cubics="!20 49(;20,30 28,21 43,20q20 49Q20 21q43 20);"/>
+                    <Edge cubics="!20 430(;20,430 20,49 20,49q20 430 20 49);"/>
+                    <Edge cubics="!43 20(;43,20 2279,20 2279,20q43 20 2279 20);"/>
+                    <Edge cubics="!2320 47(;2319,16 2306,0 2280,0q2320 47Q2319 0q2280 0);"/>
+                    <Edge cubics="!0 49(;0,49 0,430 0,430q0 49 0 430);"/>
+                    <Edge cubics="!43 0(;14,-1 0,16 0,49q43 0Q0 -1q0 49);"/>
+                    <Edge cubics="!0 430(;0,430 20,430 20,430q0 430 20 430);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.0198211669921875" c="0.010986328125" d="0" tx="78.5" ty="10.5"/>
+                        </matrix>
+                        <GradientEntry ratio="0"/>
+                        <GradientEntry color="#333333" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1939 420/33 420!33 420/0 420!0 420|0 39!0 39[0 0 33 0!33 0|2269 0!2269 0[2299 1 2300 37!2300 37|2300 420!2300 420/1958 420!1958 420/1939 420"/>
+                    <Edge cubics="!0 39(;0,39 0,420 0,420q0 39 0 420);"/>
+                    <Edge cubics="!33 0(;11,0 0,13 0,39q33 0Q0 0q0 39);"/>
+                    <Edge cubics="!0 420(;0,420 33,420 33,420q0 420 33 420);"/>
+                    <Edge cubics="!33 420(;33,420 1939,420 1939,420q33 420 1939 420);"/>
+                    <Edge cubics="!1958 420(;1958,420 2300,420 2300,420q1958 420 2300 420);"/>
+                    <Edge cubics="!1939 420(;1939,420 1958,420 1958,420q1939 420 1958 420)1958,420;"/>
+                    <Edge cubics="!2300 37(;2299,13 2289,1 2269,0q2300 37Q2299 1q2269 0);"/>
+                    <Edge cubics="!2300 420(;2300,420 2300,37 2300,37q2300 420 2300 37);"/>
+                    <Edge cubics="!33 0(;33,0 2269,0 2269,0q33 0 2269 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.0198211669921875" c="0.010986328125" d="0" tx="79" ty="11"/>
+                        </matrix>
+                        <GradientEntry color="#434343" ratio="0"/>
+                        <GradientEntry color="#808080" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1949 430/43 430!43 430/10 430!10 430|10 49!10 49[10 10 43 10!43 10|2279 10!2279 10[2309 11 2310 47!2310 47|2310 430!2310 430/1968 430!1968 430/1949 430"/>
+                    <Edge cubics="!10 49(;10,49 10,430 10,430q10 49 10 430);"/>
+                    <Edge cubics="!43 10(;21,10 10,23 10,49q43 10Q10 10q10 49);"/>
+                    <Edge cubics="!10 430(;10,430 43,430 43,430q10 430 43 430);"/>
+                    <Edge cubics="!43 430(;43,430 1949,430 1949,430q43 430 1949 430);"/>
+                    <Edge cubics="!1968 430(;1968,430 2310,430 2310,430q1968 430 2310 430);"/>
+                    <Edge cubics="!1949 430(;1949,430 1968,430 1968,430q1949 430 1968 430)1968,430;"/>
+                    <Edge cubics="!2310 47(;2309,23 2299,11 2279,10q2310 47Q2309 11q2279 10);"/>
+                    <Edge cubics="!2310 430(;2310,430 2310,47 2310,47q2310 430 2310 47);"/>
+                    <Edge cubics="!43 10(;43,10 2279,10 2279,10q43 10 2279 10);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

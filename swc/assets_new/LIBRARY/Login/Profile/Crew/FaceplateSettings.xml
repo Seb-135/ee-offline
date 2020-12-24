@@ -1,0 +1,127 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Login/Profile/Crew/FaceplateSettings" itemID="55d320cd-000003c2" linkageExportForAS="true" linkageClassName="assets_faceplateselector" lastModified="1442649056">
+  <timeline>
+    <DOMTimeline name="FaceplateSettings">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Login/Profile/Crew/disabledFaceplateOverlay" name="disabledOverlay">
+                  <matrix>
+                    <Matrix a="0.997161865234375" tx="55.5" ty="189"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="174.95" y="85.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="prompt_bg" centerPoint3DX="309.05" centerPoint3DY="274.4">
+                  <matrix>
+                    <Matrix a="0.650588989257813" d="1.01394653320313" tx="56.5" ty="190"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.4" y="3.9"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#000000" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMStaticText width="345.75" height="18.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="58" ty="199.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Select a faceplate</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.75" size="15" bitmapSize="300" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Level Options/btn_save" name="btn_save">
+                  <matrix>
+                    <Matrix tx="84.15" ty="308.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="145" y="20"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Login/Profile/Crew/arrow" name="btn_left">
+                  <matrix>
+                    <Matrix tx="149.55" ty="274"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Login/Profile/Crew/arrow" name="btn_right">
+                  <matrix>
+                    <Matrix a="-1" d="-1" tx="306.7" ty="287"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7" y="13"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="tf_color" left="23" width="123.95" height="20" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="142.2" ty="270.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Purple</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="20" size="16" bitmapSize="320" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Level Options/dropdowncontainer" name="dropdownContainer">
+                  <matrix>
+                    <Matrix d="1.82795715332031" tx="67.8" ty="242.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="input_bg" name="bg_mail" centerPoint3DX="331.3" centerPoint3DY="247.2">
+                  <matrix>
+                    <Matrix a="1.18701171875" d="0.65911865234375" tx="65.8" ty="224.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="74.0000022767297" distance="3" inner="true" strength="0.32"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Level Options/dropdownbtn" name="btn_dropdown">
+                  <matrix>
+                    <Matrix tx="68.75" ty="228.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="162.8" y="9.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

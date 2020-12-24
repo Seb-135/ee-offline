@@ -1,0 +1,147 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Login/Upgrade" itemID="4cf5190e-0000160a" linkageExportForAS="true" linkageClassName="Upgrade" lastModified="1439196189" lastUniqueIdentifier="21">
+  <timeline>
+    <DOMTimeline name="Upgrade">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#202020" alpha="0.996078431372549"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor color="#CCCCCC"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!13199 3219|3930 3219!3930 3219[3770 3219 3770 3379!3770 3379|3770 6900!3770 6900[3770 7060 3930 7060!3930 7060|13199 7060!13199 7060[13359 7060 13359 6900!13359 6900|13359 3379!13359 3379[13359 3219 13199 3219"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="upgrade_bg" centerPoint3DX="428.45" centerPoint3DY="251.45">
+                  <matrix>
+                    <Matrix tx="188.5" ty="160.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="239.95" y="90.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText width="423" height="25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="217.95" ty="182.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Everybody Edits just got updated!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="25" size="20" bitmapSize="400" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText width="435.95" height="59.4" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="209" ty="221.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Everybody Edits has been updated to a newer version!&#xD;&#xD;To play the newest version you need to click the button below.&#xD;You can also read the blog to see what's new!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="13.35" bitmapSize="240" face="ArialReg*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="news/read blog" name="blog" symbolType="button">
+                  <matrix>
+                    <Matrix tx="305.1" ty="309.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="btn_reloadpage" name="reload" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix tx="443.1" ty="308.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="53.6" y="10.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#808080" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 9" color="#4FFF4F" locked="true" outline="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.8"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!17001 10000|1 10000!1 10000|1 0!1 0|17001 0!17001 0|17001 10000"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.647058823529412"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!17319 10759|-460 10759!-460 10759|-460 -480!-460 -480|17319 -480!17319 -480|17319 10759"/>
+                    <Edge cubics="!-460 -480(;-460,-480 17319,-480 17319,-480q-460 -480 17319 -480);"/>
+                    <Edge cubics="!17319 -480(;17319,-480 17319,10759 17319,10759q17319 -480 17319 10759);"/>
+                    <Edge cubics="!17319 10759(;17319,10759 -460,10759 -460,10759q17319 10759 -460 10759);"/>
+                    <Edge cubics="!-460 10759(;-460,10759 -460,-480 -460,-480q-460 10759 -460 -480);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="light_rotation_full" centerPoint3DX="427.3" centerPoint3DY="252.35">
+                  <matrix>
+                    <Matrix tx="125.85" ty="-48.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="301.45" y="301.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

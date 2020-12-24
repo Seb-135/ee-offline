@@ -1,0 +1,67 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PageSettings" itemID="5630e52e-000005b1" linkageExportForAS="true" linkageClassName="assets_leveloptions_settings" lastModified="1601829973" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="PageSettings">
+      <layers>
+        <DOMLayer name="Laag 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#999999"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!52 500|7116 500"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="78.2" height="20" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Settings</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="20" size="16" bitmapSize="320" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="BackgroundOptions/CheckBox" name="checkbox_minimap_ingame" centerPoint3DX="8.4" centerPoint3DY="37.4">
+                  <matrix>
+                    <Matrix a="1.35594177246094" d="1.35595703125" tx="2.5" ty="31.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#000000" inner="true" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" width="183.6" height="12.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="23.4" ty="33.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Enable minimap in-game</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineHeight="12.5" size="10" bitmapSize="200" face="NokiaCellphoneFC-Small" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,63 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Settings/Key Bindings/Key Binding Reset" itemID="5bd9b69f-00000387" symbolType="button" lastModified="1540994894">
+  <timeline>
+    <DOMTimeline name="Key Binding Reset" currentFrame="3">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#999999"/>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" weight="1.5">
+                            <fill>
+                              <SolidColor color="#999999"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!35 103[68 99 92 75!92 75[120 47 120 9!120 9[120 -29 92 -57!92 -57[64 -84 27 -84!27 -84[-2 -84 -24 -68"/>
+                        <Edge fillStyle0="1" edges="!23 -6|-24 -68!-24 -68|-65 -122!-65 -122|-120 14!-120 14|23 -6"/>
+                        <Edge cubics="!92 -57(;74,-75 52,-84 27,-84q92 -57Q64 -84q27 -84)27,-84;"/>
+                        <Edge cubics="!120 9(120,9;120,-16 111,-39 92,-57q120 9Q120 -29q92 -57);"/>
+                        <Edge cubics="!92 75(;111,57 120,35 120,9q92 75Q120 47q120 9);"/>
+                        <Edge cubics="!35 103(;57,100 77,91 92,75q35 103Q68 99q92 75);"/>
+                        <Edge cubics="!-65 -122(;-65,-122 -120,14 -120,14q-65 -122 -120 14);"/>
+                        <Edge cubics="!-120 14(;-120,14 23,-6 23,-6q-120 14 23 -6);"/>
+                        <Edge cubics="!-24 -68(;-24,-68 -65,-122 -65,-122q-24 -68 -65 -122);"/>
+                        <Edge cubics="!23 -6(23,-6;23,-6 -24,-68 -24,-68q23 -6 -24 -68)-24,-68;"/>
+                        <Edge cubics="!27 -84(;7,-84 -9,-79 -24,-68q27 -84Q-2 -84q-24 -68)-24,-68;"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-160 -160|160 -160!160 -160|160 160!160 160|-160 160!-160 160|-160 -160"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Settings/settingsbg2" itemID="566a97c0-00000ef5" scaleGridLeft="10" scaleGridRight="813" scaleGridTop="10" scaleGridBottom="383" lastModified="1601833822">
+  <timeline>
+    <DOMTimeline name="settingsbg2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="823" objectHeight="393" x="3" y="0" lockFlag="true" topLeftRadius="6" topRightRadius="6" bottomLeftRadius="6" bottomRightRadius="6">
+                  <matrix>
+                    <Matrix tx="-3"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#121212"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" pixelHinting="true">
+                      <fill>
+                        <SolidColor color="#999999"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

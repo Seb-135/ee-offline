@@ -1,0 +1,109 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Campaigns/btn_back" itemID="5597df8b-000001c4" linkageExportForAS="true" linkageClassName="assets_backbutton" symbolType="button" lastModified="1546026687">
+  <timeline>
+    <DOMTimeline name="btn_back" currentFrame="2">
+      <layers>
+        <DOMLayer name="arrow" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="1.5">
+                        <fill>
+                          <SolidColor color="#CCCCCC"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!296 337|196 254!196 254|296 170"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="1.5">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!296 337|196 254!196 254|296 170"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="1.5">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!296 337|196 254!196 254|296 170"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#CCCCCC"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!500 250[500 353 427 427!427 427[353 500 250 500!250 500[146 500 73 427!73 427[0 353 0 250!0 250[0 146 73 73!73 73[146 0 250 0!250 0[353 0 427 73!427 73[500 146 500 250"/>
+                    <Edge cubics="!427 73(427,73;476,122 500,181 500,250q427 73Q500 146q500 250)500,250;"/>
+                    <Edge cubics="!250 0(250,0;319,0 378,24 427,73q250 0Q353 0q427 73)427,73;"/>
+                    <Edge cubics="!73 73(73,73;122,24 181,0 250,0q73 73Q146 0q250 0);"/>
+                    <Edge cubics="!0 250(0,250;0,181 24,122 73,73q0 250Q0 146q73 73)73,73;"/>
+                    <Edge cubics="!73 427(;24,378 0,319 0,250q73 427Q0 353q0 250);"/>
+                    <Edge cubics="!250 500(250,500;181,500 122,476 73,427q250 500Q146 500q73 427)73,427;"/>
+                    <Edge cubics="!427 427(;378,476 319,500 250,500q427 427Q353 500q250 500);"/>
+                    <Edge cubics="!500 250(;500,319 476,378 427,427q500 250Q500 353q427 427);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#999999"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!500 250[500 353 427 427!427 427[353 500 250 500!250 500[146 500 73 427!73 427[0 353 0 250!0 250[0 146 73 73!73 73[146 0 250 0!250 0[353 0 427 73!427 73[500 146 500 250"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

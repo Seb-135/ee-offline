@@ -1,0 +1,70 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Login/facebbok_btn_large" itemID="4ffa9ae0-0000039d" symbolType="button" lastModified="1354705073">
+  <timeline>
+    <DOMTimeline name="facebbok_btn_large">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#7A7A7A"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.0323638916015625" c="-0.03265380859375" d="0" tx="144.95" ty="27"/>
+                        </matrix>
+                        <GradientEntry color="#59AEEE" ratio="0"/>
+                        <GradientEntry color="#0A5690" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!5690 0|110 0!110 0[0 0 0 109!0 109|0 971!0 971[0 1080 110 1080!110 1080|5690 1080!5690 1080[5800 1080 5800 971!5800 971|5800 109!5800 109[5800 0 5690 0"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!5780 109|5780 971!5780 971[5780 1060 5690 1060!5690 1060|110 1060!110 1060[20 1060 20 971!20 971|20 109!20 109[20 20 110 20!110 20|5690 20!5690 20[5780 20 5780 109"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="238.2" height="18.75" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="49" ty="19"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Play on Facebook</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.75" size="15" bitmapSize="300" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="fb_logo" centerPoint3DX="27" centerPoint3DY="27">
+                  <matrix>
+                    <Matrix tx="7" ty="7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20" y="20"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="20" blurY="20" color="#16639E"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

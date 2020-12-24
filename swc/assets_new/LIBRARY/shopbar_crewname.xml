@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="shopbar_crewname" itemID="55d480c3-00000273" lastModified="1528051409">
+  <timeline>
+    <DOMTimeline name="shopbar_crewname" currentFrame="1">
+      <layers>
+        <DOMLayer name="Username" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_crewname" width="87.95" height="16.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>CREWNAME</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="16.25" size="13" bitmapSize="260" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="shop_divider" name="div" centerPoint3DX="95.2" centerPoint3DY="7">
+                  <matrix>
+                    <Matrix d="0.5" tx="95.2" ty="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Highlight" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="shopbar_username_highlight" name="highlight">
+                  <matrix>
+                    <Matrix a="1.14657592773438" tx="1.45" ty="16.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="38.4" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

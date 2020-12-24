@@ -1,0 +1,47 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="betaonlybtn" itemID="4fb1fb62-000002fc" lastModified="1528053513">
+  <timeline>
+    <DOMTimeline name="betaonlybtn">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF" alpha="0"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2672 358S2|0 358!0 358|0 0!0 0|2672 0!2672 0|2672 358"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText fontRenderingMode="bitmap" width="112.2" height="10" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="17.35" ty="4.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Only show beta rooms!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="10" size="8" bitmapSize="160" face="system*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="checkbox" name="checkbox" centerPoint3DX="7.8" centerPoint3DY="9.4">
+                  <matrix>
+                    <Matrix tx="1.9" ty="3.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="5.9" y="5.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

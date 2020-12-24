@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="BackgroundOptions/Colour Wheel" itemID="552284d7-000002de" lastModified="1528053366">
+  <timeline>
+    <DOMTimeline name="Colour Wheel">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="color_wheel" name="fill" centerPoint3DX="74.65" centerPoint3DY="74.65">
+                  <matrix>
+                    <Matrix a="1.00065612792969" d="1.00065612792969" tx="-0.4" ty="-0.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

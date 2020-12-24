@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="energy/energy_added" itemID="50236ebc-000001ff" linkageExportForAS="true" linkageClassName="assets_energyadded" lastModified="1344589495" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="energy_added">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Topbar/lightning" centerPoint3DX="8.85" centerPoint3DY="-0.15">
+                  <matrix>
+                    <Matrix a="0.25" d="0.25" tx="2.55" ty="-13.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.2" y="53.4"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter color="#1F1F21" distance="0"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="tf_energy" width="49.85" height="16.8" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-48.4" ty="-8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>+25</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="16.8" size="15" bitmapSize="300" face="ArialBold_no*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

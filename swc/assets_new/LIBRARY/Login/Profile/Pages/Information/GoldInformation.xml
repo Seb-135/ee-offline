@@ -1,0 +1,60 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Login/Profile/Pages/Information/GoldInformation" itemID="5644b452-00000291" linkageExportForAS="true" linkageClassName="assets_goldinformation" lastModified="1454949556">
+  <timeline>
+    <DOMTimeline name="GoldInformation">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_text" fontRenderingMode="standard" left="36" width="454" height="17.5" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-44" ty="104.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>USERNAME is a Gold Member!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="17.5" size="14" bitmapSize="280" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="tf_expires" fontRenderingMode="bitmap" left="51.9" width="191.85" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="69.25" ty="86.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Expires: Some date...</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="tf_since" fontRenderingMode="bitmap" left="51.9" width="189.95" height="11.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="70.25" ty="73.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Since: 6th of September 1999</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMBitmapInstance libraryItemName="gold_membership_shop_image.png">
+                  <matrix>
+                    <Matrix tx="126.9" ty="-7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

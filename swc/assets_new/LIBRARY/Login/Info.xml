@@ -1,0 +1,65 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Login/Info" itemID="4cf8db71-00000713" linkageExportForAS="true" linkageClassName="InfoBox" lastModified="1528054421" lastUniqueIdentifier="24">
+  <timeline>
+    <DOMTimeline name="Info">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Login/LoginBackground" name="bg" centerPoint3DX="264.7" centerPoint3DY="235.55">
+                  <matrix>
+                    <Matrix a="0.511520385742188" d="0.835311889648438" tx="268" ty="133.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="606.05" y="-7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Shop/nothanks" name="closebtn" symbolType="button" centerPoint3DX="578" centerPoint3DY="128">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="578" ty="128"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="ttitle" width="278.55" height="22.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="282.4" ty="145"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Lorem ipsum dolor sit</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="22.5" size="18" bitmapSize="360" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="tbody" width="276.95" height="97.7" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="281.5" ty="172.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in voluptate sit, qui epuletur, in dolore, qui torqueatur. An vero displicuit ea, quae tributa est animi</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.35" bitmapSize="240" face="ArialReg*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

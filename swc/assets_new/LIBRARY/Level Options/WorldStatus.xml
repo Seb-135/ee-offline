@@ -1,0 +1,114 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Level Options/WorldStatus" itemID="55bd9c96-000007d8" linkageExportForAS="true" linkageClassName="assets_worldstatus" lastModified="1528053874">
+  <timeline>
+    <DOMTimeline name="WorldStatus">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="prompt_bg" centerPoint3DX="498.85" centerPoint3DY="274.95">
+                  <matrix>
+                    <Matrix a="0.650588989257813" d="1.01394653320313" tx="246.3" ty="190.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.4" y="3.9"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#000000" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMStaticText width="345.75" height="18.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="247.8" ty="200"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>World Status</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.75" size="15" bitmapSize="300" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Shop/nothanks" name="closebtn" symbolType="button">
+                  <matrix>
+                    <Matrix d="0.997512817382813" tx="594.2" ty="194.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="status_info" fontRenderingMode="bitmap" left="28" width="286.35" height="21.55" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="247.6" ty="270.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>World is accessible by everyone and crew members with required rank can still save it.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" lineHeight="8.4" bitmapSize="240" face="visitor*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Level Options/btn_save" name="btn_save">
+                  <matrix>
+                    <Matrix tx="273.95" ty="309"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="145" y="20"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Level Options/dropdowncontainer" name="dropdownContainer">
+                  <matrix>
+                    <Matrix d="1.82795715332031" tx="257.6" ty="237.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="input_bg" name="bg_mail" centerPoint3DX="521.1" centerPoint3DY="247.75">
+                  <matrix>
+                    <Matrix a="1.18701171875" d="0.65911865234375" tx="255.6" ty="225.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="74.0000022767297" distance="3" inner="true" strength="0.32"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Level Options/dropdownbtn" name="btn_dropdown">
+                  <matrix>
+                    <Matrix tx="258.55" ty="228.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="162.8" y="9.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.8"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!17000 10000|0 10000!0 10000|0 0!0 0|17000 0!17000 0|17000 10000"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

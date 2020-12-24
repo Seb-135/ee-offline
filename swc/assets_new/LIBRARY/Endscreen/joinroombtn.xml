@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Endscreen/joinroombtn" itemID="54834a0b-000003ec" symbolType="button" lastModified="1424657660" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="joinroombtn">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#7A7A7A"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.023468017578125" c="-0.0237274169921875" d="0" tx="145.5" ty="20.4"/>
+                        </matrix>
+                        <GradientEntry color="#33D52A" ratio="0"/>
+                        <GradientEntry color="#349127" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!5790 119|5790 699!5790 699[5790 789 5700 789!5700 789|120 789!120 789[30 789 30 699!30 699|30 119!30 119[30 29 120 29!120 29|5700 29!5700 29[5790 29 5790 119"/>
+                    <Edge fillStyle0="1" edges="!5700 9|120 9!120 9[10 9 10 119!10 119|10 699!10 699[10 809 120 809!120 809|5700 809!5700 809[5810 809 5810 699!5810 699|5810 119!5810 119[5810 9 5700 9"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="283" height="23.75" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2.5" ty="9.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Join Room</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="23.75" size="19" bitmapSize="380" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

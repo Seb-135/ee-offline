@@ -1,0 +1,221 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Levelup/WelcomeGold" itemID="5644b586-00000295" linkageExportForAS="true" linkageClassName="assets_welcomegold" lastModified="1528053882" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="WelcomeGold">
+      <layers>
+        <DOMLayer name="Laag 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 10" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/CloseBtn" name="btn_close" symbolType="button">
+                  <matrix>
+                    <Matrix tx="681" ty="32.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="letsbuildbtn" name="btn_exit" centerPoint3DX="375.5" centerPoint3DY="408.7">
+                  <matrix>
+                    <Matrix tx="342.25" ty="393.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="33.35" y="15.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="495.95" height="25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="193" ty="59.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Welcome to Gold!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="25" size="20" bitmapSize="400" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="headanimation" centerPoint3DX="446.35" centerPoint3DY="217.35">
+                  <matrix>
+                    <Matrix tx="446.35" ty="217.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2735.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="GoldMemberBox" name="memberstats" centerPoint3DX="357.6" centerPoint3DY="363.4">
+                  <matrix>
+                    <Matrix tx="307.6" ty="319.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="44"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="495.95" height="13.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="193.5" ty="89.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>You are now a </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="13.75" size="11" bitmapSize="220" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>Gold Member</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="13.75" size="11" bitmapSize="220" face="system*" fillColor="#FFCC33"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="13.75" size="11" bitmapSize="220" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Endscreen/bg_black" name="bg" centerPoint3DX="560.5" centerPoint3DY="342.9">
+                  <matrix>
+                    <Matrix a="0.718429565429688" d="0.7998046875" tx="270.25" ty="302"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="236" y="43"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8515625" redMultiplier="0" blueMultiplier="0" greenMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="shadow overlay" color="#FF4F4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Endscreen/bg_black" name="bg" centerPoint3DX="441" centerPoint3DY="85.4">
+                  <matrix>
+                    <Matrix a="1.05508422851563" d="4.62516784667969" tx="192" ty="43"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="60" blurY="60" distance="0" inner="true" knockout="true" strength="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 18" color="#9933CC" locked="true" visible="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!13800 8820S2|3840 8820!3840 8820|3840 860!3840 860|13800 860!13800 860|13800 8820"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="light" color="#4FFF4F" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="light" centerPoint3DX="446.9" centerPoint3DY="222">
+                  <matrix>
+                    <Matrix tx="446.9" ty="222"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.4609375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="arrowholder" color="#FF800A" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="empty" name="brickholder">
+                  <matrix>
+                    <Matrix tx="191" ty="42"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 20" color="#FF4FFF" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Endscreen/bg_black" name="bg" centerPoint3DX="441" centerPoint3DY="84.65">
+                  <matrix>
+                    <Matrix a="1.059326171875" d="4.6484375" tx="191" ty="42"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 21" color="#4FFFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <edges>
+                    <Edge edges="!7739 4840|7739 3960"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="BlackBackground">
+                  <matrix>
+                    <Matrix tx="19.4" ty="-176.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="425.5" y="427"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

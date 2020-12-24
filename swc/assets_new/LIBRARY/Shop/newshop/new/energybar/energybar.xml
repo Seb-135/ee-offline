@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shop/newshop/new/energybar/energybar" itemID="558d4562-000001de" linkageExportForAS="true" linkageClassName="assets_energybar" lastModified="1528051621">
+  <timeline>
+    <DOMTimeline name="energybar">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shop/newshop/new/energybar/energybarbg">
+                  <matrix>
+                    <Matrix a="0.80987548828125" d="0.75" tx="12.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="71" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Shop/newshop/new/energybar/energybarmask" name="masker">
+                  <matrix>
+                    <Matrix a="0.80987548828125" d="0.75" tx="12.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="71" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="text" left="-14" width="111" height="12.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="28.75" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>x/x</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="12.5" size="10" bitmapSize="200" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Shop/newshop/new/energybar/energybaroutline">
+                  <matrix>
+                    <Matrix a="0.80987548828125" d="0.75" tx="12.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="71" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

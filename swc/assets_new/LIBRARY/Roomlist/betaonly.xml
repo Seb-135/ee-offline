@@ -1,0 +1,95 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Roomlist/betaonly" itemID="4d9e0988-0000158b" lastModified="1544221561">
+  <timeline>
+    <DOMTimeline name="betaonly">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop()]]></script>
+              </Actionscript>
+              <elements>
+                <DOMRectangleObject objectWidth="56" objectHeight="40" x="37.5" y="10.5" topLeftRadius="4" topRightRadius="4">
+                  <matrix>
+                    <Matrix tx="-37.5" ty="-12.5"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#333333"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="horizontal" weight="0.05" pixelHinting="true" joints="bevel" solidStyle="hairline">
+                      <fill>
+                        <SolidColor color="#CCCCCC"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMSymbolInstance libraryItemName="star" name="ownedicon" centerPoint3DX="8.85" centerPoint3DY="8.45">
+                  <matrix>
+                    <Matrix a="0.044403076171875" d="0.0443572998046875" tx="3.55" ty="3.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="119.35" y="115"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="bitmap" width="32.1" height="12.2" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="18.7" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Saved</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="12.2" size="11" bitmapSize="220" face="ArialReg*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="56" objectHeight="40" x="37.5" y="10.5" topLeftRadius="4" topRightRadius="4">
+                  <matrix>
+                    <Matrix tx="-37.5" ty="-12.5"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="horizontal" weight="0.05" pixelHinting="true" joints="bevel" solidStyle="hairline">
+                      <fill>
+                        <SolidColor color="#FFFFFF"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMSymbolInstance libraryItemName="star" name="ownedicon" centerPoint3DX="8.85" centerPoint3DY="8.45">
+                  <matrix>
+                    <Matrix a="0.044403076171875" d="0.0443572998046875" tx="3.55" ty="3.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="119.35" y="115"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="bitmap" width="32.1" height="12.2" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="18.7" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Saved</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="12.2" size="11" bitmapSize="220" face="ArialReg*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

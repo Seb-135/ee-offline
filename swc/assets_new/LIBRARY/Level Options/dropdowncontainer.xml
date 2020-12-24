@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Level Options/dropdowncontainer" itemID="55bd9c12-000007d4" lastModified="1491738346">
+  <timeline>
+    <DOMTimeline name="dropdowncontainer">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="325" objectHeight="55.1" x="184.95" y="221.9" selected="true" lockFlag="true" topLeftRadius="2" topRightRadius="2" bottomLeftRadius="2" bottomRightRadius="2">
+                  <matrix>
+                    <Matrix tx="-184.95" ty="-214.25"/>
+                  </matrix>
+                  <fill>
+                    <RadialGradient>
+                      <matrix>
+                        <Matrix a="0.201416015625" d="0.201416015625" tx="347.45" ty="249.45"/>
+                      </matrix>
+                      <GradientEntry color="#FFFFFF" ratio="0"/>
+                      <GradientEntry color="#DEDEDE" ratio="1"/>
+                    </RadialGradient>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

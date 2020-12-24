@@ -1,0 +1,95 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Roomlist/LoadRoomFromID" itemID="54834949-000003c2" linkageExportForAS="true" linkageClassName="LoadRoom" lastModified="1424657774" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="LoadRoomFromID">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shop/nothanks" name="closebtn" symbolType="button">
+                  <matrix>
+                    <Matrix a="1.5" d="1.49626159667969" tx="363.5" ty="147"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Endscreen/joinroombtn" name="btn_join" symbolType="button">
+                  <matrix>
+                    <Matrix tx="21.6" ty="271.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="input_bg" name="bg_mail" centerPoint3DX="134" centerPoint3DY="225.55">
+                  <matrix>
+                    <Matrix a="1.2589111328125" d="1.04209899902344" tx="-11" ty="205.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="75.0000034150945" distance="3" inner="true" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMInputText name="roomid" width="333" height="27">
+                  <matrix>
+                    <Matrix tx="-3" ty="214.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>PWgxmS-oCNbUI</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="22.35" size="20" bitmapSize="400" face="ArialReg*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMStaticText width="355.45" height="22.5" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-14.45" ty="168.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Join room directly using ID</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="22.5" size="18" bitmapSize="360" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="prompt_bg" centerPoint3DX="233.35" centerPoint3DY="231.3">
+                  <matrix>
+                    <Matrix a="0.743438720703125" d="1.10533142089844" tx="-35.6" ty="147.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="13" blurY="13" color="#000000" quality="3" strength="0.77"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

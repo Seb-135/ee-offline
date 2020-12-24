@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="bg_grey_light" itemID="4fb0b4dc-00000483" lastModified="1336980721">
+  <timeline>
+    <DOMTimeline name="bg_grey_light">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#6B6B6B"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#D4D4D4"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1372 477S1[1375 474 1375 470!1375 470|1375 10!1375 10[1375 6 1372 3!1372 3[1369 0 1365 0!1365 0|10 0!10 0[6 0 3 3!3 3[0 6 0 10!0 10|0 470!0 470[0 474 3 477!3 477[6 480 10 480!10 480|1365 480!1365 480[1369 480 1372 477"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!1355 460S3|20 460!20 460|20 20!20 20|1355 20!1355 20|1355 460"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

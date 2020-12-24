@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btn_reloadpage" itemID="55181b06-0000046a" symbolType="button" lastModified="1427643310">
+  <timeline>
+    <DOMTimeline name="btn_reloadpage">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="gx_btn_bg" centerPoint3DX="81.1" centerPoint3DY="10.6">
+                  <matrix>
+                    <Matrix a="2.40910339355469"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3" y="10.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="95.75" height="12.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="7.85" ty="4.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Reload page</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0.996078431372549" lineHeight="12.5" size="10" bitmapSize="200" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="gx_btn_overlay" centerPoint3DX="23.2" centerPoint3DY="4.45">
+                  <matrix>
+                    <Matrix a="2.47543334960938" tx="1" ty="0.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="3.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

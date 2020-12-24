@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="shopbar_gem" itemID="503489ba-000003c3" linkageExportForAS="true" linkageClassName="assets_shopbargem" lastModified="1543877632" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="shopbar_gem">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="gems" width="53.15" height="12.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="104.8" ty="8.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Gems: xx</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-1" lineHeight="12.5" size="10" bitmapSize="200" face="system*" fillColor="#FFFFFF" target="_blank"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Topbar/gem" name="gem" centerPoint3DX="106.75" centerPoint3DY="29.85">
+                  <matrix>
+                    <Matrix a="0.993240356445313" d="1.01286315917969" tx="85.2" ty="8.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.7" y="21.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="btnGetGems" symbolType="button">
+                  <matrix>
+                    <Matrix tx="2.6" ty="3.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="divider_small" name="div" selected="true">
+                  <matrix>
+                    <Matrix tx="168" ty="4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.5" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

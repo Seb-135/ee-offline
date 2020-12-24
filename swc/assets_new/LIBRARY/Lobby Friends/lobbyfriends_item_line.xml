@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Lobby Friends/lobbyfriends_item_line" itemID="5c187529-000004cf" lastModified="1545106730">
+  <timeline>
+    <DOMTimeline name="lobbyfriends_item_line">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.217056274414063" d="0.0006103515625" tx="177.45" ty="0.5"/>
+                        </matrix>
+                        <GradientEntry color="#838383" ratio="0"/>
+                        <GradientEntry color="#838383" ratio="0.701960784313725"/>
+                        <GradientEntry color="#838383" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!7100 0S1|0 0!0 0|0 20!0 20|7100 20!7100 20|7100 0"/>
+                    <Edge cubics="!0 0(;0,0 0,20 0,20q0 0 0 20);"/>
+                    <Edge cubics="!7100 20(;7100,20 7100,0 7100,0q7100 20 7100 0);"/>
+                    <Edge cubics="!0 20(;0,20 7100,20 7100,20q0 20 7100 20);"/>
+                    <Edge cubics="!7100 0(;7100,0 0,0 0,0q7100 0 0 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

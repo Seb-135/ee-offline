@@ -1,0 +1,35 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="BackgroundOptions/Box" itemID="55225ff5-000001e6" scaleGridLeft="14.4" scaleGridRight="526.25" scaleGridTop="12.45" scaleGridBottom="157.3" lastModified="1528053346">
+  <timeline>
+    <DOMTimeline name="Box">
+      <layers>
+        <DOMLayer name="Layer 1" color="#D3D352" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#202020"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#CCCCCC"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!10559 -20|200 -20!200 -20[0 -20 0 180!0 180|0 3180!0 3180[0 3380 200 3380!200 3380|10559 3380!10559 3380[10759 3380 10759 3180!10759 3180|10759 180!10759 180[10759 -20 10559 -20"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Login/Profile/Pages/Information/EnergyInformation" itemID="56055b62-000002d0" linkageExportForAS="true" linkageClassName="assets_energyinformation" lastModified="1443246106">
+  <timeline>
+    <DOMTimeline name="EnergyInformation">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_text" fontRenderingMode="standard" width="454.05" height="17.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-8" ty="49.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Max energy 200!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="17.5" size="14" bitmapSize="280" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Shop/Topbar/lightning">
+                  <matrix>
+                    <Matrix a="0.458602905273438" d="0.458602905273438" tx="204" ty="-6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31.4" y="53"/>
+                  </transformationPoint>
+                  <filters>
+                    <BevelFilter blurX="4" blurY="4" distance="4" strength="0.35"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

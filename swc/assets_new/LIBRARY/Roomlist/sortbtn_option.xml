@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Roomlist/sortbtn_option" itemID="5c0944cc-000007d7" symbolType="button" lastModified="1544122508">
+  <timeline>
+    <DOMTimeline name="sortbtn_option" currentFrame="2">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="63" objectHeight="15" x="62.05" y="454" lockFlag="true">
+                  <matrix>
+                    <Matrix tx="-62.05" ty="-454"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF" alpha="0"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="63" objectHeight="15" x="62.05" y="454" lockFlag="true">
+                  <matrix>
+                    <Matrix tx="-62.05" ty="-454"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF" alpha="0.0980392156862745"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

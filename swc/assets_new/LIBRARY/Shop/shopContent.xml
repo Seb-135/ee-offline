@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shop/shopContent" itemID="4cff4eb2-000002d1" lastModified="1528051476" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="shopContent">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" pixelHinting="true">
+                        <fill>
+                          <SolidColor color="#999999"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!100 -1|12300 -1!12300 -1[12400 -1 12400 97!12400 97|12400 7982!12400 7982[12400 8080 12300 8080!12300 8080|100 8080!100 8080[0 8080 0 7982!0 7982|0 97!0 97[0 -1 100 -1"/>
+                    <Edge cubics="!100 -1(100,-1;100,-1 12300,-1 12300,-1q100 -1 12300 -1)12300,-1;"/>
+                    <Edge cubics="!100 8080(;33,8080 0,8047 0,7982q100 8080Q0 8080q0 7982);"/>
+                    <Edge cubics="!12400 7982(12400,7982;12400,8047 12367,8080 12300,8080q12400 7982Q12400 8080q12300 8080);"/>
+                    <Edge cubics="!0 7982(;0,7982 0,97 0,97q0 7982 0 97);"/>
+                    <Edge cubics="!12300 8080(12300,8080;12300,8080 100,8080 100,8080q12300 8080 100 8080)100,8080;"/>
+                    <Edge cubics="!12400 97(12400,97;12400,97 12400,7982 12400,7982q12400 97 12400 7982);"/>
+                    <Edge cubics="!0 97(;0,32 33,-1 100,-1q0 97Q0 -1q100 -1);"/>
+                    <Edge cubics="!12300 -1(;12367,-1 12400,32 12400,97q12300 -1Q12400 -1q12400 97);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

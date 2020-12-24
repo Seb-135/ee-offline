@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Profile/Crew/savebtn" itemID="55bb8a0d-000004dd" lastModified="1540319068">
+  <timeline>
+    <DOMTimeline name="savebtn" currentFrame="1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Profile/Crew/btn_save" symbolType="button">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#7A7A7A"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.0154266357421875" c="-0.00732421875" d="0" tx="44.75" ty="13.1"/>
+                        </matrix>
+                        <GradientEntry color="#8A8A8A" ratio="0"/>
+                        <GradientEntry color="#414141" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!1756 512|34 512!34 512[6 512 6 453!6 453|6 72!6 72[6 13 34 13!34 13|1756 13!1756 13[1784 13 1784 72!1784 72|1784 453!1784 453[1784 512 1756 512"/>
+                    <Edge fillStyle0="1" edges="!1790 72[1790 0 1756 0!1756 0|34 0!34 0[0 0 0 72!0 72|0 453!0 453[0 525 34 525!34 525|1756 525!1756 525[1790 525 1790 453!1790 453|1790 72"/>
+                  </edges>
+                </DOMShape>
+                <DOMDynamicText name="title" left="14.75" width="82.5" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-11.05" ty="6.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Save</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

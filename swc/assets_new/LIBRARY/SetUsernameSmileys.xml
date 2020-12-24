@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="SetUsernameSmileys" itemID="55ce241f-0000041c" lastModified="1439573023">
+  <timeline>
+    <DOMTimeline name="SetUsernameSmileys">
+      <layers>
+        <DOMLayer name="Laag 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shop/Smileys/Guy" selected="true" symbolType="graphic" firstFrame="4" centerPoint3DX="32" centerPoint3DY="52" loop="single frame">
+                  <matrix>
+                    <Matrix a="2" d="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="26"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Shop/Smileys/Guy" selected="true" symbolType="graphic" firstFrame="5" centerPoint3DX="145" centerPoint3DY="62" loop="single frame">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="113" ty="10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="26"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Shop/Smileys/Guy" selected="true" symbolType="graphic" firstFrame="8" centerPoint3DX="83" centerPoint3DY="95" loop="single frame">
+                  <matrix>
+                    <Matrix a="3" d="3" tx="35" ty="17"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="26"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

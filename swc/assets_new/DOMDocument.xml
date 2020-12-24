@@ -1,0 +1,1321 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#000000" width="850" height="200" frameRate="60" currentTimeline="1" xflVersion="2.980" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 21.0 build 37179" majorVersion="21" buildNumber="37179" rulerVisible="true" timelineLabelWidth="226" viewAngle3D="69.3182667961824" vanishingPoint3DX="425" vanishingPoint3DY="100" nextSceneIdentifier="1716" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="600AEEFD62DD3746B0D99D3C5FA0AAF5" hasAccessibleData="true">
+     <folders>
+          <DOMFolderItem name="BackgroundOptions" itemID="553928c8-00000407"/>
+          <DOMFolderItem name="Campaigns" itemID="55839a11-000001fa"/>
+          <DOMFolderItem name="Component Assets" itemID="44e488a0-000016d6"/>
+          <DOMFolderItem name="Component Assets/_private" itemID="4573a4bc-000003c6"/>
+          <DOMFolderItem name="Endscreen" itemID="4fcc93d8-00000323"/>
+          <DOMFolderItem name="energy" itemID="502508dc-000003a4"/>
+          <DOMFolderItem name="GetGems" itemID="4e96ea81-000003d0"/>
+          <DOMFolderItem name="Inbox" itemID="55cf8399-00000374"/>
+          <DOMFolderItem name="Level Options" itemID="55bd9717-00000775" isExpanded="true"/>
+          <DOMFolderItem name="Level Options/Level Options" itemID="5630d853-00000519" isExpanded="true"/>
+          <DOMFolderItem name="Levelup" itemID="50780cd3-00000336"/>
+          <DOMFolderItem name="Lobby" itemID="55cddfc7-000003d4" isExpanded="true"/>
+          <DOMFolderItem name="Lobby Friends" itemID="5c19ac89-00000b04" isExpanded="true"/>
+          <DOMFolderItem name="Lobby Tab Buttons" itemID="55b4776a-00000714" isExpanded="true"/>
+          <DOMFolderItem name="Lobby/Inbox" itemID="55c0bf93-000007ef" isExpanded="true"/>
+          <DOMFolderItem name="Login" itemID="4c62cb8a-000003b6"/>
+          <DOMFolderItem name="Login/loginsimple_assets" itemID="504750d9-00000521" isExpanded="true"/>
+          <DOMFolderItem name="Login/Profile" itemID="55d0d651-00000366" isExpanded="true"/>
+          <DOMFolderItem name="Login/Profile/Crew" itemID="55d0d651-00000367" isExpanded="true"/>
+          <DOMFolderItem name="Login/Profile/Crew/Crew Selector" itemID="55d0d651-00000361"/>
+          <DOMFolderItem name="Login/Profile/Crew/Divider Stuff" itemID="55d1f7a3-0000028f" isExpanded="true"/>
+          <DOMFolderItem name="Login/Profile/Pages" itemID="56055404-00000279" isExpanded="true"/>
+          <DOMFolderItem name="Login/Profile/Pages/Information" itemID="5605540b-0000027d" isExpanded="true"/>
+          <DOMFolderItem name="news" itemID="4e96e9f3-000003b8"/>
+          <DOMFolderItem name="Profile" itemID="4f68a157-0000040c" isExpanded="true"/>
+          <DOMFolderItem name="Profile/Crew" itemID="55b4445b-000004e3"/>
+          <DOMFolderItem name="Profile/Crew Tab" itemID="55c88085-0000026f"/>
+          <DOMFolderItem name="Profile/Crew Tab/Top Bar Buttons" itemID="55c8869c-00000355"/>
+          <DOMFolderItem name="Profile/Crew/Crew Selector" itemID="55ced9f1-00000725"/>
+          <DOMFolderItem name="Profile/New Tabs" itemID="55cf4cf3-00000210" isExpanded="true"/>
+          <DOMFolderItem name="Roomlist" itemID="4d9dfeeb-0000154f" isExpanded="true"/>
+          <DOMFolderItem name="Roomlist/assets" itemID="4d9e016d-0000155a"/>
+          <DOMFolderItem name="Roomlist/Filter Tab" itemID="55d02212-00000313" isExpanded="true"/>
+          <DOMFolderItem name="Roomlist/New Tabs" itemID="5c0832b7-000003f6" isExpanded="true"/>
+          <DOMFolderItem name="Roomlist/New Tabs/Images" itemID="5c084086-0000045a" isExpanded="true"/>
+          <DOMFolderItem name="Settings" itemID="559b7896-000001c7" isExpanded="true"/>
+          <DOMFolderItem name="Settings/Key Bindings" itemID="5bd0b8b0-000004f0" isExpanded="true"/>
+          <DOMFolderItem name="Shop" itemID="4e004c86-00000345" isExpanded="true"/>
+          <DOMFolderItem name="Shop/energy" itemID="5024d363-00000599" isExpanded="true"/>
+          <DOMFolderItem name="Shop/ItemsGfx" itemID="4e004d7c-00000352" isExpanded="true"/>
+          <DOMFolderItem name="Shop/newshop" itemID="501f77f0-00000362" isExpanded="true"/>
+          <DOMFolderItem name="Shop/newshop/new" itemID="558b96bb-0000036d" isExpanded="true"/>
+          <DOMFolderItem name="Shop/newshop/new/energybar" itemID="558b999e-00000398" isExpanded="true"/>
+          <DOMFolderItem name="Shop/newshop/old" itemID="558b96fb-0000037b" isExpanded="true"/>
+          <DOMFolderItem name="Shop/Smileys" itemID="4e005184-000003a9" isExpanded="true"/>
+          <DOMFolderItem name="Shop/Topbar" itemID="5024d363-00000596" isExpanded="true"/>
+          <DOMFolderItem name="Social" itemID="5c191b30-00000604" isExpanded="true"/>
+          <DOMFolderItem name="Topbar" itemID="4e96ea2b-000003be" isExpanded="true"/>
+          <DOMFolderItem name="Win Screen" itemID="55a89d84-000001d1" isExpanded="true"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="visitor" itemID="55839db8-00000206" font="VisitorTT2BRK" size="0" id="44" sourceLastImported="1434688952" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="ArialBold_no" itemID="5047505d-000004e4" font="Arial-BoldMT" size="0" id="43" sourceLastImported="1345643373" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shop/ArialBold_no" itemID="5047505d-000004e5" font="Arial-BoldMT" size="0" id="21" sourceLastImported="1345643373" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="ArialReg" itemID="5047505d-000004e3" font="ArialMT" size="0" id="20" sourceLastImported="1282232021" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shop/ArialReg_no" itemID="5034e370-00000434" font="ArialMT" size="0" id="19" sourceLastImported="1345643376" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="system" itemID="54834949-000003c4" linkageExportForAS="true" linkageBaseClass="flash.text.Font" linkageClassName="system" font="NokiaCellphoneFC-Small" size="0" id="1" sourceLastImported="1538277059" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="ArialBold" itemID="5047505d-000004e7" font="Arial-BoldMT" size="0" id="3" sourceLastImported="1336740983" embedRanges="1|2|3|4|5"/>
+     </fonts>
+     <media>
+          <DOMBitmapItem name="aura.png" itemID="55672703-000001bd" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/aura.png" sourceLastImported="1601213592" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="aura.png" bitmapDataHRef="M 55 1432823527.dat" frameRight="320" frameBottom="320"/>
+          <DOMBitmapItem name="badge_border.png" itemID="509bc239-00000418" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/badge_border.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="badge_border.png" bitmapDataHRef="M 43 1352366958.dat" frameRight="1560" frameBottom="1260"/>
+          <DOMBitmapItem name="beta.png" itemID="5c1c5fdb-000003b8" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/beta.png" sourceLastImported="1601213592" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="beta.png" bitmapDataHRef="M 86 1443190949.dat" frameRight="3200" frameBottom="780"/>
+          <DOMBitmapItem name="big_play_button.png" itemID="54eb19cb-00000602" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/big_play_button.png" sourceLastImported="1601213592" sourcePlatform="macintosh" originalCompressionType="lossless" quality="50" href="big_play_button.png" bitmapDataHRef="M 49 1323290840.dat" frameRight="900" frameBottom="900"/>
+          <DOMBitmapItem name="Bitmap 1" itemID="558ba03e-0000041f" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1601213592" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 1.png" bitmapDataHRef="M 56 1435213886.dat" frameRight="3800" frameBottom="1400"/>
+          <DOMBitmapItem name="Bitmap 2-1-1.png" itemID="55bc9991-0000025e" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/Bitmap 2-1-1.png" sourceLastImported="1601213592" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 2-1-1.png" bitmapDataHRef="M 58 1438420171.dat" frameRight="800" frameBottom="1280"/>
+          <DOMBitmapItem name="bn.png" itemID="509bc239-0000041a" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/bn.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bn.png" bitmapDataHRef="M 10 1282064049.dat" frameRight="2140" frameBottom="520"/>
+          <DOMBitmapItem name="Shop/book.png" itemID="5484be4a-0000059c" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/Shop/book.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Shop/book.png" bitmapDataHRef="M 38 1310133916.dat" frameRight="320" frameBottom="320"/>
+          <DOMBitmapItem name="Shop/ItemsGfx/bricks.jpg" itemID="509bc239-0000041c" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/Shop/ItemsGfx/bricks.jpg" sourceLastImported="1601213592" allowSmoothing="true" quality="50" href="Shop/ItemsGfx/bricks.jpg" bitmapDataHRef="M 9 1288782794.dat" frameRight="3480" frameBottom="2020" isJPEG="true"/>
+          <DOMBitmapItem name="buy_now_.png" itemID="55ddd8bf-00000538" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/buy_now_.png" sourceLastImported="1601213592" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="buy_now_.png" bitmapDataHRef="M 85 1440602282.dat" frameRight="320" frameBottom="320"/>
+          <DOMBitmapItem name="campaign_label.png" itemID="55d5aad2-00000b97" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/campaign_label.png" sourceLastImported="1601213592" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="campaign_label.png" bitmapDataHRef="M 83 1440066002.dat" frameRight="1060" frameBottom="220"/>
+          <DOMBitmapItem name="Shop/ItemsGfx/chatbbl.png" itemID="5483723f-00000466" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/Shop/ItemsGfx/chatbbl.png" sourceLastImported="1601213592" sourcePlatform="macintosh" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Shop/ItemsGfx/chatbbl.png" bitmapDataHRef="M 16 1292340302.dat" frameRight="440" frameBottom="360"/>
+          <DOMBitmapItem name="checkmark.png" itemID="55ce2a5e-0000042e" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/checkmark.png" sourceLastImported="1601213592" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="checkmark.png" bitmapDataHRef="M 77 1439574551.dat" frameRight="21620" frameBottom="20480"/>
+          <DOMBitmapItem name="clock.png" itemID="58ea43aa-00000420" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/clock.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="clock.png" bitmapDataHRef="M 77 1491747652.dat" frameRight="260" frameBottom="260"/>
+          <DOMBitmapItem name="Coin.png" itemID="509bc239-0000041d" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/Coin.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Coin.png" bitmapDataHRef="M 72 1345106632.dat" frameRight="260" frameBottom="320"/>
+          <DOMBitmapItem name="color_wheel.png" itemID="55676a51-00000252" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/color_wheel.png" sourceLastImported="1601213592" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="color_wheel.png" bitmapDataHRef="M 57 1432840755.dat" frameRight="14600" frameBottom="14600"/>
+          <DOMBitmapItem name="compass_icon_lobby_maps.png" itemID="55d0153b-00000308" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/compass_icon_lobby_maps.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="compass_icon_lobby_maps.png" bitmapDataHRef="M 82 1439700005.dat" frameRight="420" frameBottom="420"/>
+          <DOMCompiledClipItem name="Component Assets/_private/ComponentShim" itemID="50f45de3-000003c1" linkageExportForAS="true" linkageClassName="fl.core.ComponentShim" sourceLastImported="1358192099" displayAsComponent="false" customIconID="0" actionscriptClass="fl.core.ComponentShim" swfScmHRef="9904vgmrqe.swf" swfScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS7\en_US\Configuration\TMP00ECED5F50F45DDD..swf" persistLivePreview11="true" livePreview11ScmHRef="9905agmrqe.swf" livePreview11ScmSourceFilename="C:\Users\jkamerer\AppData\Local\Adobe\Flash CS7\en_US\Configuration\TMP00ECED5F50F45DDD..swf" editFrameIndex="1" requiredMinimumPlayerVersion="0" requiredMinimumASVersion="0" parametersAreLocked="true" swcPath="Component Assets/_private/ComponentShim.xml" rootSymbolLinkageID="fl.core.ComponentShim" playerVersion="9" actionscriptVersion="3" hashKey="lBSX9Y5jU7802yucctAf9/">
+               <classProperties><![CDATA[<component id="fl/core/ComponentShim" class="fl.core.ComponentShim" modified="1358192086103">
+<movieBounds xmin="0" xmax="0" ymin="0" ymax="0" />
+<componentData>
+<classDefs>
+	<classDef id="fl.core.AccessibilityShim"/>
+	<classDef id="fl.controls.CheckBox"/>
+	<classDef id="fl.controls.LabelButton"/>
+	<classDef id="fl.controls.List"/>
+	<classDef id="fl.controls.ComboBox"/>
+	<classDef id="fl.controls.ProgressBarDirection"/>
+	<classDef id="fl.data.SimpleCollectionItem"/>
+	<classDef id="fl.controls.TextArea"/>
+	<classDef id="fl.display.ProLoaderInfo"/>
+	<classDef id="fl.controls.Slider"/>
+	<classDef id="fl.events.DataChangeEvent"/>
+	<classDef id="fl.accessibility.ComboBoxAccImpl"/>
+	<classDef id="fl.events.DataChangeType"/>
+	<classDef id="fl.accessibility.TileListAccImpl"/>
+	<classDef id="fl.accessibility.ButtonAccImpl"/>
+	<classDef id="fl.controls.BaseButton"/>
+	<classDef id="fl.core.UIComponent"/>
+	<classDef id="fl.controls.DataGrid"/>
+	<classDef id="fl.display.ProLoader"/>
+	<classDef id="fl.containers.BaseScrollPane"/>
+	<classDef id="fl.livepreview.LivePreviewParent"/>
+	<classDef id="fl.controls.Label"/>
+	<classDef id="fl.managers.IFocusManagerComponent"/>
+	<classDef id="fl.controls.UIScrollBar"/>
+	<classDef id="fl.controls.listClasses.ICellRenderer"/>
+	<classDef id="fl.controls.dataGridClasses.DataGridCellEditor"/>
+	<classDef id="fl.controls.ColorPicker"/>
+	<classDef id="fl.managers.FocusManager"/>
+	<classDef id="fl.events.ProLoaderRSLPreloaderSandboxEvent"/>
+	<classDef id="fl.events.DataGridEventReason"/>
+	<classDef id="fl.events.SliderEvent"/>
+	<classDef id="fl.events.SliderEventClickTarget"/>
+	<classDef id="fl.controls.progressBarClasses.IndeterminateBar"/>
+	<classDef id="fl.controls.listClasses.ListData"/>
+	<classDef id="fl.core.InvalidationType"/>
+	<classDef id="fl.controls.RadioButtonGroup"/>
+	<classDef id="fl.controls.NumericStepper"/>
+	<classDef id="fl.accessibility.LabelButtonAccImpl"/>
+	<classDef id="fl.containers.UILoader"/>
+	<classDef id="fl.events.ColorPickerEvent"/>
+	<classDef id="fl.controls.ButtonLabelPlacement"/>
+	<classDef id="fl.accessibility.CheckBoxAccImpl"/>
+	<classDef id="fl.managers.StyleManager"/>
+	<classDef id="fl.controls.TileList"/>
+	<classDef id="fl.controls.RadioButton"/>
+	<classDef id="fl.containers.ScrollPane"/>
+	<classDef id="fl.controls.listClasses.TileListData"/>
+	<classDef id="fl.events.InteractionInputType"/>
+	<classDef id="fl.controls.Button"/>
+	<classDef id="fl.core.ComponentShim"/>
+	<classDef id="fl.accessibility.UIComponentAccImpl"/>
+	<classDef id="fl.controls.SelectableList"/>
+	<classDef id="fl.events.ComponentEvent"/>
+	<classDef id="fl.accessibility.RadioButtonAccImpl"/>
+	<classDef id="fl.controls.listClasses.CellRenderer"/>
+	<classDef id="fl.managers.IFocusManagerGroup"/>
+	<classDef id="fl.controls.ScrollPolicy"/>
+	<classDef id="fl.controls.ScrollBar"/>
+	<classDef id="fl.controls.ProgressBar"/>
+	<classDef id="fl.controls.listClasses.ImageCell"/>
+	<classDef id="fl.managers.IFocusManager"/>
+	<classDef id="fl.controls.ProgressBarMode"/>
+	<classDef id="fl.accessibility.SelectableListAccImpl"/>
+	<classDef id="fl.controls.TextInput"/>
+	<classDef id="fl.events.ListEvent"/>
+	<classDef id="fl.accessibility.AccImpl"/>
+	<classDef id="fl.accessibility.DataGridAccImpl"/>
+	<classDef id="fl.events.ScrollEvent"/>
+	<classDef id="fl.controls.dataGridClasses.DataGridColumn"/>
+	<classDef id="fl.events.DataGridEvent"/>
+	<classDef id="fl.data.TileListCollectionItem"/>
+	<classDef id="fl.data.DataProvider"/>
+	<classDef id="fl.accessibility.ListAccImpl"/>
+	<classDef id="fl.controls.dataGridClasses.HeaderRenderer"/>
+	<classDef id="fl.controls.ScrollBarDirection"/>
+	<classDef id="fl.controls.SliderDirection"/>
+</classDefs>
+<class id="fl.core.ComponentShim" >
+	<method id="ComponentShim" isConstructor="true" isProperty="false">
+	</method>
+</class>
+</componentData>
+</component>
+]]></classProperties>
+               <SwcItem name="fl.core.ComponentShim" version="1358192086" isTopLevel="true"/>
+          </DOMCompiledClipItem>
+          <DOMBitmapItem name="crewiconv2.png" itemID="55c62f5e-00000afc" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/crewiconv2.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="crewiconv2.png" bitmapDataHRef="M 63 1439051588.dat" frameRight="320" frameBottom="320"/>
+          <DOMBitmapItem name="Crown.png" itemID="5c0b2504-000003d8" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/Crown.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Crown.png" bitmapDataHRef="M 73 1345643283.dat" frameRight="240" frameBottom="200"/>
+          <DOMBitmapItem name="curse.png" itemID="5521b2b8-0000039c" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/curse.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="curse.png" bitmapDataHRef="M 55 1428271628.dat" frameRight="320" frameBottom="320"/>
+          <DOMBitmapItem name="decay_glass.png" itemID="50a602df-00000482" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/decay_glass.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="decay_glass.png" bitmapDataHRef="M 41 1353056792.dat" frameRight="260" frameBottom="260"/>
+          <DOMBitmapItem name="dropdownarrow.png" itemID="55d48043-00000267" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/dropdownarrow.png" sourceLastImported="1601213592" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="dropdownarrow.png" bitmapDataHRef="M 57 1438489281.dat" frameRight="260" frameBottom="140"/>
+          <DOMBitmapItem name="facebook_share.png" itemID="55181580-000003c1" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/facebook_share.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="facebook_share.png" bitmapDataHRef="M 61 1336981409.dat" frameRight="1200" frameBottom="320"/>
+          <DOMBitmapItem name="favorite.png" itemID="55b6ee46-000001f7" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/favorite.png" sourceLastImported="1601213592" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="favorite.png" bitmapDataHRef="M 58 1438050990.dat" frameRight="300" frameBottom="300"/>
+          <DOMBitmapItem name="favorite2.png" itemID="55b6ee46-000001f8" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/favorite2.png" sourceLastImported="1601213592" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="favorite2.png" bitmapDataHRef="M 64 1438051805.dat" frameRight="640" frameBottom="640"/>
+          <DOMBitmapItem name="favorite32x32.png" itemID="55b6ef96-0000020f" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/favorite32x32.png" sourceLastImported="1601213592" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="favorite32x32.png" bitmapDataHRef="M 62 1438051255.dat" frameRight="640" frameBottom="640"/>
+          <DOMBitmapItem name="favstar_0.png" itemID="55c62429-000008fe" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/favstar_0.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="favstar_0.png" bitmapDataHRef="M 59 1439048403.dat" frameRight="640" frameBottom="640"/>
+          <DOMBitmapItem name="favstar_1.png" itemID="55c62429-000008ff" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/favstar_1.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="favstar_1.png" bitmapDataHRef="M 58 1439048351.dat" frameRight="640" frameBottom="640"/>
+          <DOMBitmapItem name="favstarsmall_0.png" itemID="55c63ac9-00000f87" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/favstarsmall_0.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="favstarsmall_0.png" bitmapDataHRef="M 67 1439054293.dat" frameRight="320" frameBottom="320"/>
+          <DOMBitmapItem name="favstarsmall_0.png copy" itemID="55d00761-00000277" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/favstarsmall_0.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="favstarsmall_0.png" bitmapDataHRef="M 81 1439695569.dat" frameRight="320" frameBottom="320"/>
+          <DOMBitmapItem name="favstarsmall_1.png" itemID="55c63ac9-00000f88" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/favstarsmall_1.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="favstarsmall_1.png" bitmapDataHRef="M 66 1439054126.dat" frameRight="320" frameBottom="320"/>
+          <DOMBitmapItem name="Login/fb.png" itemID="509bc239-0000041f" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/Login/fb.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Login/fb.png" bitmapDataHRef="M 67 1341824280.dat" frameRight="800" frameBottom="800"/>
+          <DOMBitmapItem name="fbc.png" itemID="509bc239-00000420" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/fbc.png" sourceLastImported="1601213592" sourcePlatform="macintosh" originalCompressionType="lossless" quality="50" href="fbc.png" bitmapDataHRef="M 45 1318513640.dat" frameRight="2000" frameBottom="2000"/>
+          <DOMBitmapItem name="fbcsmall.png" itemID="509bc239-00000421" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/fbcsmall.png" sourceLastImported="1601213592" sourcePlatform="macintosh" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="fbcsmall.png" bitmapDataHRef="M 46 1318513867.dat" frameRight="300" frameBottom="300"/>
+          <DOMBitmapItem name="fbplay.png" itemID="509bc239-00000422" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/fbplay.png" sourceLastImported="1601213592" sourcePlatform="macintosh" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="fbplay.png" bitmapDataHRef="M 61 1323949724.dat" frameRight="3000" frameBottom="480"/>
+          <DOMBitmapItem name="folder.png" itemID="5f722f5d-000004d3" sourceExternalFilepath="../assets_new/LIBRARY/folder.png" sourceLastImported="1603316384" externalFileSize="789" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="folder.png" bitmapDataHRef="M 81 1601318749.dat" frameRight="320" frameBottom="320"/>
+          <DOMBitmapItem name="gear.png" itemID="5567356c-00000293" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/gear.png" sourceLastImported="1601213592" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="gear.png" bitmapDataHRef="M 54 1432814929.dat" frameRight="3000" frameBottom="3000"/>
+          <DOMBitmapItem name="gem.png" itemID="5484be4a-0000059e" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/gem.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="gem.png" bitmapDataHRef="M 57 1414684758.dat" frameRight="320" frameBottom="320"/>
+          <DOMBitmapItem name="gold.png" itemID="57a23dea-000002ae" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/gold.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="gold.png" bitmapDataHRef="M 57 1428599809.dat" frameRight="200" frameBottom="200"/>
+          <DOMBitmapItem name="gold_membership_shop_image.png" itemID="56b8c4b6-0000055d" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/gold_membership_shop_image.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="gold_membership_shop_image.png" bitmapDataHRef="M 82 1454949495.dat" frameRight="3600" frameBottom="1460"/>
+          <DOMBitmapItem name="Guest Promo.png" itemID="5bb02845-0000073b" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/Guest Promo.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Guest Promo.png" bitmapDataHRef="M 76 1538269426.dat" frameRight="640" frameBottom="600"/>
+          <DOMBitmapItem name="Guy.png" itemID="5679eba4-000005a8" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/Guy.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Guy.png" bitmapDataHRef="M 88 1450830669.dat" frameRight="320" frameBottom="320"/>
+          <DOMBitmapItem name="levelarrow.png" itemID="50ab4251-0000032c" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/levelarrow.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="levelarrow.png" bitmapDataHRef="M 42 1353400868.dat" frameRight="320" frameBottom="320"/>
+          <DOMBitmapItem name="likeheart_0.png" itemID="55c62429-00000900" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/likeheart_0.png" sourceLastImported="1601213592" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="likeheart_0.png" bitmapDataHRef="M 61 1439048538.dat" frameRight="640" frameBottom="640"/>
+          <DOMBitmapItem name="likeheart_0.png copy" itemID="55c62429-00000901" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/likeheart_0.png" sourceLastImported="1601213592" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="likeheart_0.png" bitmapDataHRef="M 63 1439048627.dat" frameRight="640" frameBottom="640"/>
+          <DOMBitmapItem name="likeheart_1.png" itemID="55c62429-00000902" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/likeheart_1.png" sourceLastImported="1601213592" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="likeheart_1.png" bitmapDataHRef="M 65 1439048653.dat" frameRight="640" frameBottom="640"/>
+          <DOMBitmapItem name="likeheartsmall_0.png" itemID="55c63ac9-00000f89" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/likeheartsmall_0.png" sourceLastImported="1601213592" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="likeheartsmall_0.png" bitmapDataHRef="M 70 1439054414.dat" frameRight="320" frameBottom="320"/>
+          <DOMBitmapItem name="likeheartsmall_1.png" itemID="55c63ac9-00000f8a" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/likeheartsmall_1.png" sourceLastImported="1601213592" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="likeheartsmall_1.png" bitmapDataHRef="M 69 1439054402.dat" frameRight="320" frameBottom="320"/>
+          <DOMBitmapItem name="mail.png" itemID="55947ac5-000003c5" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/mail.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="mail.png" bitmapDataHRef="M 56 1435793821.dat" frameRight="640" frameBottom="640"/>
+          <DOMBitmapItem name="mobile_logo11.gif" itemID="509bc239-00000427" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/mobile_logo11.gif" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="mobile_logo11.gif" bitmapDataHRef="M 49 1323893425.dat" frameRight="300" frameBottom="600"/>
+          <DOMBitmapItem name="multiJump.png" itemID="58e96d26-000002cd" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/multiJump.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="multiJump.png" bitmapDataHRef="M 74 1491692686.dat" frameRight="320" frameBottom="320"/>
+          <DOMBitmapItem name="Shop/newshop/old/new.png" itemID="509bc239-00000428" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/Shop/newshop/new.png" sourceLastImported="1601213592" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="100" href="Shop/newshop/old/new.png" bitmapDataHRef="M 69 1344590691.dat" frameRight="1240" frameBottom="1240"/>
+          <DOMBitmapItem name="Shop/NPC.png" itemID="5b2dbea4-00000370" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/Shop/NPC.png" sourceLastImported="1601213593" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Shop/NPC.png" bitmapDataHRef="M 76 1524972385.dat" frameRight="320" frameBottom="320"/>
+          <DOMBitmapItem name="officer.png" itemID="58a91b54-000002ee" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/officer.png" sourceLastImported="1601213593" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="officer.png" bitmapDataHRef="M 76 1487477421.dat" frameRight="520" frameBottom="520"/>
+          <DOMBitmapItem name="padlock.png" itemID="509bc239-00000429" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/padlock.png" sourceLastImported="1601213593" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="padlock.png" bitmapDataHRef="M 32 1350293132.dat" frameRight="140" frameBottom="220"/>
+          <DOMBitmapItem name="patreon.png" itemID="5b6e3519-00000779" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/patreon.png" sourceLastImported="1601213593" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="patreon.png" bitmapDataHRef="M 74 1533949001.dat" frameRight="280" frameBottom="280"/>
+          <DOMBitmapItem name="Shop/paypal-transparent-logo.png" itemID="5452643e-000003bc" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/Shop/paypal-transparent-logo.png" sourceLastImported="1601213593" sourcePlatform="macintosh" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Shop/paypal-transparent-logo.png" bitmapDataHRef="M 13 1289860208.dat" frameRight="1540" frameBottom="460"/>
+          <DOMBitmapItem name="postman.png" itemID="55947ac5-000003c6" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/postman.png" sourceLastImported="1601213593" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="postman.png" bitmapDataHRef="M 55 1435793737.dat" frameRight="320" frameBottom="320"/>
+          <DOMBitmapItem name="profile_icon.png" itemID="50c9d8a7-00000359" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/profile_icon.png" sourceLastImported="1601213593" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="profile_icon.png" bitmapDataHRef="M 49 1355405441.dat" frameRight="180" frameBottom="180"/>
+          <DOMBitmapItem name="profileimage.png" itemID="5b14426c-000002ba" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/profileimage.png" sourceLastImported="1601213593" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="profileimage.png" bitmapDataHRef="M 48 1355405418.dat" frameRight="520" frameBottom="180"/>
+          <DOMBitmapItem name="Shop/newshop/old/sale.png" itemID="546e3112-00000459" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/Shop/newshop/sale.png" sourceLastImported="1601213593" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="100" href="Shop/newshop/old/sale.png" bitmapDataHRef="M 70 1344590691.dat" frameRight="1240" frameBottom="1240"/>
+          <DOMBitmapItem name="sale24.png" itemID="546e3112-0000045a" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/sale24.png" sourceLastImported="1601213593" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="100" href="sale24.png" bitmapDataHRef="M 45 1355314032.dat" frameRight="980" frameBottom="980"/>
+          <DOMBitmapItem name="sale6.png" itemID="50c87398-00000376" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/sale6.png" sourceLastImported="1601213593" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="100" href="sale6.png" bitmapDataHRef="M 44 1355314032.dat" frameRight="880" frameBottom="880"/>
+          <DOMBitmapItem name="serviceicon.png" itemID="55c62f5e-00000afd" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/serviceicon.png" sourceLastImported="1601213593" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="serviceicon.png" bitmapDataHRef="M 64 1439051599.dat" frameRight="320" frameBottom="320"/>
+          <DOMBitmapItem name="Silver_clock.png" itemID="5c26799b-000002c5" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/Silver_clock.png" sourceLastImported="1601213593" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Silver_clock.png" bitmapDataHRef="M 80 1546025351.dat" frameRight="300" frameBottom="300"/>
+          <DOMBitmapItem name="Shop/ItemsGfx/single.png" itemID="5c1580b6-0000083b" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/Shop/ItemsGfx/single.png" sourceLastImported="1601213593" sourcePlatform="macintosh" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Shop/ItemsGfx/single.png" bitmapDataHRef="M 22 1298220008.dat" frameRight="320" frameBottom="320"/>
+          <DOMBitmapItem name="Shop/ItemsGfx/smiley.jpg" itemID="509bc239-0000042e" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/Shop/ItemsGfx/smiley.jpg" sourceLastImported="1601213593" allowSmoothing="true" quality="50" href="Shop/ItemsGfx/smiley.jpg" bitmapDataHRef="M 8 1288782758.dat" frameRight="3480" frameBottom="2020" isJPEG="true"/>
+          <DOMBitmapItem name="smilie.png" itemID="5118b156-00000357" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/smilie.png" sourceLastImported="1601213593" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="smilie.png" bitmapDataHRef="M 54 1360572673.dat" frameRight="320" frameBottom="320"/>
+          <DOMBitmapItem name="Shop/sr.png" itemID="509bc239-0000042f" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/Shop/sr.png" sourceLastImported="1601213593" sourcePlatform="macintosh" originalCompressionType="lossless" quality="50" href="Shop/sr.png" bitmapDataHRef="M 13 1291837662.dat" frameRight="2960" frameBottom="460"/>
+          <DOMBitmapItem name="teamdots.png" itemID="58e972a6-00000295" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/teamdots.png" sourceLastImported="1601213593" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="teamdots.png" bitmapDataHRef="M 58 1428601290.dat" frameRight="1920" frameBottom="320"/>
+          <DOMBitmapItem name="universe-decal.png" itemID="5c25a6cb-000002bb" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/universe-decal.png" sourceLastImported="1601213593" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="universe-decal.png" bitmapDataHRef="M 79 1544934239.dat" frameRight="1600" frameBottom="960"/>
+          <DOMBitmapItem name="woot.png" itemID="5e1fe2ec-000008de" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/woot.png" sourceLastImported="1601213593" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="woot.png" bitmapDataHRef="M 79 1579147764.dat" frameRight="320" frameBottom="320"/>
+          <DOMBitmapItem name="Shop/world.png" itemID="5484be4a-000005a2" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/Shop/world.png" sourceLastImported="1601213593" sourcePlatform="macintosh" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Shop/world.png" bitmapDataHRef="M 37 1310133233.dat" frameRight="320" frameBottom="320"/>
+          <DOMBitmapItem name="Login/worlds.jpg" itemID="509bc239-00000438" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/Login/worlds.jpg" sourceLastImported="1601213593" allowSmoothing="true" quality="50" href="Login/worlds.jpg" bitmapDataHRef="M 7 1288782566.dat" frameRight="3480" frameBottom="2020" isJPEG="true"/>
+          <DOMBitmapItem name="xmas-sale50.png" itemID="50d45f8d-00000360" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/xmas-sale50.png" sourceLastImported="1601213593" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="xmas-sale50.png" bitmapDataHRef="M 52 1356095223.dat" frameRight="1620" frameBottom="1620"/>
+          <DOMBitmapItem name="xmas_sale.png" itemID="546e3112-0000045c" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/xmas_sale.png" sourceLastImported="1601213593" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="xmas_sale.png" bitmapDataHRef="M 54 1356096725.dat" frameRight="1620" frameBottom="1620"/>
+          <DOMBitmapItem name="xmas_sale60.png" itemID="546e3112-0000045d" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/xmas_sale60.png" sourceLastImported="1601213593" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="100" href="xmas_sale60.png" bitmapDataHRef="M 50 1356095223.dat" frameRight="1620" frameBottom="1620"/>
+          <DOMBitmapItem name="xmas_sale75.png" itemID="50d45f8d-0000035f" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/xmas_sale75.png" sourceLastImported="1601213593" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="xmas_sale75.png" bitmapDataHRef="M 51 1356095223.dat" frameRight="1620" frameBottom="1620"/>
+          <DOMBitmapItem name="zombie.png" itemID="5532663a-00000369" sourceExternalFilepath="../Alon/EEU/Development/EEO/frontend/EverybodyEdits/swc/assets_new/LIBRARY/zombie.png" sourceLastImported="1601213593" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="zombie.png" bitmapDataHRef="M 55 1360572694.dat" frameRight="320" frameBottom="320"/>
+     </media>
+     <symbols>
+          <Include href="ActivateEmailWindow.xml" itemID="55947836-00000396" lastModified="1528053263"/>
+          <Include href="AddEnergyNow.xml" itemIcon="0" loadImmediate="false" itemID="4cff606d-00000324" lastModified="1312228035"/>
+          <Include href="Arrow.xml" itemIcon="1" loadImmediate="false" itemID="5524fe9e-000000c4" lastModified="1540321864"/>
+          <Include href="arrow_xsmall.xml" itemID="50c9d52f-00000342" lastModified="1528053294"/>
+          <Include href="asset_guestwelcome.xml" itemID="4da1cf42-00000572" lastModified="1545883598"/>
+          <Include href="asset_reopen_armorgames.xml" itemIcon="0" itemID="4e0c81e2-0000032c" lastModified="1336744857"/>
+          <Include href="assets_cursecounter.xml" itemID="5521b155-0000038e" lastModified="1428271775"/>
+          <Include href="assets_multijumpcounter.xml" itemID="58e96cd3-000002a0" lastModified="1491692913"/>
+          <Include href="assets_zombiesvshumans.xml" itemID="5118b0ee-0000034e" lastModified="1428271518"/>
+          <Include href="BackgroundColorSelector.xml" itemID="5648b917-000002af" lastModified="1528053332"/>
+          <Include href="BackgroundOptions/Arrow.xml" itemIcon="1" loadImmediate="false" itemID="5539312a-00000420" lastModified="1428487887"/>
+          <Include href="BackgroundOptions/bgsettings.xml" itemID="5522a165-000003bc" lastModified="1528053430"/>
+          <Include href="BackgroundOptions/bgsettings_profile.xml" itemID="55d2061f-000002d4" lastModified="1528053386"/>
+          <Include href="BackgroundOptions/Box.xml" loadImmediate="false" itemID="55225ff5-000001e6" lastModified="1528053346"/>
+          <Include href="BackgroundOptions/Brightness Adjuster.xml" loadImmediate="false" itemID="5524d7ec-000000a3" lastModified="1528053347"/>
+          <Include href="BackgroundOptions/Brightness Adjuster Arrow.xml" loadImmediate="false" itemID="5539312a-0000041e" lastModified="1528053358"/>
+          <Include href="BackgroundOptions/Brightness Adjuster Border.xml" loadImmediate="false" itemID="5524d7e6-000000a2" lastModified="1428477926"/>
+          <Include href="BackgroundOptions/Brightness Adjuster Fill.xml" loadImmediate="false" itemID="5524d7f2-000000a4" lastModified="1528053360"/>
+          <Include href="BackgroundOptions/CheckBox.xml" loadImmediate="false" itemID="55227e2f-000002b1" lastModified="1528053362"/>
+          <Include href="BackgroundOptions/Color Preview Border.xml" loadImmediate="false" itemID="5523e1b3-00000084" lastModified="1528053363"/>
+          <Include href="BackgroundOptions/Color Preview Fill.xml" loadImmediate="false" itemID="5523e1be-00000086" lastModified="1528053364"/>
+          <Include href="BackgroundOptions/ColorPreview.xml" loadImmediate="false" itemID="5523e00e-0000007c" lastModified="1528053365"/>
+          <Include href="BackgroundOptions/Colour Wheel.xml" loadImmediate="false" itemID="552284d7-000002de" lastModified="1528053366"/>
+          <Include href="BackgroundOptions/Colour Wheel Border.xml" loadImmediate="false" itemID="552284e5-000002df" lastModified="1528053368"/>
+          <Include href="BackgroundOptions/Colour Wheel Fill.xml" loadImmediate="false" itemID="5524177c-000000c4" lastModified="1528053370"/>
+          <Include href="BackgroundOptions/disabledOverlay.xml" loadImmediate="false" itemID="55fd0c7a-0000028a" lastModified="1528053371"/>
+          <Include href="BackgroundOptions/divider.xml" loadImmediate="false" itemID="55225fc8-000001e2" lastModified="1528053376"/>
+          <Include href="badge_border.xml" loadImmediate="false" itemID="509b7bf1-00000413" lastModified="1528053441"/>
+          <Include href="beta.xml" loadImmediate="false" itemID="54eb2ec1-0000065b" lastModified="1543987600"/>
+          <Include href="betaonlybtn.xml" loadImmediate="false" itemID="4fb1fb62-000002fc" lastModified="1528053513"/>
+          <Include href="bg.xml" loadImmediate="false" itemID="4be86290-00002bcb" lastModified="1334749655"/>
+          <Include href="bg_grey.xml" loadImmediate="false" itemID="4fb0b469-0000047d" lastModified="1336980975"/>
+          <Include href="bg_grey_light.xml" loadImmediate="false" itemID="4fb0b4dc-00000483" lastModified="1336980721"/>
+          <Include href="BlackBackground.xml" itemID="54525c1d-00000339" lastModified="1528053560"/>
+          <Include href="BlueBtn_Bg.xml" loadImmediate="false" itemID="5630d477-000002ed" lastModified="1446040730"/>
+          <Include href="bottom.xml" loadImmediate="false" itemID="58a7efee-000003d6" lastModified="1487400942"/>
+          <Include href="bottom copy 2.xml" loadImmediate="false" itemID="58a7efee-000003d5" lastModified="1487400942"/>
+          <Include href="bottom2.xml" loadImmediate="false" itemID="55326956-0000081d" lastModified="1429367126"/>
+          <Include href="Brightness Adjuster Arrow.xml" loadImmediate="false" itemID="5524f9ce-000000ad" lastModified="1429811511"/>
+          <Include href="btn_activate.xml" loadImmediate="false" itemID="55213c82-000003c5" lastModified="1428241538"/>
+          <Include href="btn_cancel.xml" itemIcon="0" loadImmediate="false" itemID="5bf365cb-00000399" lastModified="1542678014"/>
+          <Include href="btn_confirm.xml" itemIcon="0" itemID="5bf48ba6-0000038e" lastModified="1542774380"/>
+          <Include href="btn_confirm2.xml" itemID="5bf4de89-000003a6" lastModified="1542774490"/>
+          <Include href="btn_confirm2_btn.xml" itemIcon="0" loadImmediate="false" itemID="5bf4ded1-000005de" lastModified="1542774482"/>
+          <Include href="btn_createlevel.xml" itemIcon="0" itemID="5f70954d-0000051d" lastModified="1601317316"/>
+          <Include href="btn_delete.xml" itemIcon="0" loadImmediate="false" itemID="5516f1d0-00000489" lastModified="1540319338"/>
+          <Include href="btn_FBShare.xml" itemIcon="0" loadImmediate="false" itemID="551817ac-0000040e" lastModified="1427642284"/>
+          <Include href="btn_login.xml" itemIcon="0" loadImmediate="false" itemID="5516eba3-00000447" lastModified="1538270169"/>
+          <Include href="btn_minus.xml" itemIcon="0" loadImmediate="false" itemID="56731146-000002af" lastModified="1450381638"/>
+          <Include href="btn_no.xml" itemIcon="0" loadImmediate="false" itemID="54ea26b4-00000385" lastModified="1440068897"/>
+          <Include href="btn_nothanks.xml" itemIcon="0" loadImmediate="false" itemID="551816a7-000003fc" lastModified="1427642023"/>
+          <Include href="btn_openlevel.xml" itemIcon="0" itemID="5f709564-00000524" lastModified="1601321545"/>
+          <Include href="btn_optin.xml" loadImmediate="false" itemID="5c25510c-000002b5" lastModified="1546049873"/>
+          <Include href="btn_plus.xml" itemIcon="0" loadImmediate="false" itemID="5673113e-000002ab" lastModified="1450381630"/>
+          <Include href="btn_reloadpage.xml" itemIcon="0" loadImmediate="false" itemID="55181b06-0000046a" lastModified="1427643310"/>
+          <Include href="btn_retry.xml" itemID="5c297b13-000002ea" lastModified="1546663016"/>
+          <Include href="btn_subscribe.xml" itemIcon="0" itemID="55a5b1d1-000001cf" lastModified="1440069161"/>
+          <Include href="btn_timetrials.xml" itemIcon="0" itemID="5c267744-000002bd" lastModified="1579146112"/>
+          <Include href="btn_unsubscribe.xml" itemIcon="0" itemID="55a5b386-000001d6" lastModified="1440069166"/>
+          <Include href="btn_yes.xml" itemIcon="0" loadImmediate="false" itemID="54ea26a2-0000037e" lastModified="1424631458"/>
+          <Include href="btnBuy.xml" itemIcon="0" loadImmediate="false" itemID="4e004ff3-000003a6" lastModified="1312228890"/>
+          <Include href="btnGetGems.xml" itemIcon="0" loadImmediate="false" itemID="4e004fe1-000003a5" lastModified="1443439875"/>
+          <Include href="btnPlay.xml" loadImmediate="false" itemID="4e004b94-00000338" lastModified="1439696452"/>
+          <Include href="btns_info.xml" loadImmediate="false" itemID="5567114c-0000049c" lastModified="1544910694"/>
+          <Include href="btnShowProfile.xml" itemIcon="0" loadImmediate="false" itemID="4e004a69-0000032d" lastModified="1336744857"/>
+          <Include href="btnstart.xml" itemIcon="0" loadImmediate="false" itemID="4e004a29-0000032a" lastModified="1336744857"/>
+          <Include href="btnSubscribe.xml" loadImmediate="false" itemID="5641f18c-000002b1" lastModified="1447162892"/>
+          <Include href="btnSupportUs.xml" itemIcon="0" loadImmediate="false" itemID="5b6e34cc-00000773" lastModified="1533957207"/>
+          <Include href="btnViewMap.xml" itemIcon="0" loadImmediate="false" itemID="553276c5-00000394" lastModified="1545085206"/>
+          <Include href="button.xml" itemIcon="0" loadImmediate="false" itemID="4bf01626-0000108e" lastModified="1274025514"/>
+          <Include href="BuyNowBtn.xml" itemIcon="0" loadImmediate="false" itemID="4cff61a2-00000335" lastModified="1291810056"/>
+          <Include href="CampaignPage.xml" itemID="5c267fb8-000002f4" lastModified="1546026936"/>
+          <Include href="Campaigns/btn_back.xml" itemIcon="0" itemID="5597df8b-000001c4" lastModified="1546026687"/>
+          <Include href="Campaigns/btn_refresh.xml" itemIcon="0" loadImmediate="false" itemID="5597e3ca-000001d9" lastModified="1545589535"/>
+          <Include href="checkbox.xml" loadImmediate="false" itemID="4da1e79e-000005e1" lastModified="1505192132"/>
+          <Include href="color_wheel.xml" loadImmediate="false" itemID="55cf8399-0000030e" lastModified="1439663001"/>
+          <Include href="complete.xml" loadImmediate="false" itemID="4fd1f03b-0000032e" lastModified="1345643558"/>
+          <Include href="Component Assets/_private/Component_avatar.xml" loadImmediate="false" itemID="44f89322-00000020" lastModified="1168286780"/>
+          <Include href="confirmbtn.xml" itemID="56713cd1-00000289" lastModified="1450263881"/>
+          <Include href="ConfirmPrompt.xml" itemID="54ea25c2-00000363" lastModified="1542774446"/>
+          <Include href="crown.xml" loadImmediate="false" itemID="4d61422f-0000032d" lastModified="1544234240"/>
+          <Include href="divider.xml" loadImmediate="false" itemID="559b896b-00000678" lastModified="1436256734"/>
+          <Include href="divider_small.xml" loadImmediate="false" itemID="5c05b354-0000087b" lastModified="1543877460"/>
+          <Include href="dollars.xml" loadImmediate="false" itemID="502cb2f6-0000038f" lastModified="1528053641"/>
+          <Include href="empty.xml" loadImmediate="false" itemID="4cff6aa9-000003eb" lastModified="1528053645"/>
+          <Include href="Endscreen/bg_black.xml" loadImmediate="false" itemID="507bc846-0000031d" lastModified="1528053655"/>
+          <Include href="Endscreen/bg_transparent.xml" loadImmediate="false" itemID="4fccbc12-0000042f" lastModified="1338817588"/>
+          <Include href="Endscreen/favoritebtn.xml" loadImmediate="false" itemID="55c6225a-000008be" lastModified="1450468890"/>
+          <Include href="Endscreen/gotolobbybtn.xml" itemID="4fcc9296-00000300" lastModified="1350376497"/>
+          <Include href="Endscreen/joinroombtn.xml" itemIcon="0" loadImmediate="false" itemID="54834a0b-000003ec" lastModified="1424657660"/>
+          <Include href="Endscreen/LevelComplete.xml" itemID="4fc8d01f-00000344" lastModified="1528053692"/>
+          <Include href="Endscreen/staybtn.xml" itemID="4fcc9468-00000345" lastModified="1351857175"/>
+          <Include href="Endscreen/subscribebtn.xml" loadImmediate="false" itemID="5641f058-00000295" lastModified="1447162058"/>
+          <Include href="Endscreen/wootupbtn.xml" itemID="507d1a7e-00000332" lastModified="1442216744"/>
+          <Include href="energy/energy_added.xml" itemID="50236ebc-000001ff" lastModified="1344589495"/>
+          <Include href="energy/energybar.xml" loadImmediate="false" itemID="502256ee-000001f6" lastModified="1435321688"/>
+          <Include href="energy/energybar_bg.xml" loadImmediate="false" itemID="5022578f-0000020b" lastModified="1344427981"/>
+          <Include href="energy/energybar_border.xml" loadImmediate="false" itemID="50225730-00000205" lastModified="1344427853"/>
+          <Include href="energy/energybar_colorbg.xml" loadImmediate="false" itemID="50225a5a-000002c7" lastModified="1344428634"/>
+          <Include href="energy/energybutton_bg.xml" loadImmediate="false" itemID="5023b659-00000421" lastModified="1346835156"/>
+          <Include href="energy/progressbar.xml" loadImmediate="false" itemID="4cff62d1-00000337" lastModified="1336743303"/>
+          <Include href="faded_divider.xml" loadImmediate="false" itemID="5565e5c4-0000026e" lastModified="1432741316"/>
+          <Include href="fb_header.xml" loadImmediate="false" itemID="4ffad1eb-000007c1" lastModified="1528053698"/>
+          <Include href="fb_logo.xml" loadImmediate="false" itemID="4ffa9d3a-000004bb" lastModified="1528053715"/>
+          <Include href="fbconnect.xml" itemIcon="0" itemID="4c37393a-00000625" lastModified="1282063538"/>
+          <Include href="formbg.xml" loadImmediate="false" itemID="4c6d4a45-000002b4" lastModified="1282231367"/>
+          <Include href="formfieldbg.xml" loadImmediate="false" itemID="4c6d4a72-000002b9" lastModified="1282231342"/>
+          <Include href="fscreen.xml" itemID="4c6eb603-00000780" lastModified="1282324090"/>
+          <Include href="fullbtn.xml" itemIcon="0" loadImmediate="false" itemID="55d00629-0000026a" lastModified="1439696576"/>
+          <Include href="gamebar.xml" itemID="5093bf5b-000004bc" lastModified="1360571065"/>
+          <Include href="gem_icon.xml" loadImmediate="false" itemID="544e77bd-00000531" lastModified="1414684788"/>
+          <Include href="gem_sym.xml" loadImmediate="false" itemID="544e8644-00000579" lastModified="1414684821"/>
+          <Include href="gem_symbol.xml" loadImmediate="false" itemID="544e858a-00000573" lastModified="1414684823"/>
+          <Include href="GemBG.xml" loadImmediate="false" itemID="545263cb-000003b9" lastModified="1414685643"/>
+          <Include href="GetGems_Middle.xml" loadImmediate="false" itemID="54525c1b-0000027c" lastModified="1543285750"/>
+          <Include href="GetGems/GetGemsNow.xml" itemID="4cffd662-00000445" lastModified="1543285799"/>
+          <Include href="GetGemsNow_BF.xml" loadImmediate="false" itemID="5bfcac1e-0000038d" lastModified="1543285797"/>
+          <Include href="glass_timer.xml" loadImmediate="false" itemID="5516fc9c-000004e2" lastModified="1528053752"/>
+          <Include href="goldicon_xsmall.xml" itemID="5644b468-00000293" lastModified="1454949469"/>
+          <Include href="GoldMemberBox.xml" itemID="5644b5cf-00000296" lastModified="1447343905"/>
+          <Include href="GoPro.xml" itemIcon="0" loadImmediate="false" itemID="4cd146ab-000002d0" lastModified="1336744857"/>
+          <Include href="GuySprite.xml" itemIcon="1" loadImmediate="false" itemID="4fb0a858-00000324" lastModified="1450830281"/>
+          <Include href="gx_btn_bg.xml" loadImmediate="false" itemID="4fcca25e-00000331" lastModified="1338811303"/>
+          <Include href="gx_btn_overlay.xml" loadImmediate="false" itemID="4fcca24c-0000032a" lastModified="1528053764"/>
+          <Include href="gx_circle.xml" loadImmediate="false" itemID="4fcdcb63-00000336" lastModified="1339076595"/>
+          <Include href="gx_star.xml" loadImmediate="false" itemID="4fcdc264-0000030c" lastModified="1339076547"/>
+          <Include href="gx_star_pixels.xml" itemID="4fd07dd7-000003ac" lastModified="1339063780"/>
+          <Include href="halfcircle.xml" itemIcon="1" loadImmediate="false" itemID="50a5ffb5-00000329" lastModified="1353058271"/>
+          <Include href="handCursor.xml" loadImmediate="false" itemID="55c2c1e7-00000438" lastModified="1528053791"/>
+          <Include href="handCursorBox.xml" loadImmediate="false" itemID="55c2acd3-00000240" lastModified="1491737060"/>
+          <Include href="headain_inside.xml" loadImmediate="false" itemID="4fd072ae-000001a6" lastModified="1339062567"/>
+          <Include href="headanimation.xml" loadImmediate="false" itemID="4fd071ee-000001a2" lastModified="1339063197"/>
+          <Include href="HexCode Button.xml" itemIcon="0" loadImmediate="false" itemID="55227659-00000279" lastModified="1428470305"/>
+          <Include href="hideprofile.xml" itemIcon="0" loadImmediate="false" itemID="4dcd3424-000034d7" lastModified="1336744857"/>
+          <Include href="icon_gear.xml" loadImmediate="false" itemID="55673505-0000028a" lastModified="1543877921"/>
+          <Include href="Inbox/btn_delete.xml" itemIcon="0" loadImmediate="false" itemID="55c0bfa2-000007f6" lastModified="1438778847"/>
+          <Include href="Inbox/message.xml" loadImmediate="false" itemID="5516f204-0000048d" lastModified="1545605765"/>
+          <Include href="Inbox/messagecontainer.xml" loadImmediate="false" itemID="55c0c28f-00000807" lastModified="1449797986"/>
+          <Include href="Inbox/messageHeader.xml" loadImmediate="false" itemID="55c1f777-00000213" lastModified="1528053792"/>
+          <Include href="infobtn.xml" itemIcon="0" itemID="5c19b2fb-00000b0c" lastModified="1545493364"/>
+          <Include href="input_bg.xml" loadImmediate="false" itemID="4ffa96d3-00000378" lastModified="1427658546"/>
+          <Include href="item_locked.xml" itemID="507bd660-00000415" lastModified="1350303889"/>
+          <Include href="joinbtn.xml" itemIcon="0" loadImmediate="false" itemID="4be8678e-00004a1c" lastModified="1439696687"/>
+          <Include href="Label.xml" itemID="44b18473-00000011" lastModified="1358192121"/>
+          <Include href="letsbuildbtn.xml" loadImmediate="false" itemID="50c0a092-00000368" lastModified="1354801333"/>
+          <Include href="Level Options/btn_save.xml" loadImmediate="false" itemID="55bf0769-000001fc" lastModified="1438582659"/>
+          <Include href="Level Options/dropdownarrow.xml" loadImmediate="false" itemID="55bd9ab2-000007ad" lastModified="1491738152"/>
+          <Include href="Level Options/dropdownbtn.xml" loadImmediate="false" itemID="55c2c1af-00000425" lastModified="1491738447"/>
+          <Include href="Level Options/dropdowncontainer.xml" loadImmediate="false" itemID="55bd9c12-000007d4" lastModified="1491738346"/>
+          <Include href="Level Options/handCursor.xml" loadImmediate="false" itemID="5630d853-00000526" lastModified="1438827037"/>
+          <Include href="Level Options/input_bg.xml" loadImmediate="false" itemID="5630d6c0-000004c0" lastModified="1427658546"/>
+          <Include href="Level Options/Level Options/btn_save.xml" loadImmediate="false" itemID="5630d853-00000522" lastModified="1438582659"/>
+          <Include href="Level Options/Level Options/dropdownarrow.xml" loadImmediate="false" itemID="5630d853-00000529" lastModified="1491738151"/>
+          <Include href="Level Options/Level Options/dropdownbtn.xml" loadImmediate="false" itemID="5630d853-00000525" lastModified="1491738451"/>
+          <Include href="Level Options/Level Options/dropdowncontainer.xml" loadImmediate="false" itemID="5630d853-00000523" lastModified="1491738162"/>
+          <Include href="Level Options/LevelOptions.xml" itemID="54ea2d2c-00000387" lastModified="1601829889"/>
+          <Include href="Level Options/WorldStatus.xml" itemID="55bd9c96-000007d8" lastModified="1528053874"/>
+          <Include href="LevelOptions_BtnInfo.xml" loadImmediate="false" itemID="5630d25f-000002c2" lastModified="1446040197"/>
+          <Include href="LevelOptions_BtnOptions.xml" loadImmediate="false" itemID="5630d1d3-000002b9" lastModified="1446047867"/>
+          <Include href="LevelOptions_BtnSettings.xml" loadImmediate="false" itemID="5630d362-000002d8" lastModified="1446040436"/>
+          <Include href="LevelOptions_ButtonBox.xml" loadImmediate="false" itemID="5630d0e4-000002a2" lastModified="1446040385"/>
+          <Include href="Levelup/WelcomeBack.xml" itemID="509289d4-00000347" lastModified="1528053938"/>
+          <Include href="Levelup/WelcomeGold.xml" itemID="5644b586-00000295" lastModified="1528053882"/>
+          <Include href="light.xml" loadImmediate="false" itemID="4fd063d6-0000005d" lastModified="1528053958"/>
+          <Include href="light_inside.xml" loadImmediate="false" itemID="4fd06b1e-00000146" lastModified="1528053961"/>
+          <Include href="light_rotation.xml" loadImmediate="false" itemID="4fd0640b-0000005f" lastModified="1528054138"/>
+          <Include href="light_rotation_full.xml" itemID="551818b4-00000449" lastModified="1528054154"/>
+          <Include href="loadinganim.xml" itemID="5518493f-000003f5" lastModified="1432828212"/>
+          <Include href="LoadingScreen.xml" itemID="551857b6-000005e7" lastModified="1528054170"/>
+          <Include href="lobby_guestpromo.xml" itemID="5c244fba-000003b9" lastModified="1546119701"/>
+          <Include href="Lobby Friends/lobbyfriends.xml" itemID="5c15dab7-00000c54" lastModified="1545590161"/>
+          <Include href="Lobby Friends/lobbyfriends_item.xml" itemID="5c181a0a-00000482" lastModified="1545926965"/>
+          <Include href="Lobby Friends/lobbyfriends_item_line.xml" loadImmediate="false" itemID="5c187529-000004cf" lastModified="1545106730"/>
+          <Include href="Lobby Friends/lobbyfriends_loading.xml" itemID="5c1812a7-00000473" lastModified="1545081561"/>
+          <Include href="Lobby Friends/lobbyfriends_none.xml" itemID="5c181046-00000464" lastModified="1545084923"/>
+          <Include href="Lobby Tab Buttons/btn_lobby_logout.xml" itemIcon="0" loadImmediate="false" itemID="55661aa4-00000309" lastModified="1432816180"/>
+          <Include href="Lobby Tab Buttons/btn_lobby_settings.xml" loadImmediate="false" itemID="55661507-000002ee" lastModified="1543877990"/>
+          <Include href="Lobby Tab Buttons/btn_tab_campaigns.xml" loadImmediate="false" itemID="55b4784f-0000071e" lastModified="1543876157"/>
+          <Include href="Lobby Tab Buttons/btn_tab_lobby.xml" loadImmediate="false" itemID="55660a42-000002c8" lastModified="1545598857"/>
+          <Include href="Lobby Tab Buttons/btn_tab_shop.xml" loadImmediate="false" itemID="5c058cc6-00000623" lastModified="1545596819"/>
+          <Include href="Lobby Tab Buttons/btn_tab_social.xml" loadImmediate="false" itemID="5c058cc2-00000622" lastModified="1545598878"/>
+          <Include href="Lobby Tab Buttons/shopHighlight.xml" loadImmediate="false" itemID="5c05902e-00000647" lastModified="1544234387"/>
+          <Include href="Lobby Tab Buttons/socialHighlight.xml" loadImmediate="false" itemID="5c1ff008-00000407" lastModified="1545598864"/>
+          <Include href="Lobby/alertBackground.xml" loadImmediate="false" itemID="55cdfcd4-0000060f" lastModified="1528054172"/>
+          <Include href="Lobby/AlertItem.xml" itemID="55cdfcad-000005ee" lastModified="1528054216"/>
+          <Include href="Lobby/btn_messages.xml" itemIcon="0" itemID="55ce16fb-00000664" lastModified="1545605171"/>
+          <Include href="Lobby/btn_send.xml" itemIcon="0" itemID="55ce16a6-00000656" lastModified="1545605165"/>
+          <Include href="Lobby/btn_sendmessage.xml" itemIcon="0" loadImmediate="false" itemID="55ce1887-00000666" lastModified="1439823823"/>
+          <Include href="Lobby/crewName.xml" loadImmediate="false" itemID="55fbcf5a-00000276" lastModified="1442565999"/>
+          <Include href="Lobby/Inbox/btn_delete.xml" itemIcon="0" loadImmediate="false" itemID="55cffdaa-00000243" lastModified="1439610964"/>
+          <Include href="Lobby/Inbox/btn_reply.xml" itemIcon="0" loadImmediate="false" itemID="55ceb865-000006cf" lastModified="1439611133"/>
+          <Include href="Lobby/Inbox/message.xml" itemID="55cffdaa-00000244" lastModified="1545605758"/>
+          <Include href="Lobby/Inbox/messagecontainer.xml" loadImmediate="false" itemID="55cffdaa-00000246" lastModified="1545605817"/>
+          <Include href="Lobby/Inbox/messageHeader.xml" loadImmediate="false" itemID="55cffdaa-00000245" lastModified="1545605962"/>
+          <Include href="Lobby/newalert.xml" itemID="55d08d36-0000025c" lastModified="1522528357"/>
+          <Include href="Lobby/nologo.xml" loadImmediate="false" itemID="55ce0445-00000639" lastModified="1439564902"/>
+          <Include href="Login/AddToCrewPrompt.xml" itemID="55d0d5a7-00000332" lastModified="1491737277"/>
+          <Include href="Login/asset_login_now.xml" itemIcon="0" itemID="4ea6dfbf-00000579" lastModified="1341385348"/>
+          <Include href="Login/asset_paypalreturn.xml" itemID="4ea6cf30-00000564" lastModified="1336745183"/>
+          <Include href="Login/asset_return_to_lobby.xml" itemIcon="0" itemID="4ea6dfcd-0000057f" lastModified="1336744858"/>
+          <Include href="Login/bg.xml" loadImmediate="false" itemID="4c6ea688-00000678" lastModified="1291123070"/>
+          <Include href="Login/BuyBg.xml" loadImmediate="false" itemID="4c74d444-000004e3" lastModified="1528053500"/>
+          <Include href="Login/checkbox.xml" loadImmediate="false" itemID="4c644fa0-00000270" lastModified="1487478166"/>
+          <Include href="Login/checkboxbg.xml" loadImmediate="false" itemID="4c644fbb-00000275" lastModified="1528054259"/>
+          <Include href="Login/CoptTextPrompt.xml" itemID="55ce46e1-00000236" lastModified="1528054415"/>
+          <Include href="Login/facebbok_btn_large.xml" itemIcon="0" loadImmediate="false" itemID="4ffa9ae0-0000039d" lastModified="1354705073"/>
+          <Include href="Login/fbloginbtn.xml" itemIcon="0" loadImmediate="false" itemID="4c62cfd1-000003f4" lastModified="1336745174"/>
+          <Include href="Login/ForgotPasswordBtn.xml" itemIcon="0" loadImmediate="false" itemID="4ca9b20b-000002aa" lastModified="1336745174"/>
+          <Include href="Login/guest.xml" itemIcon="0" loadImmediate="false" itemID="4c90b59b-00000bcc" lastModified="1545883601"/>
+          <Include href="Login/handCursorBox.xml" loadImmediate="false" itemID="55d0d651-00000371" lastModified="1438821587"/>
+          <Include href="Login/HelpInfo.xml" itemID="5f90ab75-000003e9" lastModified="1603316819"/>
+          <Include href="Login/Info.xml" itemID="4cf8db71-00000713" lastModified="1528054421"/>
+          <Include href="Login/input_bg.xml" loadImmediate="false" itemID="55d0d651-0000036c" lastModified="1528054422"/>
+          <Include href="Login/LobbyLoginBox.xml" itemID="4d330dee-000009c2" lastModified="1528054438"/>
+          <Include href="Login/loginarmorgamesbtn.xml" loadImmediate="false" itemID="4ff42f59-00000449" lastModified="1347272181"/>
+          <Include href="Login/LoginBackground.xml" loadImmediate="false" itemID="4c62cb81-000003b2" lastModified="1341830792"/>
+          <Include href="Login/loginbg.xml" loadImmediate="false" itemID="4d331235-00001ceb" lastModified="1320331453"/>
+          <Include href="Login/loginbtn.xml" itemIcon="0" loadImmediate="false" itemID="4c6d4d56-000002fb" lastModified="1336745174"/>
+          <Include href="Login/loginkongregatebtn.xml" itemIcon="0" loadImmediate="false" itemID="4c90c6c4-000027df" lastModified="1546119686"/>
+          <Include href="Login/loginnow.xml" itemIcon="0" loadImmediate="false" itemID="4d33106b-00001895" lastModified="1336744858"/>
+          <Include href="Login/loginsimple_assets/btn_play_as_guest.xml" itemIcon="0" loadImmediate="false" itemID="50485980-0000031c" lastModified="1545883599"/>
+          <Include href="Login/loginsimple_assets/login_to_play.xml" itemIcon="0" loadImmediate="false" itemID="504859ff-00000335" lastModified="1427566042"/>
+          <Include href="Login/loginsimple_assets/LoginButton.xml" itemIcon="0" itemID="50487664-00000581" lastModified="1418060242"/>
+          <Include href="Login/loginsimple_assets/LoginSimple.xml" itemID="5047505d-000004e1" lastModified="1538277311"/>
+          <Include href="Login/loginsimple_assets/LoginWindow.xml" itemID="504875b7-0000055f" lastModified="1528054589"/>
+          <Include href="Login/loginsimple_assets/RememberMeButton.xml" loadImmediate="false" itemID="504876e5-0000058c" lastModified="1487478350"/>
+          <Include href="Login/loginsimple_assets/TermsButton.xml" loadImmediate="false" itemID="5107bbdd-000004db" lastModified="1359463890"/>
+          <Include href="Login/LoginWindowSlideshow.xml" loadImmediate="false" itemID="55c0a8aa-000005fd" lastModified="1538276157"/>
+          <Include href="Login/logoutbtwn.xml" itemIcon="0" loadImmediate="false" itemID="4d331aff-00002675" lastModified="1417984432"/>
+          <Include href="Login/Profile/Crew/arrow.xml" loadImmediate="false" itemID="55d3220c-000003d7" lastModified="1440073727"/>
+          <Include href="Login/Profile/Crew/btndropdown.xml" loadImmediate="false" itemID="55d0d651-00000370" lastModified="1439440554"/>
+          <Include href="Login/Profile/Crew/changeState.xml" itemID="55d1e311-0000027f" lastModified="1449796816"/>
+          <Include href="Login/Profile/Crew/Crew Selector/crewSelectorTFContainer.xml" loadImmediate="false" itemID="55d0d651-0000036d" lastModified="1491736978"/>
+          <Include href="Login/Profile/Crew/disabledFaceplateOverlay.xml" loadImmediate="false" itemID="55fd0ea8-000002fa" lastModified="1442648826"/>
+          <Include href="Login/Profile/Crew/Divider Stuff/btn_add.xml" itemID="55d1f880-000002a6" lastModified="1439824141"/>
+          <Include href="Login/Profile/Crew/Divider Stuff/btn_remove.xml" itemID="55d1f8b2-000002b6" lastModified="1439827489"/>
+          <Include href="Login/Profile/Crew/Divider Stuff/btn_save.xml" itemID="55d1f7b1-00000291" lastModified="1540319057"/>
+          <Include href="Login/Profile/Crew/FaceplateSettings.xml" itemID="55d320cd-000003c2" lastModified="1442649056"/>
+          <Include href="Login/Profile/Crew/ScrollContainer.xml" loadImmediate="false" itemID="55d0d651-0000036b" lastModified="1438407886"/>
+          <Include href="Login/Profile/Pages/Information/Beta.xml" loadImmediate="false" itemID="56055879-000002a4" lastModified="1492113221"/>
+          <Include href="Login/Profile/Pages/Information/BetaInformation.xml" itemID="56055b55-000002cc" lastModified="1545363388"/>
+          <Include href="Login/Profile/Pages/Information/EnergyInformation.xml" itemID="56055b62-000002d0" lastModified="1443246106"/>
+          <Include href="Login/Profile/Pages/Information/GoldInformation.xml" itemID="5644b452-00000291" lastModified="1454949556"/>
+          <Include href="Login/Profile/Pages/Information/InformationContainer.xml" loadImmediate="false" itemID="5605541a-0000027f" lastModified="1522529567"/>
+          <Include href="Login/Profile/Pages/Information/RegisterInformation.xml" itemID="56055b6c-000002d2" lastModified="1443246113"/>
+          <Include href="Login/Prompt.xml" itemID="55ce46e5-00000237" lastModified="1528054649"/>
+          <Include href="Login/register_button.xml" loadImmediate="false" itemID="504750f1-00000523" lastModified="1528054733"/>
+          <Include href="Login/RegisterWindow.xml" itemID="4ffaaac6-00000707" lastModified="1545883990"/>
+          <Include href="Login/RegisterWindowCaptchaHolder.xml" loadImmediate="false" itemID="5793b508-00000cf5" lastModified="1469300642"/>
+          <Include href="Login/ResetPassword.xml" itemID="504da8de-000004cf" lastModified="1522531209"/>
+          <Include href="Login/save.xml" itemIcon="0" loadImmediate="false" itemID="4c6ea3d3-00000577" lastModified="1336745174"/>
+          <Include href="Login/setanme.xml" itemIcon="0" loadImmediate="false" itemID="4cea68a7-000012fc" lastModified="1336745174"/>
+          <Include href="Login/Share.xml" itemID="4c8643b2-00003748" lastModified="1528054739"/>
+          <Include href="Login/Upgrade.xml" itemID="4cf5190e-0000160a" lastModified="1439196189"/>
+          <Include href="Login/VerifyAge.xml" itemID="4d078e87-000018c9" lastModified="1528054763"/>
+          <Include href="Login/WorldDescription.xml" itemID="551eb802-00000443" lastModified="1446041278"/>
+          <Include href="LoginNewsItem.xml" loadImmediate="false" itemID="58a87ab9-000003f3" lastModified="1528052842"/>
+          <Include href="LoginSmileys.xml" loadImmediate="false" itemID="55ce3f6e-00000242" lastModified="1487477520"/>
+          <Include href="logout_btn.xml" itemIcon="0" loadImmediate="false" itemID="5c1578ef-000007a0" lastModified="1544911097"/>
+          <Include href="MagicAnim.xml" loadImmediate="false" itemID="55661665-000001ec" lastModified="1528052811"/>
+          <Include href="masker.xml" loadImmediate="false" itemID="4cff7320-000003fe" lastModified="1291809568"/>
+          <Include href="mine.xml" loadImmediate="false" itemID="4ee8ff22-00000340" lastModified="1543987619"/>
+          <Include href="MiniLoading.xml" itemID="55cf83a5-000004b5" lastModified="1545336896"/>
+          <Include href="mute.xml" itemID="4c6c0cfb-00000492" lastModified="1282725725"/>
+          <Include href="newbuybg.xml" loadImmediate="false" itemID="54525c1b-0000027e" lastModified="1414683675"/>
+          <Include href="newmessage.xml" itemID="55ce1448-0000063d" lastModified="1450264984"/>
+          <Include href="news_imageloader.xml" loadImmediate="false" itemID="4ffc16ff-0000036c" lastModified="1432827856"/>
+          <Include href="news/asset_bignews.xml" itemID="4da1ef58-000011d3" lastModified="1427642267"/>
+          <Include href="news/newslettersignup.xml" itemIcon="0" loadImmediate="false" itemID="4dc1336e-00001d1e" lastModified="1423166136"/>
+          <Include href="news/read blog.xml" itemIcon="0" loadImmediate="false" itemID="4da1f221-0000208a" lastModified="1427643269"/>
+          <Include href="NewsletterSignup.xml" loadImmediate="false" itemID="54527029-00000454" lastModified="1423166557"/>
+          <Include href="not_hud_bg.xml" loadImmediate="false" itemID="546b48b1-00000367" lastModified="1416326904"/>
+          <Include href="notifierbg.xml" loadImmediate="false" itemID="54ea4c4f-000004ff" lastModified="1424641780"/>
+          <Include href="OkButton.xml" loadImmediate="false" itemID="505039b1-00000373" lastModified="1439056889"/>
+          <Include href="open.xml" loadImmediate="false" itemID="54525dd2-00000373" lastModified="1543987609"/>
+          <Include href="Options_ClearLevel.xml" itemIcon="0" loadImmediate="false" itemID="5630d534-00000494" lastModified="1446042587"/>
+          <Include href="Options_LoadLevel.xml" itemIcon="0" loadImmediate="false" itemID="5630d50c-00000485" lastModified="1482761986"/>
+          <Include href="Options_Regenerate.xml" itemIcon="0" loadImmediate="false" itemID="58612739-000002c4" lastModified="1482762088"/>
+          <Include href="Options_ResetLevel.xml" itemIcon="0" loadImmediate="false" itemID="5630d51c-0000048c" lastModified="1446042581"/>
+          <Include href="Options_SaveLevel.xml" itemIcon="0" loadImmediate="false" itemID="5630d439-000002eb" lastModified="1446042562"/>
+          <Include href="OptionsConfirm.xml" itemID="5630efcb-000005e8" lastModified="1543094221"/>
+          <Include href="outOfGems.xml" loadImmediate="false" itemID="55d4c019-000004f9" lastModified="1440006347"/>
+          <Include href="PageActions.xml" itemID="5630f05d-000005f3" lastModified="1543094224"/>
+          <Include href="PageInfo.xml" itemID="5630e4f3-00000587" lastModified="1601830018"/>
+          <Include href="PageSettings.xml" itemID="5630e52e-000005b1" lastModified="1601829973"/>
+          <Include href="playasguest.xml" itemIcon="0" loadImmediate="false" itemID="4eb2ab90-00000389" lastModified="1545883604"/>
+          <Include href="playonfb.xml" itemIcon="0" loadImmediate="false" itemID="4ee9e16b-000003b3" lastModified="1323950443"/>
+          <Include href="plus.xml" loadImmediate="false" itemID="4da07d74-0000037c" lastModified="1491735688"/>
+          <Include href="profile_blog.xml" loadImmediate="false" itemID="5125d93e-00000359" lastModified="1544935511"/>
+          <Include href="profile_forums.xml" loadImmediate="false" itemID="54ea8df7-000005a1" lastModified="1544935503"/>
+          <Include href="profile_help.xml" loadImmediate="false" itemID="50fd1627-00000352" lastModified="1544935519"/>
+          <Include href="profile_icon_xs.xml" itemID="50c9d8a5-00000355" lastModified="1428599827"/>
+          <Include href="profile_stats.xml" itemID="508f8ea6-000003b2" lastModified="1528053282"/>
+          <Include href="profile_terms.xml" loadImmediate="false" itemID="50fd5fb0-000004e4" lastModified="1544935528"/>
+          <Include href="Profile/acceptbtn.xml" itemIcon="0" loadImmediate="false" itemID="4f8be32a-00000304" lastModified="1336744858"/>
+          <Include href="Profile/blockbtn.xml" itemIcon="0" loadImmediate="false" itemID="4f98fe77-00000c1e" lastModified="1336744858"/>
+          <Include href="Profile/btnignore.xml" itemIcon="0" loadImmediate="false" itemID="4f98fe69-00000b30" lastModified="1545534647"/>
+          <Include href="Profile/cancelsendbtn.xml" itemIcon="0" loadImmediate="false" itemID="4f98f72c-000006a6" lastModified="1336744858"/>
+          <Include href="Profile/canecelbtn.xml" itemIcon="0" loadImmediate="false" itemID="4f98f716-000005b9" lastModified="1336744858"/>
+          <Include href="Profile/CloseBtn.xml" itemIcon="0" itemID="4f68a188-00000412" lastModified="1336743535"/>
+          <Include href="Profile/Crew Tab/acceptinvite.xml" itemID="55c8825f-00000294" lastModified="1439390404"/>
+          <Include href="Profile/Crew Tab/blockeduser.xml" itemID="55cb6141-00000464" lastModified="1439392620"/>
+          <Include href="Profile/Crew Tab/btn_accept.xml" itemIcon="0" loadImmediate="false" itemID="55c882bb-000002b4" lastModified="1439204783"/>
+          <Include href="Profile/Crew Tab/btn_block.xml" itemIcon="0" loadImmediate="false" itemID="55c8837e-000002e1" lastModified="1439637276"/>
+          <Include href="Profile/Crew Tab/btn_invite.xml" itemIcon="0" loadImmediate="false" itemID="55c881a3-0000027a" lastModified="1439203763"/>
+          <Include href="Profile/Crew Tab/btn_invitestatus.xml" loadImmediate="false" itemID="55d72df2-000002a0" lastModified="1440165381"/>
+          <Include href="Profile/Crew Tab/btn_ok.xml" itemIcon="0" loadImmediate="false" itemID="55d72c33-0000027f" lastModified="1440164944"/>
+          <Include href="Profile/Crew Tab/btn_openshop.xml" itemIcon="0" loadImmediate="false" itemID="55cefc20-0000078b" lastModified="1439628330"/>
+          <Include href="Profile/Crew Tab/btn_reject.xml" itemIcon="0" loadImmediate="false" itemID="55c88300-000002cc" lastModified="1439637270"/>
+          <Include href="Profile/Crew Tab/btn_setname.xml" itemIcon="0" loadImmediate="false" itemID="55cb4207-00000440" lastModified="1439384088"/>
+          <Include href="Profile/Crew Tab/btn_unblock.xml" itemIcon="0" loadImmediate="false" itemID="55cb6129-00000457" lastModified="1439392169"/>
+          <Include href="Profile/Crew Tab/invitestatus.xml" itemID="55d72c9c-0000029b" lastModified="1440167929"/>
+          <Include href="Profile/Crew Tab/nocrew.xml" itemID="55cefc04-0000077f" lastModified="1439634189"/>
+          <Include href="Profile/Crew Tab/nocrewname.xml" itemID="55cb447e-0000044b" lastModified="1439392043"/>
+          <Include href="Profile/Crew Tab/sendinvite.xml" itemID="55c8823e-0000028e" lastModified="1439391948"/>
+          <Include href="Profile/Crew Tab/Top Bar Buttons/TopBar.xml" itemID="55d56553-00000849" lastModified="1545839312"/>
+          <Include href="Profile/Crew Tab/Top Bar Buttons/topbtn_blocked.xml" itemIcon="0" loadImmediate="false" itemID="55c88867-000003bc" lastModified="1440049598"/>
+          <Include href="Profile/Crew Tab/Top Bar Buttons/topbtn_editranks.xml" loadImmediate="false" itemID="55cbfc65-0000023d" lastModified="1449797717"/>
+          <Include href="Profile/Crew Tab/Top Bar Buttons/topbtn_invite.xml" loadImmediate="false" itemID="55c886b0-00000357" lastModified="1440167954"/>
+          <Include href="Profile/Crew Tab/Top Bar Buttons/topbtn_leave.xml" loadImmediate="false" itemID="55fbee18-000004ff" lastModified="1442628457"/>
+          <Include href="Profile/Crew Tab/Top Bar Buttons/topbtn_members.xml" loadImmediate="false" itemID="55c88756-00000377" lastModified="1440049576"/>
+          <Include href="Profile/Crew Tab/Top Bar Buttons/topbtn_newalert.xml" loadImmediate="false" itemID="55d09056-00000272" lastModified="1440049580"/>
+          <Include href="Profile/Crew Tab/Top Bar Buttons/topbtn_pending.xml" loadImmediate="false" itemID="55c887e4-000003a0" lastModified="1440167939"/>
+          <Include href="Profile/Crew Tab/Top Bar Buttons/topbtn_switchcrew.xml" loadImmediate="false" itemID="55ceeff5-00000772" lastModified="1440049590"/>
+          <Include href="Profile/Crew Tab/Top Bar Buttons/topbtn_worlds.xml" loadImmediate="false" itemID="55c88808-000003ae" lastModified="1440049595"/>
+          <Include href="Profile/Crew/btn_clear.xml" itemIcon="0" loadImmediate="false" itemID="55c2a4e4-000001fc" lastModified="1438819556"/>
+          <Include href="Profile/Crew/btn_create.xml" loadImmediate="false" itemID="55bb8341-000004c9" lastModified="1440593131"/>
+          <Include href="Profile/Crew/btn_edit.xml" itemIcon="0" loadImmediate="false" itemID="55bbaa35-0000051e" lastModified="1438819240"/>
+          <Include href="Profile/Crew/btn_remove.xml" itemIcon="0" loadImmediate="false" itemID="55bb5db0-0000043d" lastModified="1438819568"/>
+          <Include href="Profile/Crew/btn_save.xml" loadImmediate="false" itemID="55b44964-00000514" lastModified="1540319064"/>
+          <Include href="Profile/Crew/btndropdown.xml" loadImmediate="false" itemID="55bc8d8b-00000254" lastModified="1491738154"/>
+          <Include href="Profile/Crew/createbtn.xml" loadImmediate="false" itemID="55bc2047-000001e0" lastModified="1440591280"/>
+          <Include href="Profile/Crew/Crew Selector/btn_select.xml" itemIcon="0" loadImmediate="false" itemID="55cedae3-00000755" lastModified="1439619823"/>
+          <Include href="Profile/Crew/Crew Selector/crewselector.xml" itemID="55ced0b2-000006f8" lastModified="1491737891"/>
+          <Include href="Profile/Crew/Crew Selector/crewSelectorTFContainer.xml" loadImmediate="false" itemID="55ced9ec-00000721" lastModified="1491737213"/>
+          <Include href="Profile/Crew/dropdownbtn.xml" loadImmediate="false" itemID="55bc52f0-0000023c" lastModified="1491738449"/>
+          <Include href="Profile/Crew/editbtn.xml" loadImmediate="false" itemID="55bba9ca-000004ff" lastModified="1438404177"/>
+          <Include href="Profile/Crew/LogoContainer.xml" loadImmediate="false" itemID="55b445e1-000004ec" lastModified="1438352981"/>
+          <Include href="Profile/Crew/membersettings.xml" itemID="55bb5ccd-00000426" lastModified="1528052504"/>
+          <Include href="Profile/Crew/rankcreation.xml" itemID="55bb6ba7-0000048f" lastModified="1505193989"/>
+          <Include href="Profile/Crew/savebtn.xml" loadImmediate="false" itemID="55bb8a0d-000004dd" lastModified="1540319068"/>
+          <Include href="Profile/Crew/ScrollContainer.xml" loadImmediate="false" itemID="55bc5223-00000215" lastModified="1438407886"/>
+          <Include href="Profile/Crew/tfContainer.xml" loadImmediate="false" itemID="55c2a941-00000207" lastModified="1439441651"/>
+          <Include href="Profile/deletebtn.xml" itemIcon="0" loadImmediate="false" itemID="4f881e20-000009c5" lastModified="1336744858"/>
+          <Include href="Profile/denybtn.xml" itemIcon="0" loadImmediate="false" itemID="4f8be354-000004cf" lastModified="1545534663"/>
+          <Include href="Profile/friend.xml" itemID="4f8818b8-000006b2" lastModified="1545518598"/>
+          <Include href="Profile/friend_bg.xml" loadImmediate="false" itemID="4f966dfc-000002f6" lastModified="1335258620"/>
+          <Include href="Profile/friend_divider.xml" loadImmediate="false" itemID="4f8819b4-000006bd" lastModified="1334319591"/>
+          <Include href="Profile/friend_divider_vertical.xml" loadImmediate="false" itemID="4f98e94e-000002fa" lastModified="1336743374"/>
+          <Include href="Profile/friend_wait.xml" loadImmediate="false" itemID="4f97a837-00000315" lastModified="1336744858"/>
+          <Include href="Profile/friendrequestbtn.xml" itemIcon="0" itemID="4f882c7a-00000aaf" lastModified="1439614082"/>
+          <Include href="Profile/mainProfile.xml" loadImmediate="false" itemID="4f86d5b2-00000318" lastModified="1546026810"/>
+          <Include href="Profile/mainProfileBg.xml" loadImmediate="false" itemID="4f87d75c-000003cf" lastModified="1416326695"/>
+          <Include href="Profile/New Tabs/tab_crew.xml" loadImmediate="false" itemID="55cf4e63-00000245" lastModified="1545506660"/>
+          <Include href="Profile/New Tabs/tab_friends.xml" loadImmediate="false" itemID="55cf4d05-00000214" lastModified="1545506658"/>
+          <Include href="Profile/New Tabs/tab_inbox.xml" loadImmediate="false" itemID="55cf4e66-00000251" lastModified="1545506767"/>
+          <Include href="Profile/New Tabs/tab_news.xml" loadImmediate="false" itemID="55cf4e6d-0000025d" lastModified="1545506769"/>
+          <Include href="Profile/New Tabs/tab_worlds.xml" loadImmediate="false" itemID="55cf4e52-00000237" lastModified="1491734963"/>
+          <Include href="Profile/New Tabs/tabbar.xml" itemID="55cf4cfb-00000212" lastModified="1545506919"/>
+          <Include href="Profile/okbtn.xml" itemIcon="0" loadImmediate="false" itemID="4f952a4f-000003ec" lastModified="1336744858"/>
+          <Include href="Profile/playbtn.xml" itemIcon="0" loadImmediate="false" itemID="4f98f57f-00000306" lastModified="1543968879"/>
+          <Include href="Profile/profile_logout.xml" loadImmediate="false" itemID="4f88069a-0000069c" lastModified="1429366611"/>
+          <Include href="Profile/sendbtn.xml" itemIcon="0" loadImmediate="false" itemID="4f881c40-000009a6" lastModified="1338811342"/>
+          <Include href="Profile/showblockedbtn.xml" itemIcon="0" itemID="4f9151c8-0000030b" lastModified="1545590040"/>
+          <Include href="Profile/showfriendsbtn.xml" itemIcon="0" itemID="4f9150d3-000002f9" lastModified="1439614119"/>
+          <Include href="Profile/showpendingbtn.xml" itemIcon="0" itemID="4f9151ad-00000305" lastModified="1439615490"/>
+          <Include href="Profile/tabbg.xml" loadImmediate="false" itemID="4f97e130-0000033b" lastModified="1335353648"/>
+          <Include href="Profile/thanksbtn.xml" loadImmediate="false" itemID="5093b402-0000035e" lastModified="1417889748"/>
+          <Include href="Profile/unblockbtn.xml" itemIcon="0" loadImmediate="false" itemID="4f916d28-000003dc" lastModified="1545534704"/>
+          <Include href="profileViewSwitch.xml" itemID="55d87071-00000328" lastModified="1443246101"/>
+          <Include href="progressbar.xml" loadImmediate="false" itemID="5028a3f7-000002e1" lastModified="1344840695"/>
+          <Include href="prompt_bg.xml" loadImmediate="false" itemID="54525c1c-000002bb" lastModified="1542749705"/>
+          <Include href="RecoverPassword.xml" itemIcon="0" loadImmediate="false" itemID="4ca9b3e0-000002ae" lastModified="1346919987"/>
+          <Include href="RecoverPassword_old.xml" itemIcon="0" loadImmediate="false" itemID="50486c2b-00000469" lastModified="1346923624"/>
+          <Include href="register_add.xml" itemID="4ffaaf44-0000074c" lastModified="1545883680"/>
+          <Include href="register_btn_large.xml" loadImmediate="false" itemID="4ffa9aa3-00000395" lastModified="1438693594"/>
+          <Include href="register_btn_large_guest.xml" itemID="55d2230d-000002ed" lastModified="1545883619"/>
+          <Include href="register_image.xml" loadImmediate="false" itemID="4ffaa74c-000006ab" lastModified="1345643561"/>
+          <Include href="register_to_play_btn_large.xml" itemIcon="0" itemID="50475125-00000531" lastModified="1538268973"/>
+          <Include href="RegisterReloadCaptcha.xml" itemIcon="0" loadImmediate="false" itemID="5793c04d-00000e6d" lastModified="1469301041"/>
+          <Include href="reload.xml" loadImmediate="false" itemID="4fb10f17-000003f2" lastModified="1528051993"/>
+          <Include href="reloadanim.xml" loadImmediate="false" itemID="5518313e-00000377" lastModified="1439747288"/>
+          <Include href="reloadsymbol.xml" loadImmediate="false" itemID="55183110-00000371" lastModified="1544190015"/>
+          <Include href="ResendActivationEmail.xml" loadImmediate="false" itemID="55947daa-000003d3" lastModified="1528051982"/>
+          <Include href="Roomlist/assets/campaignTag.xml" loadImmediate="false" itemID="55d5a9bc-00000b8a" lastModified="1543987582"/>
+          <Include href="Roomlist/assets/compassIcon.xml" loadImmediate="false" itemID="55d0147d-000002fc" lastModified="1439700093"/>
+          <Include href="Roomlist/assets/favstar.xml" loadImmediate="false" itemID="55d002c7-0000024a" lastModified="1439695587"/>
+          <Include href="Roomlist/assets/pathlock.xml" loadImmediate="false" itemID="4d9e0161-00001554" lastModified="1302200680"/>
+          <Include href="Roomlist/betaonly.xml" loadImmediate="false" itemID="4d9e0988-0000158b" lastModified="1544221561"/>
+          <Include href="Roomlist/btn_createworld.xml" itemIcon="0" loadImmediate="false" itemID="55d2322d-00000313" lastModified="1601591859"/>
+          <Include href="Roomlist/buyworld.xml" itemID="50b3724a-00000328" lastModified="1544234159"/>
+          <Include href="Roomlist/CreateLevel.xml" itemID="5f722a78-000004a2" lastModified="1601591532"/>
+          <Include href="Roomlist/CreateRoom.xml" itemID="4be56a1c-00005264" lastModified="1544229091"/>
+          <Include href="Roomlist/createroombtn.xml" itemIcon="0" loadImmediate="false" itemID="4da07bfe-00000374" lastModified="1544212947"/>
+          <Include href="Roomlist/Filter Tab/roomfiltertab.xml" loadImmediate="false" itemID="55d02180-0000030a" lastModified="1492113643"/>
+          <Include href="Roomlist/Filter Tab/tab_favorites.xml" loadImmediate="false" itemID="55d027f7-00000331" lastModified="1492113537"/>
+          <Include href="Roomlist/Filter Tab/tab_history.xml" loadImmediate="false" itemID="58e9840b-000002c9" lastModified="1492113539"/>
+          <Include href="Roomlist/Filter Tab/tab_sortby.xml" loadImmediate="false" itemID="55d02224-0000031d" lastModified="1492113538"/>
+          <Include href="Roomlist/Filter Tab/tabsortselector.xml" loadImmediate="false" itemID="55d029c2-00000367" lastModified="1492114517"/>
+          <Include href="Roomlist/filterworlds.xml" loadImmediate="false" itemID="4be851e3-00000b44" lastModified="1545590179"/>
+          <Include href="Roomlist/loadfromid.xml" loadImmediate="false" itemID="54834841-000003a7" lastModified="1544189980"/>
+          <Include href="Roomlist/loadingrooms.xml" itemID="4fb20963-00000307" lastModified="1545081527"/>
+          <Include href="Roomlist/LoadRoomFromID.xml" itemID="54834949-000003c2" lastModified="1424657774"/>
+          <Include href="Roomlist/New Tabs/tab_build.xml" loadImmediate="false" itemID="5c0839a6-00000441" lastModified="1545158218"/>
+          <Include href="Roomlist/New Tabs/tab_favorites.xml" loadImmediate="false" itemID="5c08357e-0000042d" lastModified="1545158135"/>
+          <Include href="Roomlist/New Tabs/tab_featured.xml" loadImmediate="false" itemID="5c0832e0-00000425" lastModified="1544826006"/>
+          <Include href="Roomlist/New Tabs/tab_play.xml" loadImmediate="false" itemID="5c08398d-00000439" lastModified="1545158229"/>
+          <Include href="Roomlist/New Tabs/tab_recent.xml" loadImmediate="false" itemID="5c08358a-00000431" lastModified="1545158155"/>
+          <Include href="Roomlist/New Tabs/tab_sandbox.xml" loadImmediate="false" itemID="5c083995-0000043d" lastModified="1545158222"/>
+          <Include href="Roomlist/norooms.xml" itemID="4be85870-000019d1" lastModified="1545081570"/>
+          <Include href="Roomlist/openworld.xml" itemID="50bde55f-0000032c" lastModified="1544233298"/>
+          <Include href="Roomlist/registerforworlds.xml" itemID="5517e47d-000003bf" lastModified="1544233287"/>
+          <Include href="Roomlist/reload.xml" itemID="50b37d70-0000038f" lastModified="1545590124"/>
+          <Include href="Roomlist/reloadroombtn.xml" loadImmediate="false" itemID="4fb10f01-000002fc" lastModified="1337070143"/>
+          <Include href="Roomlist/room.xml" itemID="4be55d24-00001b91" lastModified="1545493843"/>
+          <Include href="Roomlist/room_bg.xml" loadImmediate="false" itemID="4fd1b47c-00000317" lastModified="1543969286"/>
+          <Include href="Roomlist/room_divider.xml" loadImmediate="false" itemID="4fb20fe8-0000030b" lastModified="1522529133"/>
+          <Include href="Roomlist/roomfilter.xml" loadImmediate="false" itemID="4d9e06af-00001567" lastModified="1545590238"/>
+          <Include href="Roomlist/roomlist.xml" itemID="4d9dff0a-00001550" lastModified="1545590158"/>
+          <Include href="Roomlist/roomlist_bg.xml" loadImmediate="false" itemID="5c06cc4d-0000044c" lastModified="1543954340"/>
+          <Include href="Roomlist/roomListItemBG.xml" loadImmediate="false" itemID="55d00b54-0000029d" lastModified="1543969075"/>
+          <Include href="Roomlist/roomListItemBGHighlight.xml" loadImmediate="false" itemID="55d01111-000002ca" lastModified="1543969096"/>
+          <Include href="Roomlist/sort_menu.xml" itemID="5c0946af-000007e1" lastModified="1544127322"/>
+          <Include href="Roomlist/sortbtn_main.xml" itemIcon="0" loadImmediate="false" itemID="5c0944b1-000007d2" lastModified="1544111423"/>
+          <Include href="Roomlist/sortbtn_option.xml" itemIcon="0" loadImmediate="false" itemID="5c0944cc-000007d7" lastModified="1544122508"/>
+          <Include href="Roomlist/sortby_featured.xml" loadImmediate="false" itemID="51260245-00000386" lastModified="1361445565"/>
+          <Include href="Roomlist/sortby_myworlds.xml" loadImmediate="false" itemID="50af5a6d-000003b4" lastModified="1354527296"/>
+          <Include href="Roomlist/sortby_name.xml" loadImmediate="false" itemID="50af544e-00000354" lastModified="1353671389"/>
+          <Include href="Roomlist/sortby_online.xml" loadImmediate="false" itemID="50af57e2-000003a4" lastModified="1353671372"/>
+          <Include href="Roomlist/sortby_open.xml" loadImmediate="false" itemID="50bc7240-0000032e" lastModified="1354527324"/>
+          <Include href="Roomlist/sortby_plays.xml" loadImmediate="false" itemID="50af5772-0000038b" lastModified="1353671338"/>
+          <Include href="Roomlist/sortby_shuffle.xml" loadImmediate="false" itemID="50af579f-0000038d" lastModified="1424698520"/>
+          <Include href="Roomlist/sortby_woots.xml" loadImmediate="false" itemID="50af5737-0000037f" lastModified="1439705686"/>
+          <Include href="Roomlist/tabplay.xml" loadImmediate="false" itemID="4dff1ee9-000004ae" lastModified="1345622753"/>
+          <Include href="Roomlist/tabplayedit.xml" loadImmediate="false" itemID="4dff1f1d-000004b1" lastModified="1336744858"/>
+          <Include href="Roomlist/tabsaved.xml" loadImmediate="false" itemID="4dff1f07-000004af" lastModified="1336744858"/>
+          <Include href="SaveButton.xml" loadImmediate="false" itemID="54525c1c-000002ba" lastModified="1540319100"/>
+          <Include href="SendButton.xml" itemIcon="0" loadImmediate="false" itemID="504da374-0000048d" lastModified="1442657958"/>
+          <Include href="Settings/blocksitem.xml" loadImmediate="false" itemID="566a681f-00000c9d" lastModified="1601847251"/>
+          <Include href="Settings/btn_crewcustomize.xml" itemIcon="0" loadImmediate="false" itemID="55b44eb4-00000536" lastModified="1437880104"/>
+          <Include href="Settings/btn_customize.xml" itemIcon="0" loadImmediate="false" itemID="559b8f08-000006ce" lastModified="1540314630"/>
+          <Include href="Settings/btn_keybindings.xml" itemIcon="0" loadImmediate="false" itemID="5bcf5794-00000385" lastModified="1540393872"/>
+          <Include href="Settings/btn_loadhotbar.xml" itemIcon="0" loadImmediate="false" itemID="5f7a5cd9-000003f9" lastModified="1601854707"/>
+          <Include href="Settings/btn_savehotbar.xml" itemIcon="0" loadImmediate="false" itemID="5f7a5315-000003df" lastModified="1601852213"/>
+          <Include href="Settings/chatitem.xml" loadImmediate="false" itemID="559b8e28-000006b5" lastModified="1540261657"/>
+          <Include href="Settings/gameitem.xml" loadImmediate="false" itemID="559b8e2d-000006b6" lastModified="1601833403"/>
+          <Include href="Settings/gameitem2.xml" loadImmediate="false" itemID="566a59e0-0000084e" lastModified="1601847191"/>
+          <Include href="Settings/Key Bindings/Cancel Button New.xml" itemIcon="0" loadImmediate="false" itemID="5bd0b8a8-000004ef" lastModified="1540405416"/>
+          <Include href="Settings/Key Bindings/Key Binding Item.xml" itemID="5bd91fed-00000389" lastModified="1542299712"/>
+          <Include href="Settings/Key Bindings/Key Binding Item Button.xml" itemIcon="0" itemID="5bd9b9eb-0000038b" lastModified="1541824211"/>
+          <Include href="Settings/Key Bindings/Key Binding Reset.xml" itemIcon="0" loadImmediate="false" itemID="5bd9b69f-00000387" lastModified="1540994894"/>
+          <Include href="Settings/Key Bindings/Key Bindings BG.xml" loadImmediate="false" itemID="5bd0b94e-0000052b" lastModified="1542299709"/>
+          <Include href="Settings/Key Bindings/Key Bindings Menu.xml" itemID="5bd0b88c-000004eb" lastModified="1543091179"/>
+          <Include href="Settings/Key Bindings/Key Bindings Reset All.xml" itemIcon="0" loadImmediate="false" itemID="5bd9bf05-000003c5" lastModified="1542299715"/>
+          <Include href="Settings/Key Bindings/Save Button New.xml" itemIcon="0" loadImmediate="false" itemID="5bd0b8a2-000004ee" lastModified="1540405410"/>
+          <Include href="Settings/profileitem.xml" loadImmediate="false" itemID="559b8e30-000006b7" lastModified="1601833316"/>
+          <Include href="Settings/settingsbg.xml" loadImmediate="false" itemID="55d80b35-000002bd" lastModified="1601833805"/>
+          <Include href="Settings/settingsbg2.xml" loadImmediate="false" itemID="566a97c0-00000ef5" lastModified="1601833822"/>
+          <Include href="Settings/settingsitem.xml" itemID="559b78bd-000001c9" lastModified="1601856016"/>
+          <Include href="Settings/smileyitem.xml" loadImmediate="false" itemID="559ba8c2-00000704" lastModified="1542299716"/>
+          <Include href="Settings/transparencyBox.xml" loadImmediate="false" itemID="559cafe8-000001ec" lastModified="1436333858"/>
+          <Include href="SetUsernameSmileys.xml" loadImmediate="false" itemID="55ce241f-0000041c" lastModified="1439573023"/>
+          <Include href="share_bg.xml" loadImmediate="false" itemID="54525c1c-000002c7" lastModified="1414687959"/>
+          <Include href="sharebtn.xml" itemIcon="0" loadImmediate="false" itemID="4eea1c58-0000054c" lastModified="1336743156"/>
+          <Include href="shop_divider.xml" itemIcon="0" loadImmediate="false" itemID="5034891a-000003ae" lastModified="1544910130"/>
+          <Include href="Shop/buywithcoinsnow.xml" itemIcon="0" loadImmediate="false" itemID="4ce1910c-00001273" lastModified="1336745100"/>
+          <Include href="Shop/energy/energybutton_bg.xml" loadImmediate="false" itemID="5028a3f9-00000340" lastModified="1346835162"/>
+          <Include href="Shop/newshop/new/divider.xml" loadImmediate="false" itemID="558d4c8a-000001f7" lastModified="1528051673"/>
+          <Include href="Shop/newshop/new/energybar/energybar.xml" itemID="558d4562-000001de" lastModified="1528051621"/>
+          <Include href="Shop/newshop/new/energybar/energybarbg.xml" loadImmediate="false" itemID="558b9906-0000038c" lastModified="1528051619"/>
+          <Include href="Shop/newshop/new/energybar/energybarmask.xml" loadImmediate="false" itemID="558b98c8-00000384" lastModified="1528051618"/>
+          <Include href="Shop/newshop/new/energybar/energybaroutline.xml" loadImmediate="false" itemID="558b9916-00000391" lastModified="1528051617"/>
+          <Include href="Shop/newshop/new/energybtn.xml" itemID="558b9d25-000003e6" lastModified="1528051616"/>
+          <Include href="Shop/newshop/new/energyicon.xml" itemID="558d45db-000001e1" lastModified="1528051612"/>
+          <Include href="Shop/newshop/new/gemsbutton.xml" itemID="558d44d3-000001da" lastModified="1528051611"/>
+          <Include href="Shop/newshop/new/getnow.xml" itemID="558b94c1-00000323" lastModified="1528051610"/>
+          <Include href="Shop/newshop/new/newshopitem.xml" itemID="558b8e2c-000002f8" lastModified="1528051608"/>
+          <Include href="Shop/newshop/old/button_loader.xml" itemID="504712bd-0000030c" lastModified="1545334653"/>
+          <Include href="Shop/newshop/old/buybutton.xml" loadImmediate="false" itemID="501fb415-000003f6" lastModified="1440602266"/>
+          <Include href="Shop/newshop/old/energybutton.xml" loadImmediate="false" itemID="501fada5-000003d7" lastModified="1435320388"/>
+          <Include href="Shop/newshop/old/item.xml" itemID="501f6e30-00000355" lastModified="1435209130"/>
+          <Include href="Shop/newshop/old/item_bg.xml" itemID="501f7baa-00000367" lastModified="1435210161"/>
+          <Include href="Shop/newshop/old/item_bgbox.xml" loadImmediate="false" itemID="501f7b99-00000365" lastModified="1344240537"/>
+          <Include href="Shop/newshop/old/item_border.xml" loadImmediate="false" itemID="501f6e3b-0000035a" lastModified="1344237115"/>
+          <Include href="Shop/newshop/old/item_count.xml" itemID="5021148f-00000398" lastModified="1422991803"/>
+          <Include href="Shop/newshop/old/item_count_bg.xml" loadImmediate="false" itemID="5021140a-00000393" lastModified="1344346099"/>
+          <Include href="Shop/newshop/old/item_energy.xml" itemID="5024b54e-000003d3" lastModified="1345107240"/>
+          <Include href="Shop/newshop/old/item_energy_bg.xml" loadImmediate="false" itemID="5024b5eb-000003ea" lastModified="1344583180"/>
+          <Include href="Shop/newshop/old/item_iteminfo.xml" itemID="507bd10e-00000412" lastModified="1435662344"/>
+          <Include href="Shop/newshop/old/item_label.xml" itemID="502100ec-00000384" lastModified="1435664212"/>
+          <Include href="Shop/newshop/old/item_max.xml" itemID="5073c8ee-000002fb" lastModified="1350293088"/>
+          <Include href="Shop/newshop/old/item_owned.xml" itemID="502379bd-00000383" lastModified="1349765358"/>
+          <Include href="Shop/newshop/old/itemtext.xml" itemID="5020e21e-0000035e" lastModified="1435660911"/>
+          <Include href="Shop/newshop/old/itemtitle.xml" itemID="5020f9f7-00000367" lastModified="1345643422"/>
+          <Include href="Shop/newshop/old/shopmore.xml" itemIcon="0" itemID="503385e6-00000509" lastModified="1345643429"/>
+          <Include href="Shop/nothanks.xml" itemIcon="0" loadImmediate="false" itemID="4c11310c-00002caa" lastModified="1528051606"/>
+          <Include href="Shop/openshop.xml" itemIcon="0" loadImmediate="false" itemID="4e95980f-00000958" lastModified="1544229102"/>
+          <Include href="Shop/shop_newitem.xml" loadImmediate="false" itemID="4fcdc1f9-00000300" lastModified="1528051544"/>
+          <Include href="Shop/ShopBar.xml" itemID="4cfd4a98-00005b45" lastModified="1545077227"/>
+          <Include href="Shop/shopContent.xml" loadImmediate="false" itemID="4cff4eb2-000002d1" lastModified="1528051476"/>
+          <Include href="Shop/shopContentInner.xml" itemID="4cff64e2-000003e4" lastModified="1544728713"/>
+          <Include href="Shop/Smileys/Guy.xml" itemIcon="1" loadImmediate="false" itemID="4fb0a813-0000030f" lastModified="1528051471"/>
+          <Include href="Shop/Smileys/top.xml" loadImmediate="false" itemID="4cfd3e14-00003cf9" lastModified="1543949473"/>
+          <Include href="Shop/Symbol 1.xml" itemIcon="0" loadImmediate="false" itemID="4e9584e8-000008d0" lastModified="1345643173"/>
+          <Include href="Shop/tab.xml" itemID="4f97e134-0000033c" lastModified="1545590302"/>
+          <Include href="Shop/tabOld.xml" loadImmediate="false" itemID="5c1fd627-000003c9" lastModified="1545590311"/>
+          <Include href="Shop/Topbar/gem.xml" loadImmediate="false" itemID="5024d363-000005b1" lastModified="1414432570"/>
+          <Include href="Shop/Topbar/lightning.xml" loadImmediate="false" itemID="5024d363-000005b2" lastModified="1298228792"/>
+          <Include href="Shop/Topbar/lightninginner.xml" loadImmediate="false" itemID="5024d363-000005b3" lastModified="1336740918"/>
+          <Include href="Shop/Verifynow.xml" itemIcon="0" loadImmediate="false" itemID="4d078d49-000014da" lastModified="1336743691"/>
+          <Include href="Shop/Verifynow copy.xml" itemIcon="0" loadImmediate="false" itemID="4ea6cfc2-0000056a" lastModified="1336741437"/>
+          <Include href="shopbar_crewname.xml" loadImmediate="false" itemID="55d480c3-00000273" lastModified="1528051409"/>
+          <Include href="shopbar_defbg.xml" loadImmediate="false" itemID="55660716-000002be" lastModified="1528051405"/>
+          <Include href="shopbar_energy.xml" itemID="50348997-000003bc" lastModified="1528051400"/>
+          <Include href="shopbar_gem.xml" itemID="503489ba-000003c3" lastModified="1543877632"/>
+          <Include href="shopbar_username.xml" loadImmediate="false" itemID="55d1d946-0000025e" lastModified="1528051368"/>
+          <Include href="shopbar_username_highlight.xml" loadImmediate="false" itemID="55d1db09-0000026c" lastModified="1528051367"/>
+          <Include href="SmallSaveButton.xml" itemIcon="0" loadImmediate="false" itemID="54ea3175-000004b9" lastModified="1446042754"/>
+          <Include href="smiley_sunglasses.xml" loadImmediate="false" itemID="5679eb63-0000059c" lastModified="1528051365"/>
+          <Include href="Social/socialpage.xml" itemID="5c191b12-000003b1" lastModified="1546026886"/>
+          <Include href="srbtn.xml" itemIcon="0" loadImmediate="false" itemID="544d00f5-00000851" lastModified="1528051342"/>
+          <Include href="star.xml" loadImmediate="false" itemID="4c6eb04b-00000749" lastModified="1528051338"/>
+          <Include href="staranimation.xml" loadImmediate="false" itemID="4fd06e2d-00000188" lastModified="1528051336"/>
+          <Include href="Symbol 1.xml" loadImmediate="false" itemID="5679eab6-0000058e" lastModified="1528051329"/>
+          <Include href="Symbol 7.xml" loadImmediate="false" itemID="55326592-00000349" lastModified="1528051326"/>
+          <Include href="Symbol 607.xml" loadImmediate="false" itemID="550d8172-00000098" lastModified="1528051325"/>
+          <Include href="Symbol 816.xml" itemIcon="1" loadImmediate="false" itemID="550dab08-000003f9" lastModified="1528051324"/>
+          <Include href="Symbool 1.xml" loadImmediate="false" itemID="55677f11-0000059b" lastModified="1528051321"/>
+          <Include href="team_icon.xml" itemID="5526b9ad-0000039b" lastModified="1429706792"/>
+          <Include href="TermsText.xml" loadImmediate="false" itemID="5107c60e-0000050d" lastModified="1528051319"/>
+          <Include href="TermsWindow.xml" itemID="510680b5-000003d5" lastModified="1528051286"/>
+          <Include href="topbar_bg.xml" loadImmediate="false" itemID="50868ddf-0000038b" lastModified="1528051278"/>
+          <Include href="Topbar/gem.xml" loadImmediate="false" itemID="4cfd458b-0000537c" lastModified="1416500013"/>
+          <Include href="Topbar/lightning.xml" itemID="4cfd404e-00004265" lastModified="1439843162"/>
+          <Include href="Topbar/lightninginner.xml" loadImmediate="false" itemID="4d616603-00008ae9" lastModified="1336740918"/>
+          <Include href="Topbar/togglenewsbtn.xml" itemIcon="0" loadImmediate="false" itemID="4f8ec6ca-00000507" lastModified="1429365613"/>
+          <Include href="Topbar/toggleshopbtwn.xml" loadImmediate="false" itemID="4cffd4ef-0000041d" lastModified="1543869175"/>
+          <Include href="Tween 2.xml" itemIcon="1" loadImmediate="false" itemID="55c2cbda-0000068f" lastModified="1528051248"/>
+          <Include href="Tween 3.xml" itemIcon="1" loadImmediate="false" itemID="55c2cd6d-000006a5" lastModified="1528051211"/>
+          <Include href="underline.xml" loadImmediate="false" itemID="50af61aa-000003c8" lastModified="1528051205"/>
+          <Include href="underlineText.xml" loadImmediate="false" itemID="551ec48f-00000460" lastModified="1528051188"/>
+          <Include href="universe_info.xml" itemID="5c158271-00000c0e" lastModified="1546217980"/>
+          <Include href="upgrade_bg.xml" loadImmediate="false" itemID="54525c1c-000002c9" lastModified="1414683676"/>
+          <Include href="UsernameWindow.xml" itemID="50503ac9-0000038b" lastModified="1528051176"/>
+          <Include href="visibleSelectorTFContainer.xml" loadImmediate="false" itemID="58ea19ba-0000037d" lastModified="1491737018"/>
+          <Include href="Win Screen/btn_dismiss.xml" itemIcon="0" itemID="55a89d8c-000001d3" lastModified="1546663017"/>
+          <Include href="Win Screen/btn_favorite.xml" itemID="55c63ab4-00000f83" lastModified="1450468900"/>
+          <Include href="Win Screen/btn_like.xml" itemID="55c63aa6-00000f82" lastModified="1439450497"/>
+          <Include href="Win Screen/btn_subscribe_small.xml" itemID="56742874-00000dec" lastModified="1450454208"/>
+          <Include href="WorldStatusSmall.xml" itemID="5648b98b-000002c2" lastModified="1491739521"/>
+          <Include href="WorldVisibility.xml" itemID="58ea1e65-000003dc" lastModified="1491740296"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;0&lt;/guideline&gt;&lt;guideline direction="h"&gt;0&lt;/guideline&gt;&lt;guideline direction="v"&gt;850&lt;/guideline&gt;&lt;guideline direction="h"&gt;500&lt;/guideline&gt;&lt;/guidelines&gt;'>
+               <layers>
+                    <DOMLayer name="Layer 5" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Shop/ShopBar" centerPoint3DX="320" centerPoint3DY="265.9">
+                                             <transformationPoint>
+                                                  <Point x="320" y="267.9"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Roomlist/roomlist">
+                                             <matrix>
+                                                  <Matrix tx="13" ty="95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="210" y="162.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="universe_info">
+                                             <matrix>
+                                                  <Matrix tx="452" ty="282"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="192.5" y="103"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Lobby Friends/lobbyfriends">
+                                             <matrix>
+                                                  <Matrix tx="452" ty="95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="192.5" y="86.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="lobby_guestpromo" centerPoint3DX="1054.5" centerPoint3DY="181.5">
+                                             <matrix>
+                                                  <Matrix tx="862" ty="95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="192.5" y="86.5"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <swatchLists>
+          <swatchList>
+               <swatchListInfo name="Default Swatches"/>
+
+               <swatches>
+                    <swatchListInfo name="Default Swatches"/>
+
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#003300" hue="80" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#006600" hue="80" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009900" hue="80" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC00" hue="80" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF00" hue="80" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330000" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#333300" hue="40" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#336600" hue="60" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#339900" hue="67" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#33CC00" hue="70" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#33FF00" hue="72" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#660000" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663300" hue="20" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#666600" hue="40" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#669900" hue="53" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#66CC00" hue="60" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#66FF00" hue="64" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#333333" brightness="48"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000033" hue="160" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#003333" hue="120" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#006633" hue="100" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009933" hue="93" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC33" hue="90" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF33" hue="88" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330033" hue="200" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#333333" brightness="48"/>
+                    <SolidSwatchItem color="#336633" hue="80" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#339933" hue="80" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC33" hue="80" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF33" hue="80" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660033" hue="220" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663333" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#666633" hue="40" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#669933" hue="60" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#66CC33" hue="67" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#66FF33" hue="70" saturation="239" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#666666" brightness="96"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000066" hue="160" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#003366" hue="140" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#006666" hue="120" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009966" hue="107" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC66" hue="100" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF66" hue="96" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330066" hue="180" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#333366" hue="160" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#336666" hue="120" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#339966" hue="100" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC66" hue="93" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF66" hue="90" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660066" hue="200" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663366" hue="200" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#666666" brightness="96"/>
+                    <SolidSwatchItem color="#669966" hue="80" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#66CC66" hue="80" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FF66" hue="80" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#999999" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000099" hue="160" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#003399" hue="147" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#006699" hue="133" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#009999" hue="120" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC99" hue="110" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF99" hue="104" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330099" hue="173" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#333399" hue="160" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#336699" hue="140" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#339999" hue="120" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC99" hue="107" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF99" hue="100" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660099" hue="187" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#663399" hue="180" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#666699" hue="160" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#669999" hue="120" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#66CC99" hue="100" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FF99" hue="93" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#CCCCCC" brightness="192"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000CC" hue="160" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0033CC" hue="150" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0066CC" hue="140" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0099CC" hue="130" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00CCCC" hue="120" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FFCC" hue="112" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3300CC" hue="170" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#3333CC" hue="160" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#3366CC" hue="147" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#3399CC" hue="133" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33CCCC" hue="120" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FFCC" hue="110" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6600CC" hue="180" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#6633CC" hue="173" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#6666CC" hue="160" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#6699CC" hue="140" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66CCCC" hue="120" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FFCC" hue="107" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FFFFFF" brightness="240"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000FF" hue="160" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0033FF" hue="152" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0066FF" hue="144" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0099FF" hue="136" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#00CCFF" hue="128" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#00FFFF" hue="120" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3300FF" hue="168" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3333FF" hue="160" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#3366FF" hue="150" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#3399FF" hue="140" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#33CCFF" hue="130" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#33FFFF" hue="120" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6600FF" hue="176" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#6633FF" hue="170" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6666FF" hue="160" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#6699FF" hue="147" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#66CCFF" hue="133" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#66FFFF" hue="120" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FF0000" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990000" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993300" hue="13" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#996600" hue="27" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#999900" hue="40" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#99CC00" hue="50" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#99FF00" hue="56" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#CC0000" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3300" hue="10" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC6600" hue="20" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC9900" hue="30" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CCCC00" hue="40" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CCFF00" hue="48" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF0000" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3300" hue="8" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF6600" hue="16" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF9900" hue="24" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FFCC00" hue="32" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FFFF00" hue="40" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#00FF00" hue="80" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990033" hue="227" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993333" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996633" hue="20" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#999933" hue="40" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#99CC33" hue="53" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#99FF33" hue="60" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#CC0033" hue="230" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3333" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6633" hue="13" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC9933" hue="27" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CCCC33" hue="40" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CCFF33" hue="50" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF0033" hue="232" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3333" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6633" hue="10" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF9933" hue="20" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FFCC33" hue="30" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FFFF33" hue="40" saturation="239" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000FF" hue="160" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990066" hue="213" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993366" hue="220" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996666" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#999966" hue="40" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#99CC66" hue="60" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#99FF66" hue="67" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#CC0066" hue="220" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3366" hue="227" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6666" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC9966" hue="20" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CCCC66" hue="40" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CCFF66" hue="53" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF0066" hue="224" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3366" hue="230" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6666" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF9966" hue="13" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FFCC66" hue="27" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FFFF66" hue="40" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FFFF00" hue="40" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990099" hue="200" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993399" hue="200" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996699" hue="200" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#999999" brightness="144"/>
+                    <SolidSwatchItem color="#99CC99" hue="80" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99FF99" hue="80" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC0099" hue="210" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3399" hue="213" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6699" hue="220" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC9999" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCCC99" hue="40" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCFF99" hue="60" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FF0099" hue="216" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3399" hue="220" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6699" hue="227" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF9999" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCC99" hue="20" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFFF99" hue="40" saturation="239" brightness="192"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#00FFFF" hue="120" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#9900CC" hue="190" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#9933CC" hue="187" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#9966CC" hue="180" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#9999CC" hue="160" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99CCCC" hue="120" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99FFCC" hue="100" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC00CC" hue="200" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC33CC" hue="200" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC66CC" hue="200" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC99CC" hue="200" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCCCCC" brightness="192"/>
+                    <SolidSwatchItem color="#CCFFCC" hue="80" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FF00CC" hue="208" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF33CC" hue="210" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF66CC" hue="213" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF99CC" hue="220" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCCCC" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FFFFCC" hue="40" saturation="239" brightness="216"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FF00FF" hue="200" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#9900FF" hue="184" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#9933FF" hue="180" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#9966FF" hue="173" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#9999FF" hue="160" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#99CCFF" hue="140" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#99FFFF" hue="120" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC00FF" hue="192" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#CC33FF" hue="190" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#CC66FF" hue="187" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#CC99FF" hue="180" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CCCCFF" hue="160" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#CCFFFF" hue="120" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FF00FF" hue="200" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF33FF" hue="200" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF66FF" hue="200" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF99FF" hue="200" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCCFF" hue="200" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FFFFFF" brightness="240"/>
+                    <SolidSwatchItem color="#666666" alpha="0.498039215686275" brightness="96"/>
+                    <SolidSwatchItem color="#FFC7BA" hue="7" saturation="239" brightness="208"/>
+                    <SolidSwatchItem color="#EE3C32" hue="2" saturation="203" brightness="136"/>
+                    <SolidSwatchItem color="#FFD6D0" hue="5" saturation="239" brightness="218"/>
+                    <SolidSwatchItem color="#FFC7BC" hue="6" saturation="239" brightness="209"/>
+                    <SolidSwatchItem color="#FF8C74" hue="7" saturation="239" brightness="175"/>
+                    <SolidSwatchItem color="#841B1F" hue="238" saturation="159" brightness="75"/>
+                    <SolidSwatchItem color="#811110" saturation="187" brightness="68"/>
+                    <SolidSwatchItem color="#670000" saturation="239" brightness="49"/>
+                    <SolidSwatchItem color="#E46457" hue="4" saturation="174" brightness="149"/>
+                    <SolidSwatchItem color="#B2101D" hue="237" saturation="201" brightness="92"/>
+                    <SolidSwatchItem color="#B70F20" hue="236" saturation="204" brightness="93"/>
+                    <SolidSwatchItem color="#AD0007" hue="238" saturation="239" brightness="82"/>
+                    <SolidSwatchItem color="#86160A" hue="4" saturation="208" brightness="68"/>
+                    <SolidSwatchItem color="#EC4846" hue="1" saturation="195" brightness="144"/>
+                    <SolidSwatchItem color="#4F0300" hue="2" saturation="239" brightness="37"/>
+                    <SolidSwatchItem color="#747474" brightness="109"/>
+                    <SolidSwatchItem color="#999999" brightness="144"/>
+                    <SolidSwatchItem color="#FFFFFF" brightness="240"/>
+                    <SolidSwatchItem color="#282828" brightness="38"/>
+                    <SolidSwatchItem color="#202020" brightness="30"/>
+                    <SolidSwatchItem color="#7795BB" hue="143" saturation="80" brightness="144"/>
+               </swatches>
+          </swatchList>
+     </swatchLists>
+     <extendedSwatchLists>
+          <swatchList>
+               <swatchListInfo name="Default Swatches"/>
+
+               <swatches>
+                    <swatchListInfo name="Default Swatches"/>
+
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#FFFFFF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#FFFFFF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#FF0000" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#00FF00" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#0000FF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#0066FD" ratio="0"/>
+                         <GradientEntry color="#FFFFFF" ratio="0.376470588235294"/>
+                         <GradientEntry color="#FFFFFF" ratio="0.47843137254902"/>
+                         <GradientEntry color="#996600" ratio="0.501960784313725"/>
+                         <GradientEntry color="#FFCC00" ratio="0.666666666666667"/>
+                         <GradientEntry color="#FFFFFF" ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#FF0000" ratio="0"/>
+                         <GradientEntry color="#FFFF00" ratio="0.164705882352941"/>
+                         <GradientEntry color="#00FF00" ratio="0.364705882352941"/>
+                         <GradientEntry color="#00FFFF" ratio="0.498039215686275"/>
+                         <GradientEntry color="#0000FF" ratio="0.666666666666667"/>
+                         <GradientEntry color="#FF00FF" ratio="0.831372549019608"/>
+                         <GradientEntry color="#FF0000" ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#FF6600" ratio="0"/>
+                         <GradientEntry color="#FFFF00" ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#136900" ratio="0"/>
+                         <GradientEntry color="#69DE5F" ratio="0.635294117647059"/>
+                         <GradientEntry color="#CEE9C9" ratio="0.780392156862745"/>
+                         <GradientEntry color="#35852A" ratio="0.874509803921569"/>
+                    </RadialGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#434343" ratio="0"/>
+                         <GradientEntry color="#808080" ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#666666" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#9C0100" ratio="0.235294117647059"/>
+                         <GradientEntry color="#FE7A78" ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#9A0000" ratio="0"/>
+                         <GradientEntry color="#EA0E00" ratio="0.607843137254902"/>
+                         <GradientEntry color="#FF7B7C" ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#07548A" ratio="0"/>
+                         <GradientEntry color="#5AAFEF" ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#33D52A" ratio="0"/>
+                         <GradientEntry color="#349127" ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#F0D83D" ratio="0"/>
+                         <GradientEntry color="#FFF7C1" ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#62C03F" ratio="0"/>
+                         <GradientEntry color="#B3FE01" ratio="1"/>
+                    </LinearGradientSwatchItem>
+               </swatches>
+          </swatchList>
+     </extendedSwatchLists>
+     <persistentData>
+          <PD n="com.air.sdk.path"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="284264" publishTime="1601854784"/>
+          <PublishItem publishSize="284238" publishTime="1601854738"/>
+          <PublishItem publishSize="284201" publishTime="1601852399"/>
+          <PublishItem publishSize="284172" publishTime="1601846764"/>
+          <PublishItem publishSize="284370" publishTime="1601832037"/>
+          <PublishItem publishSize="284366" publishTime="1601831874"/>
+          <PublishItem publishSize="284404" publishTime="1601831169"/>
+          <PublishItem publishSize="286587" publishTime="1601591688"/>
+          <PublishItem publishSize="286525" publishTime="1601591558"/>
+          <PublishItem publishSize="289481" publishTime="1601318834"/>
+          <PublishItem publishSize="289542" publishTime="1601318712"/>
+          <PublishItem publishSize="253841" publishTime="1601318609"/>
+          <PublishItem publishSize="285856" publishTime="1601213994"/>
+          <PublishItem publishSize="285916" publishTime="1601213976"/>
+          <PublishItem publishSize="266847" publishTime="1546662941"/>
+          <PublishItem publishSize="266907" publishTime="1546660237"/>
+          <PublishItem publishSize="266282" publishTime="1546222838"/>
+          <PublishItem publishSize="266241" publishTime="1546222760"/>
+          <PublishItem publishSize="266201" publishTime="1546222387"/>
+          <PublishItem publishSize="266803" publishTime="1546218345"/>
+     </publishHistory>
+     <swcCache>
+          <Swc hashKey="lBSX9Y5jU7802yucctAf9/" href="c4m6646lkf.swc">
+               <classDefinitions>
+                    <ClassDefinition value="fl.core.AccessibilityShim"/>
+                    <ClassDefinition value="fl.controls.CheckBox"/>
+                    <ClassDefinition value="fl.controls.LabelButton"/>
+                    <ClassDefinition value="fl.controls.List"/>
+                    <ClassDefinition value="fl.controls.ComboBox"/>
+                    <ClassDefinition value="fl.controls.ProgressBarDirection"/>
+                    <ClassDefinition value="fl.data.SimpleCollectionItem"/>
+                    <ClassDefinition value="fl.controls.TextArea"/>
+                    <ClassDefinition value="fl.display.ProLoaderInfo"/>
+                    <ClassDefinition value="fl.controls.Slider"/>
+                    <ClassDefinition value="fl.events.DataChangeEvent"/>
+                    <ClassDefinition value="fl.accessibility.ComboBoxAccImpl"/>
+                    <ClassDefinition value="fl.events.DataChangeType"/>
+                    <ClassDefinition value="fl.accessibility.TileListAccImpl"/>
+                    <ClassDefinition value="fl.accessibility.ButtonAccImpl"/>
+                    <ClassDefinition value="fl.controls.BaseButton"/>
+                    <ClassDefinition value="fl.core.UIComponent"/>
+                    <ClassDefinition value="fl.controls.DataGrid"/>
+                    <ClassDefinition value="fl.display.ProLoader"/>
+                    <ClassDefinition value="fl.containers.BaseScrollPane"/>
+                    <ClassDefinition value="fl.livepreview.LivePreviewParent"/>
+                    <ClassDefinition value="fl.controls.Label"/>
+                    <ClassDefinition value="fl.managers.IFocusManagerComponent"/>
+                    <ClassDefinition value="fl.controls.UIScrollBar"/>
+                    <ClassDefinition value="fl.controls.listClasses.ICellRenderer"/>
+                    <ClassDefinition value="fl.controls.dataGridClasses.DataGridCellEditor"/>
+                    <ClassDefinition value="fl.controls.ColorPicker"/>
+                    <ClassDefinition value="fl.managers.FocusManager"/>
+                    <ClassDefinition value="fl.events.ProLoaderRSLPreloaderSandboxEvent"/>
+                    <ClassDefinition value="fl.events.DataGridEventReason"/>
+                    <ClassDefinition value="fl.events.SliderEvent"/>
+                    <ClassDefinition value="fl.events.SliderEventClickTarget"/>
+                    <ClassDefinition value="fl.controls.progressBarClasses.IndeterminateBar"/>
+                    <ClassDefinition value="fl.controls.listClasses.ListData"/>
+                    <ClassDefinition value="fl.core.InvalidationType"/>
+                    <ClassDefinition value="fl.controls.RadioButtonGroup"/>
+                    <ClassDefinition value="fl.controls.NumericStepper"/>
+                    <ClassDefinition value="fl.accessibility.LabelButtonAccImpl"/>
+                    <ClassDefinition value="fl.containers.UILoader"/>
+                    <ClassDefinition value="fl.events.ColorPickerEvent"/>
+                    <ClassDefinition value="fl.controls.ButtonLabelPlacement"/>
+                    <ClassDefinition value="fl.accessibility.CheckBoxAccImpl"/>
+                    <ClassDefinition value="fl.managers.StyleManager"/>
+                    <ClassDefinition value="fl.controls.TileList"/>
+                    <ClassDefinition value="fl.controls.RadioButton"/>
+                    <ClassDefinition value="fl.containers.ScrollPane"/>
+                    <ClassDefinition value="fl.controls.listClasses.TileListData"/>
+                    <ClassDefinition value="fl.events.InteractionInputType"/>
+                    <ClassDefinition value="fl.controls.Button"/>
+                    <ClassDefinition value="fl.core.ComponentShim"/>
+                    <ClassDefinition value="fl.accessibility.UIComponentAccImpl"/>
+                    <ClassDefinition value="fl.controls.SelectableList"/>
+                    <ClassDefinition value="fl.events.ComponentEvent"/>
+                    <ClassDefinition value="fl.accessibility.RadioButtonAccImpl"/>
+                    <ClassDefinition value="fl.controls.listClasses.CellRenderer"/>
+                    <ClassDefinition value="fl.managers.IFocusManagerGroup"/>
+                    <ClassDefinition value="fl.controls.ScrollPolicy"/>
+                    <ClassDefinition value="fl.controls.ScrollBar"/>
+                    <ClassDefinition value="fl.controls.ProgressBar"/>
+                    <ClassDefinition value="fl.controls.listClasses.ImageCell"/>
+                    <ClassDefinition value="fl.managers.IFocusManager"/>
+                    <ClassDefinition value="fl.controls.ProgressBarMode"/>
+                    <ClassDefinition value="fl.accessibility.SelectableListAccImpl"/>
+                    <ClassDefinition value="fl.controls.TextInput"/>
+                    <ClassDefinition value="fl.events.ListEvent"/>
+                    <ClassDefinition value="fl.accessibility.AccImpl"/>
+                    <ClassDefinition value="fl.accessibility.DataGridAccImpl"/>
+                    <ClassDefinition value="fl.events.ScrollEvent"/>
+                    <ClassDefinition value="fl.controls.dataGridClasses.DataGridColumn"/>
+                    <ClassDefinition value="fl.events.DataGridEvent"/>
+                    <ClassDefinition value="fl.data.TileListCollectionItem"/>
+                    <ClassDefinition value="fl.data.DataProvider"/>
+                    <ClassDefinition value="fl.accessibility.ListAccImpl"/>
+                    <ClassDefinition value="fl.controls.dataGridClasses.HeaderRenderer"/>
+                    <ClassDefinition value="fl.controls.ScrollBarDirection"/>
+                    <ClassDefinition value="fl.controls.SliderDirection"/>
+               </classDefinitions>
+          </Swc>
+     </swcCache>
+</DOMDocument>

@@ -1,0 +1,136 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="news/asset_bignews" itemID="4da1ef58-000011d3" linkageExportForAS="true" linkageClassName="asset_bignews" lastModified="1427642267" lastUniqueIdentifier="13">
+  <timeline>
+    <DOMTimeline name="asset_bignews">
+      <layers>
+        <DOMLayer name="Layer 6" color="#808080" current="true" isSelected="true" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_header" fontRenderingMode="bitmap" left="0.7" width="312.25" height="23.75" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="4" ty="39"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>News is loading...</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="23.75" size="19" bitmapSize="380" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="tf_date" fontRenderingMode="bitmap" width="237.25" height="10" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="4.7" ty="62"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>...</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="tf_body" fontRenderingMode="bitmap" width="301.3" height="34" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="4.7" ty="77"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>...</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="10" size="8" bitmapSize="160" face="system*" fillColor="#FFFFFF" target="_blank"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="news/read blog" name="btnreadblog" symbolType="button">
+                  <matrix>
+                    <Matrix a="1.03302001953125" d="1.033203125" tx="100.4" ty="441.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/CloseBtn" name="btn_close" symbolType="button">
+                  <matrix>
+                    <Matrix a="1.5" d="1.49626159667969" tx="305" ty="14.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="news_imageloader" name="imageloader" centerPoint3DX="158.95" centerPoint3DY="182.95">
+                  <matrix>
+                    <Matrix tx="81.95" ty="149"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="77" y="33.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText fontRenderingMode="bitmap" width="276" height="11.25" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="19" ty="420.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Want to see the full changelog? See the blog!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" lineHeight="11.25" size="9" bitmapSize="180" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="bg" name="bg" centerPoint3DX="155" centerPoint3DY="147.5">
+                  <matrix>
+                    <Matrix a="1.10690307617188" d="1.88189697265625" tx="-11.05" ty="26"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

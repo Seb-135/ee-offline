@@ -1,0 +1,124 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Login/Share" itemID="4c8643b2-00003748" linkageExportForAS="true" linkageClassName="asset_share" scaleGridLeft="160" scaleGridRight="480" scaleGridTop="125" scaleGridBottom="375" lastModified="1528054739" lastUniqueIdentifier="14">
+  <timeline>
+    <DOMTimeline name="Share">
+      <layers>
+        <DOMLayer name="Layer 7" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#808080">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="share_bg" centerPoint3DX="321.75" centerPoint3DY="251">
+                  <matrix>
+                    <Matrix a="0.9072265625" tx="76.9" ty="183.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1" y="-1"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#000000" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="headline" width="476.95" height="19" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="84" ty="203.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Share this level with others!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.75" size="15" bitmapSize="300" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="input_bg" name="bg_mail" centerPoint3DX="236.8" centerPoint3DY="285.95">
+                  <matrix>
+                    <Matrix a="1.65275573730469" d="0.936508178710938" tx="91.8" ty="266.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="75.0000034150945" distance="3" inner="true" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="inputvar" width="445.15" height="20.1">
+                  <matrix>
+                    <Matrix tx="98.8" ty="274.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>&lt;world url here&gt;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="20.1" size="18" bitmapSize="360" face="ArialReg*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMStaticText width="476.95" height="13.35" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="83" ty="227.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Share this level with your friends so you can play together!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="13.35" bitmapSize="240" face="ArialReg*" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Shop/nothanks" name="closebtn" symbolType="button">
+                  <matrix>
+                    <Matrix a="1.5" d="1.49626159667969" tx="567.1" ty="185.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 9" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.8"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!12800 0|12800 10000!12800 10000|0 10000!0 10000|0 0!0 0|12800 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

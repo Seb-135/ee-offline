@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shop/newshop/new/energybar/energybarmask" itemID="558b98c8-00000384" lastModified="1528051618">
+  <timeline>
+    <DOMTimeline name="energybarmask">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.01220703125" c="0.086669921875" d="0" tx="71" ty="10"/>
+                        </matrix>
+                        <GradientEntry color="#05395D" ratio="0"/>
+                        <GradientEntry color="#5AAFEF" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 393S2|0 6!0 6[0 0 379 0!379 0|2460 0!2460 0[2840 0 2840 6!2840 6|2840 393!2840 393[2840 400 2460 400!2460 400|379 400!379 400[0 400 0 393"/>
+                    <Edge cubics="!379 0(379,0;379,0 2460,0 2460,0q379 0 2460 0);"/>
+                    <Edge cubics="!0 393(;0,393 0,6 0,6q0 393 0 6);"/>
+                    <Edge cubics="!2460 0(2460,0;2716,0 2840,1 2840,6q2460 0Q2840 0q2840 6)2840,6;"/>
+                    <Edge cubics="!0 6(;0,1 123,0 379,0q0 6Q0 0q379 0);"/>
+                    <Edge cubics="!379 400(;123,400 0,397 0,393q379 400Q0 400q0 393);"/>
+                    <Edge cubics="!2840 393(2840,393;2840,397 2716,400 2460,400q2840 393Q2840 400q2460 400)2460,400;"/>
+                    <Edge cubics="!2460 400(2460,400;2460,400 379,400 379,400q2460 400 379 400);"/>
+                    <Edge cubics="!2840 6(2840,6;2840,6 2840,393 2840,393q2840 6 2840 393)2840,393;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

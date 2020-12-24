@@ -1,0 +1,114 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ActivateEmailWindow" itemID="55947836-00000396" linkageExportForAS="true" linkageClassName="assets_activatemail" lastModified="1528053263" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="ActivateEmailWindow">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Login/LoginBackground" name="bg" centerPoint3DX="-3.3" centerPoint3DY="127.65">
+                  <matrix>
+                    <Matrix a="0.511520385742188" d="2.31632995605469" ty="36.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="606.05" y="-7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="errors" fontRenderingMode="bitmap" width="278.15" height="13.35" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="17" ty="427"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="13.35" bitmapSize="240" face="ArialReg*" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="input_bg" name="bg_name" centerPoint3DX="156" centerPoint3DY="353">
+                  <matrix>
+                    <Matrix a="1.04315185546875" tx="11" ty="334"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="139" y="19"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="75.0000034150945" distance="3" inner="true" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMInputText name="inpkey" fontRenderingMode="bitmap" width="281" height="27" includeOutlines="true">
+                  <matrix>
+                    <Matrix tx="18" ty="342"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Activation key</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="22.35" size="20" bitmapSize="400" face="ArialReg*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMSymbolInstance libraryItemName="OkButton" name="btnOk" centerPoint3DX="155" centerPoint3DY="400">
+                  <matrix>
+                    <Matrix tx="10" ty="380"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="145" y="20"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="279" height="74.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="15" ty="228.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>An activation key has been sent to your email address. &#xD;You can use the key to activate your account.&#xD;&#xD;Didn't receive an email? Check your spam folder or </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.35" bitmapSize="240" face="ArialReg*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMBitmapInstance libraryItemName="mail.png">
+                  <matrix>
+                    <Matrix a="2.74005126953125" b="-2.73995971679688" c="2.73995971679688" d="2.74005126953125" tx="117.2" ty="118.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="postman.png">
+                  <matrix>
+                    <Matrix a="7.75" d="7.75" tx="52" ty="62"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8" y="8"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="ResendActivationEmail" name="resendBtn" centerPoint3DX="96.35" centerPoint3DY="311.95">
+                  <matrix>
+                    <Matrix tx="12.75" ty="303.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="83.6" y="8.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Profile/CloseBtn" name="closeBtn" symbolType="button">
+                  <matrix>
+                    <Matrix a="1.33558654785156" d="1.33558654785156" tx="293.65" ty="10.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="9.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

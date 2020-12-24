@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="profileViewSwitch" itemID="55d87071-00000328" linkageExportForAS="true" linkageClassName="assets_profileviewswitch" lastModified="1443246101">
+  <timeline>
+    <DOMTimeline name="profileViewSwitch">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_text" width="114" height="18.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="22" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Information</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="18.75" size="15" bitmapSize="300" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Login/Profile/Crew/arrow" name="btn_left">
+                  <matrix>
+                    <Matrix ty="4.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Login/Profile/Crew/arrow" name="btn_right" selected="true">
+                  <matrix>
+                    <Matrix a="-1" d="-1" tx="156.5" ty="17.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7" y="13"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

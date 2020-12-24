@@ -1,0 +1,179 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shop/newshop/old/buybutton" itemID="501fb415-000003f6" lastModified="1440602266">
+  <timeline>
+    <DOMTimeline name="buybutton" currentFrame="1">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="tf_cost" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_cost" width="26" height="11.4" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2.5" ty="17"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>100</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" lineHeight="11.4" size="10" bitmapSize="200" face="ArialBold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="269.999993169811" blurX="1" blurY="1" distance="1" strength="0.5"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Get Now" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="48.25" height="11.15" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="8" ty="4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Get Now</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="11.15" size="10" bitmapSize="200" face="ArialReg*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="269.999993169811" blurX="1" blurY="1" distance="1" strength="0.5"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMStaticText width="41.95" height="11.15" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="8" ty="4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Buy Now</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="11.15" size="10" bitmapSize="200" face="ArialReg*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="269.999993169811" blurX="1" blurY="1" distance="1" strength="0.5"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#808080" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="dollars" selected="true" centerPoint3DX="40.85" centerPoint3DY="22.7">
+                  <matrix>
+                    <Matrix tx="32.55" ty="12.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.35" y="10.25"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="10" blurY="10" color="#FFFFFF"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="gem" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shop/Topbar/gem" centerPoint3DX="53.1" centerPoint3DY="36.3">
+                  <matrix>
+                    <Matrix a="1.00021362304688" d="0.998260498046875" tx="31.55" ty="14.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.55" y="21.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="10" blurY="10" color="#FFFFFF"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.02105712890625" c="0.02044677734375" d="0" tx="29.5" ty="17.25"/>
+                        </matrix>
+                        <GradientEntry color="#9C0100" ratio="0.235294117647059"/>
+                        <GradientEntry color="#FE7A78" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1070 0|110 0!110 0[75 0 53 11!53 11[0 35 0 110!0 110|0 580!0 580[0 690 110 690!110 690|1070 690!1070 690[1180 690 1180 580!1180 580|1180 110!1180 110[1180 0 1070 0"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!1160 580[1160 670 1070 670!1070 670|110 670!110 670[20 670 20 580!20 580|20 110!20 110[20 49 61 29!61 29|62 29!62 29[81 20 110 20!110 20|1070 20!1070 20[1160 20 1160 110!1160 110|1160 580"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.02105712890625" c="0.02044677734375" d="0" tx="29.5" ty="17.25"/>
+                        </matrix>
+                        <GradientEntry color="#F05D00" ratio="0.576470588235294"/>
+                        <GradientEntry color="#FFCC00" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!1160 110|1160 580!1160 580[1160 670 1070 670!1070 670|110 670!110 670[20 670 20 580!20 580|20 110!20 110[20 49 61 29!61 29|62 29!62 29[81 20 110 20!110 20|1070 20!1070 20[1160 20 1160 110"/>
+                    <Edge fillStyle0="1" edges="!1070 0|110 0!110 0[75 0 53 11!53 11[0 35 0 110!0 110|0 580!0 580[0 690 110 690!110 690|1070 690!1070 690[1180 690 1180 580!1180 580|1180 110!1180 110[1180 0 1070 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

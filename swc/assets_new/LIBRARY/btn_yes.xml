@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btn_yes" itemID="54ea26a2-0000037e" symbolType="button" lastModified="1424631458">
+  <timeline>
+    <DOMTimeline name="btn_yes">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#7A7A7A"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.020538330078125" c="-0.0113677978515625" d="0" tx="69.5" ty="17.5"/>
+                        </matrix>
+                        <GradientEntry color="#33D52A" ratio="0"/>
+                        <GradientEntry color="#349127" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!2780 604S1|2780 97!2780 97[2780 0 2727 0!2727 0|53 0!53 0[0 0 0 97!0 97|0 604!0 604[0 701 53 701!53 701|2727 701!2727 701[2780 701 2780 604"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!2770 604S3[2770 683 2727 683!2727 683|53 683!53 683[9 683 9 604!9 604|9 97!9 97[9 18 53 18!53 18|2727 18!2727 18[2770 18 2770 97!2770 97|2770 604"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText selected="true" width="123" height="23.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="8" ty="5.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Yes</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="23.75" size="19" bitmapSize="380" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

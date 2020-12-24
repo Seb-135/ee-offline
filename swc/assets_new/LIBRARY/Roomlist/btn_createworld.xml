@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Roomlist/btn_createworld" itemID="55d2322d-00000313" symbolType="button" lastModified="1601591859">
+  <timeline>
+    <DOMTimeline name="btn_createworld">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#7A7A7A"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.020538330078125" c="-0.0163726806640625" d="0" tx="100" ty="17.45"/>
+                        </matrix>
+                        <GradientEntry color="#33D52A" ratio="0"/>
+                        <GradientEntry color="#349127" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!4000 96[4000 0 3924 0!3924 0|76 0!76 0[0 0 0 96!0 96|0 604!0 604[0 700 76 700!76 700|3924 700!3924 700[4000 700 4000 604!4000 604|4000 96"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!3924 683|76 683!76 683[13 683 13 604!13 604|13 96!13 96[13 18 76 18!76 18|3924 18!3924 18[3987 18 3987 96!3987 96|3987 604!3987 604[3987 683 3924 683"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="196" height="17.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Create Level</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineHeight="17.5" size="14" bitmapSize="280" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter angle="120" blurX="1" blurY="1" distance="1"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

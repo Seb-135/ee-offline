@@ -1,0 +1,73 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Level Options/dropdownbtn" itemID="55c2c1af-00000425" lastModified="1491738447">
+  <timeline>
+    <DOMTimeline name="dropdownbtn">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="handCursor" name="overlay" selected="true">
+                  <matrix>
+                    <Matrix a="1.13192749023438" d="0.680557250976563" tx="-2.6" ty="-2.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="143.95" y="14.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_input" width="297" height="15.6">
+                  <matrix>
+                    <Matrix tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Work In Progress</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialReg*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Level Options/dropdownarrow" name="dropdown">
+                  <matrix>
+                    <Matrix tx="302.3" ty="0.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.5" y="3.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Level Options/dropdownarrow" name="btn_dropdown">
+                  <matrix>
+                    <Matrix a="-1" d="-1" tx="325.7" ty="19.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="6.5" y="3.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

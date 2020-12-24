@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="shopbar_energy" itemID="50348997-000003bc" linkageExportForAS="true" linkageClassName="assets_shopbarenergy" lastModified="1528051400" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="shopbar_energy">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="energy" width="68.7" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="16.7" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Energy: x/x </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-1" lineHeight="12.5" size="10" bitmapSize="200" face="system*" fillColor="#FFFFFF" target="_blank"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Topbar/lightning" name="bolt" centerPoint3DX="4.85" centerPoint3DY="13.8">
+                  <matrix>
+                    <Matrix a="0.186386108398438" d="0.187255859375" ty="3.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26" y="53.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="timetonext" width="51" height="10.05" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="16.7" ty="15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>More in 2:30</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="-1" lineHeight="10.05" size="9" bitmapSize="180" face="ArialReg*" fillColor="#999999" target="_blank"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

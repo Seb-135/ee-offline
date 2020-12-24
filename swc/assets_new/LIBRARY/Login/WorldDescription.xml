@@ -1,0 +1,103 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Login/WorldDescription" itemID="551eb802-00000443" linkageExportForAS="true" linkageClassName="asset_changedescription" lastModified="1446041278" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="WorldDescription">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.8"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!24809 12228|-11829 12228!-11829 12228|-11829 -3170!-11829 -3170|24809 -3170!24809 -3170|24809 12228"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="prompt_bg" centerPoint3DX="431.2" centerPoint3DY="241.9">
+                  <matrix>
+                    <Matrix a="0.911270141601563" d="1.33164978027344" tx="186" ty="158.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#000000" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="title" width="455" height="19" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="201.4" ty="174.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Change world description</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="18.75" size="15" bitmapSize="300" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="input_bg" name="bg_mail" selected="true" centerPoint3DX="346.25" centerPoint3DY="224.35">
+                  <matrix>
+                    <Matrix a="1.65275573730469" d="2.007080078125" tx="201.25" ty="204.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="75.0000034150945" distance="3" inner="true" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMInputText name="input" selected="true" width="445.15" height="64.45" maxCharacters="100" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="207.25" ty="210.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>As requested by the amazing Creature.&#xD;hh,mrtoormhrh&#xD;rthmiophmpohmrhm</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15.6" size="14" bitmapSize="280" face="ArialReg*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMSymbolInstance libraryItemName="Shop/nothanks" name="closebtn" symbolType="button">
+                  <matrix>
+                    <Matrix a="1.5" d="1.49626159667969" tx="675.55" ty="157.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="SaveButton" name="savebtn" centerPoint3DX="433.4" centerPoint3DY="341.9">
+                  <matrix>
+                    <Matrix tx="319.9" ty="321.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.5" y="20"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMInputText name="chars" selected="true" width="115" height="13.35" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="200.25" ty="285.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>0 of 100 characters</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.35" bitmapSize="240" face="ArialReg*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

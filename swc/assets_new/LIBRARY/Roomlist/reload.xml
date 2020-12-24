@@ -1,0 +1,119 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Roomlist/reload" itemID="50b37d70-0000038f" linkageExportForAS="true" linkageClassName="assets_reload" lastModified="1545590124" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="reload">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.024444580078125" c="-0.001800537109375" d="0" tx="4.4" ty="8.5"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.2" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.0106048583984375" c="-0.001800537109375" d="0" tx="4.4" ty="6.1"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.2" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!20 86S2|20 55!20 55[20 20 27 20!27 20/313 20!313 20[320 20 320 55!320 55/320 57!320 57/320 86"/>
+                    <Edge fillStyle1="2" edges="!320 86S2/320 122!320 122[309 101 294 102!294 102[286 104 265 118!265 118[256 123 164 128!164 128[92 131 65 131!65 131[43 132 20 108!20 108|20 86"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!320 86S3/20 86"/>
+                    <Edge cubics="!320 122(;320,122 320,86 320,86p320 122q320 86);"/>
+                    <Edge cubics="!320 55(;320,32 318,20 313,20q320 55Q320 20q313 20);"/>
+                    <Edge cubics="!320 57(;320,57 320,55 320,55q320 57 320 55);"/>
+                    <Edge cubics="!320 86(;320,86 320,57 320,57q320 86 320 57);"/>
+                    <Edge cubics="!265 118(;280,108 290,103 294,102q265 118Q286 104q294 102);"/>
+                    <Edge cubics="!65 131(;75,131 251,126 265,118q65 131Q92 131q164 128Q256 123q265 118);"/>
+                    <Edge cubics="!20 108(;35,124 50,132 65,131q20 108Q43 132q65 131);"/>
+                    <Edge cubics="!20 86(;20,86 20,108 20,108q20 86 20 108);"/>
+                    <Edge cubics="!20 55(;20,55 20,86 20,86q20 55 20 86);"/>
+                    <Edge cubics="!27 20(;22,20 20,32 20,55q27 20Q20 20q20 55);"/>
+                    <Edge cubics="!294 102(;304,101 313,108 320,122q294 102Q309 101q320 122);"/>
+                    <Edge cubics="!20 86(;20,86 320,86 320,86q20 86 320 86);"/>
+                    <Edge cubics="!313 20(;313,20 27,20 27,20q313 20 27 20);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="reloadanim" name="rotator" selected="true" centerPoint3DX="9.3" centerPoint3DY="8">
+                  <matrix>
+                    <Matrix tx="4.4" ty="4.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.55" y="3.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.024444580078125" c="-0.001800537109375" d="0" tx="4.4" ty="8.5"/>
+                        </matrix>
+                        <GradientEntry color="#666666" ratio="0"/>
+                        <GradientEntry ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <LinearGradient>
+                            <matrix>
+                              <Matrix a="0" b="0.0111541748046875" c="-0.001800537109375" d="0" tx="4.4" ty="8.5"/>
+                            </matrix>
+                            <GradientEntry color="#666666" ratio="0"/>
+                            <GradientEntry ratio="1"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!320 55S5[320 20 313 20!313 20/27 20!27 20[20 20 20 55!20 55|20 286!20 286[20 320 27 320!27 320/313 320!313 320[320 320 320 286!320 286/320 55"/>
+                    <Edge cubics="!320 55(;320,32 318,20 313,20q320 55Q320 20q313 20);"/>
+                    <Edge cubics="!320 286(;320,286 320,55 320,55q320 286 320 55);"/>
+                    <Edge cubics="!313 320(;318,320 320,309 320,286q313 320Q320 320q320 286);"/>
+                    <Edge cubics="!20 286(;20,309 22,320 27,320q20 286Q20 320q27 320);"/>
+                    <Edge cubics="!20 55(;20,55 20,286 20,286q20 55 20 286);"/>
+                    <Edge cubics="!27 20(;22,20 20,32 20,55q27 20Q20 20q20 55);"/>
+                    <Edge cubics="!27 320(;27,320 313,320 313,320q27 320 313 320);"/>
+                    <Edge cubics="!313 20(;313,20 27,20 27,20q313 20 27 20);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

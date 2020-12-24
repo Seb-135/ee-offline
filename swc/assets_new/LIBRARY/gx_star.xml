@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="gx_star" itemID="4fcdc264-0000030c" lastModified="1339076547">
+  <timeline>
+    <DOMTimeline name="gx_star">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFF00" alpha="0.498039215686275"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!129 58S2|179 27!179 27|150 78!150 78|209 79!209 79|156 106!156 106|206 139!206 139|147 133!147 133|171 187!171 187|124 151!124 151|115 209!115 209|96 153!96 153|57 198!57 198|70 140!70 140|14 156!14 156|56 115!56 115|0 98!0 98|58 87
+!58 87|19 42!19 42|74 63!74 63|66 5!66 5|101 53!101 53|126 0!126 0|129 58"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

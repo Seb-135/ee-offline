@@ -1,0 +1,63 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="GoldMemberBox" itemID="5644b5cf-00000296" linkageExportForAS="true" linkageClassName="assets_goldmemberbox" lastModified="1447343905" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="GoldMemberBox">
+      <layers>
+        <DOMLayer name="divider" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tf_expires" fontRenderingMode="bitmap" left="23.1" width="317.6" height="13.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-49.9" ty="18.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Expires: 20th of August 1013</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" lineHeight="13.75" size="11" bitmapSize="220" face="system*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="tf_since" fontRenderingMode="bitmap" left="23.1" width="317.6" height="23.1" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-49.9" ty="2.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Since: 20th of August 1012</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" lineHeight="13.75" size="11" bitmapSize="220" face="system*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="spacing fill" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

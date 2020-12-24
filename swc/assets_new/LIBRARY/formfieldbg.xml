@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="formfieldbg" itemID="4c6d4a72-000002b9" scaleGridLeft="18" scaleGridRight="112" scaleGridTop="4.75" scaleGridBottom="15.25" lastModified="1282231342" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="formfieldbg">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" pixelHinting="true">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!2630 340|2630 60!2630 60[2630 0 2570 0!2570 0|60 0!60 0[0 0 0 60!0 60|0 340!0 340[0 400 60 400!60 400|2570 400!2570 400[2630 400 2630 340"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="formbg" selected="true" centerPoint3DX="65.75" centerPoint3DY="10">
+                  <transformationPoint>
+                    <Point x="65.75" y="10"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="10" blurY="10" color="#000000" inner="true" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

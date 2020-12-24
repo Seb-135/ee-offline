@@ -1,0 +1,100 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Lobby/newalert" itemID="55d08d36-0000025c" linkageExportForAS="true" linkageClassName="assets_newalert" lastModified="1522528357">
+  <timeline>
+    <DOMTimeline name="newalert">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText width="75" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="4" ty="30.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Message:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="15" bitmapSize="240" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="input_bg" name="bg_mail" centerPoint3DX="114" centerPoint3DY="68.95">
+                  <matrix>
+                    <Matrix a="1.28781127929688" d="2.10585021972656" ty="47.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="75.0000034150945" distance="1" inner="true" strength="0.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMInputText name="tf_message" fontRenderingMode="bitmap" left="9.95" width="349.95" height="72.4" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-5.95" ty="51.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>message</characters>
+                      <textAttrs>
+                        <DOMTextAttrs lineHeight="13.35" bitmapSize="240" face="ArialReg*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+                <DOMStaticText fontRenderingMode="bitmap" width="354" height="20" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="4.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>New Alert</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" lineHeight="20" size="16" bitmapSize="320" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMDynamicText name="tf_error" fontRenderingMode="bitmap" width="303.95" height="27.5" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="24" ty="203.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Error&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" lineHeight="13.35" bitmapSize="240" face="ArialReg*" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Lobby/btn_sendmessage" name="btn_send" symbolType="button">
+                  <matrix>
+                    <Matrix tx="65" ty="161"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText width="186" height="15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="1" ty="131.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Max. 140 characters</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="12.5" size="10" bitmapSize="200" face="system*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

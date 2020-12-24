@@ -1,0 +1,77 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Settings/Key Bindings/Key Bindings Reset All" itemID="5bd9bf05-000003c5" symbolType="button" lastModified="1542299715">
+  <timeline>
+    <DOMTimeline name="Key Bindings Reset All">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="1.5">
+                        <fill>
+                          <SolidColor color="#444444"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!18 380S4|1538 380"/>
+                    <Edge cubics="!18 380(;18,380 1538,380 1538,380q18 380 1538 380);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText selected="true" left="-245" width="59" height="13.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="263" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Reset All</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="13.75" size="11" bitmapSize="220" face="system*" fillColor="#999999"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#999999"/>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" weight="1.5">
+                            <fill>
+                              <SolidColor color="#999999"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!155 265S4[188 261 212 237!212 237[240 209 240 171!240 171[240 133 212 105!212 105[184 78 147 78!147 78[118 78 96 94"/>
+                        <Edge fillStyle0="1" edges="!143 156S1|96 94!96 94|55 40!55 40|0 176!0 176|143 156"/>
+                        <Edge cubics="!212 105(;194,87 172,78 147,78q212 105Q184 78q147 78)147,78;"/>
+                        <Edge cubics="!240 171(240,171;240,146 231,123 212,105q240 171Q240 133q212 105);"/>
+                        <Edge cubics="!212 237(;231,219 240,197 240,171q212 237Q240 209q240 171);"/>
+                        <Edge cubics="!155 265(;177,262 197,253 212,237q155 265Q188 261q212 237);"/>
+                        <Edge cubics="!55 40(;55,40 0,176 0,176q55 40 0 176);"/>
+                        <Edge cubics="!0 176(;0,176 143,156 143,156q0 176 143 156);"/>
+                        <Edge cubics="!96 94(;96,94 55,40 55,40q96 94 55 40);"/>
+                        <Edge cubics="!143 156(143,156;143,156 96,94 96,94q143 156 96 94)96,94;"/>
+                        <Edge cubics="!147 78(;127,78 111,83 96,94q147 78Q118 78q96 94)96,94;"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

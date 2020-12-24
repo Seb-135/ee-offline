@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="gx_btn_overlay" itemID="4fcca24c-0000032a" scaleGridLeft="11.1" scaleGridRight="33.3" scaleGridTop="1.75" scaleGridBottom="4.9" lastModified="1528053764">
+  <timeline>
+    <DOMTimeline name="gx_btn_overlay">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.031280517578125" c="-0.01171875" d="0" tx="22.15" ty="9.6"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.2" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!888 84/888 131!888 131[818 104 722 105!722 105[675 106 531 125!531 125[391 142 294 142!294 142[147 143 0 112!0 112|0 45!0 45[0 0 43 0!43 0|844 0!844 0[888 0 888 45!888 45/888 47!888 47/888 84"/>
+                    <Edge cubics="!888 84(;888,84 888,131 888,131q888 84 888 131);"/>
+                    <Edge cubics="!844 0(;873,0 888,15 888,45q844 0Q888 0q888 45);"/>
+                    <Edge cubics="!888 45(;888,45 888,47 888,47q888 45 888 47);"/>
+                    <Edge cubics="!888 47(;888,47 888,84 888,84q888 47 888 84);"/>
+                    <Edge cubics="!722 105(;691,106 627,112 531,125q722 105Q675 106q531 125);"/>
+                    <Edge cubics="!531 125(;438,136 359,142 294,142q531 125Q391 142q294 142);"/>
+                    <Edge cubics="!294 142(;196,143 98,133 0,112q294 142Q147 143q0 112);"/>
+                    <Edge cubics="!0 112(;0,112 0,84 0,84q0 112 0 84);"/>
+                    <Edge cubics="!0 84(;0,84 0,45 0,45q0 84 0 45);"/>
+                    <Edge cubics="!0 45(;0,15 14,0 43,0q0 45Q0 0q43 0);"/>
+                    <Edge cubics="!888 131(;841,113 786,104 722,105q888 131Q818 104q722 105);"/>
+                    <Edge cubics="!43 0(;43,0 844,0 844,0q43 0 844 0);"/>
+                    <Edge cubics="!888 84(;888,84 0,84 0,84q888 84 0 84);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
