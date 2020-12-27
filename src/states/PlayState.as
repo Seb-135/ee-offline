@@ -4,7 +4,6 @@
 	import animations.AnimationManager;
 	import flash.display.StageDisplayState;
 	import flash.utils.getTimer;
-	import io.player.tools.Badwords;
 	import ui.BrickContainer;
 	import ui.DebugStats;
 	import utilities.MathUtil;
@@ -1489,10 +1488,6 @@
 				}
 				default:{
 					if (ItemId.isNPC(id)) {
-						if (Badwords.isBadword(Bl.data.npc_name)) {
-							Global.base.showInfo2("Don't name the NPC like that!", "They wouldn't like it! :(");
-							break;
-						}
 						setTile(0, x, y, id, {name:Bl.data.npc_name, messages:new Array(Bl.data.npc_mes1, Bl.data.npc_mes2, Bl.data.npc_mes3)});
 						break;
 					}

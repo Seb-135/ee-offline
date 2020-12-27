@@ -11,8 +11,6 @@
 	import flash.text.TextFormat;
 	import ui.social.SocialFriend;
 	
-	import io.player.tools.Badwords;
-	
 	import items.ItemManager;
 	
 	import mx.utils.StringUtil;

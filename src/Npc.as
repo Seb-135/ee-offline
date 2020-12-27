@@ -3,7 +3,6 @@ package
 	import blitter.Bl;
 	import flash.display.BitmapData;
 	import flash.geom.Point;
-	import io.player.tools.Badwords;
 	import items.ItemId;
 	import items.ItemManager;
 	import items.ItemNpc;
@@ -120,8 +119,6 @@ package
 			text = text.replace(/%Username%/g, player.name.substring(0, 1).toUpperCase() + player.name.substr(1));
 			text = text.replace(/%USERNAME%/g, player.name.toUpperCase());
 			//text = text.replace(/\\n/g, "\n"); //crashes the game and doesn't really make sense.
-			
-			text = Badwords.Filter(text);
 			
 			return text;
 		}

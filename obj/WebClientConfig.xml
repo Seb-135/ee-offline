@@ -16,7 +16,7 @@
     </define>
     <define append="true">
       <name>CONFIG::timeStamp</name>
-      <value>'2020-12-23'</value>
+      <value>'2020-12-27'</value>
     </define>
     <define append="true">
       <name>CONFIG::air</name>
@@ -33,18 +33,18 @@
     <accessible>true</accessible>
     <verbose-stacktraces>true</verbose-stacktraces>
     <source-path append="true">
-      <path-element>D:\flash\how much can i get rid of\src</path-element>
+      <path-element>D:\flash\EEO 2 electric boogaloo\ee-offline\src</path-element>
       <path-element>D:\Programs\FlashDevelop\Library\AS3\classes</path-element>
     </source-path>
     <library-path append="true">
-      <path-element>D:\flash\how much can i get rid of\swc\newui.swc</path-element>
-      <path-element>D:\flash\how much can i get rid of\swc\assets.swc</path-element>
-      <path-element>D:\flash\how much can i get rid of\swc\preloader.swc</path-element>
-      <path-element>D:\flash\how much can i get rid of\swc\greensock.swc</path-element>
+      <path-element>D:\flash\EEO 2 electric boogaloo\ee-offline\swc\newui.swc</path-element>
+      <path-element>D:\flash\EEO 2 electric boogaloo\ee-offline\swc\assets.swc</path-element>
+      <path-element>D:\flash\EEO 2 electric boogaloo\ee-offline\swc\preloader.swc</path-element>
+      <path-element>D:\flash\EEO 2 electric boogaloo\ee-offline\swc\greensock.swc</path-element>
     </library-path>
   </compiler>
   <file-specs>
-    <path-element>D:\flash\how much can i get rid of\src\WebClient.as</path-element>
+    <path-element>D:\flash\EEO 2 electric boogaloo\ee-offline\src\WebClient.as</path-element>
   </file-specs>
   <default-background-color>#000000</default-background-color>
   <default-frame-rate>60</default-frame-rate>

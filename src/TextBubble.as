@@ -12,8 +12,6 @@ package
 	import flash.text.TextFormat;
 	import flash.text.TextFormatAlign;
 	
-	import io.player.tools.Badwords;
-	
 	import states.PlayState;
 	
 	/*
@@ -134,8 +132,6 @@ package
 			text = text.replace(/%Username%/g, pl.name.substring(0, 1).toUpperCase() + pl.name.substr(1));
 			text = text.replace(/%USERNAME%/g, pl.name.toUpperCase());
 			if (newline) text = text.replace(/\\n/g, "\n");
-			
-			text = Badwords.Filter(text);
 			
 			return text;
 		}

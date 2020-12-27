@@ -10,8 +10,6 @@ package
 	import flash.geom.Point;
 	import flash.geom.Rectangle;
 	
-	import io.player.tools.Badwords;
-	
 	import mx.utils.StringUtil;
 	
 	public class Chat extends BlContainer
@@ -57,8 +55,6 @@ package
 				//text = StringUtil.trim(text);
 				//text += "...";
 			//}
-			
-			text = Badwords.Filter(text);
 	
 			var cb:ChatBubble = new ChatBubble(name.text, text);
 			

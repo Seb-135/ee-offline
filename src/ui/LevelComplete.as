@@ -13,8 +13,6 @@ package ui
 	import flash.events.MouseEvent;
 	import flash.utils.setTimeout;
 	
-	import io.player.tools.Badwords;
-	
 	import items.ItemManager;
 	
 	import ui.profile.FriendSmiley;
@@ -43,7 +41,7 @@ package ui
 				
 			name = "LevelCompleteScreen";
 			
-			tf_completed.text = 'You completed "' + Badwords.Filter(Global.currentLevelname.length > 0? Global.currentLevelname: 'Untitled World') + '"';
+			tf_completed.text = 'You completed "' + (Global.currentLevelname.length > 0? Global.currentLevelname: 'Untitled World') + '"';
 			
 			btn_close.mouseEnabled = true;
 			btn_close.addEventListener(MouseEvent.CLICK, close);

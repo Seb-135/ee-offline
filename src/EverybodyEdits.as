@@ -55,8 +55,6 @@
 	
 	import input.KeyState;
 	
-	import io.player.tools.Badwords;
-	
 	import items.ItemBrick;
 	import items.ItemManager;
 	import items.ItemSmiley;
@@ -778,9 +776,9 @@
 				e.stopPropagation()
 			});
 			inf.ttitle.autoSize = TextFieldAutoSize.LEFT;
-			inf.ttitle.text = Badwords.Filter(title);
+			inf.ttitle.text = title;
 			inf.tbody.autoSize = TextFieldAutoSize.LEFT;
-			inf.tbody.text = Badwords.Filter(body);
+			inf.tbody.text = body;
 			
 			if (prefferedWidth != -1)
 				inf.tbody.width = prefferedWidth;
@@ -838,14 +836,14 @@
 				e.stopPropagation()
 			});
 			inf.ttitle.autoSize = TextFieldAutoSize.LEFT;
-			inf.ttitle.text = Badwords.Filter(title);
+			inf.ttitle.text = title;
 			
 			inf.col1.autoSize = TextFieldAutoSize.LEFT;
-			inf.col1.text = Badwords.Filter(text1);
+			inf.col1.text = text1;
 			inf.col2.autoSize = TextFieldAutoSize.LEFT;
-			inf.col2.text = Badwords.Filter(text2);
+			inf.col2.text = text2;
 			inf.col3.autoSize = TextFieldAutoSize.LEFT;
-			inf.col3.text = Badwords.Filter(text3);
+			inf.col3.text = text3;
 			
 			if (prefferedWidth != -1) {
 				inf.col1.width = prefferedWidth / 3;
