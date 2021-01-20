@@ -74,16 +74,25 @@ package {
 					if (!Global.base.settings.particles) break;
 					for (var k:int = 0; k < 4; k++)
 						spawnCoinPatricle(cx, cy, current == ItemId.COIN_BLUE);
-					} else {
-						if ((current == ItemId.COIN_GOLD || current == 110) && (gx.indexOf(cx) == -1 || gy.indexOf(cy) == -1)) {
-							coins++;
-							gx.push(cx)
-							gy.push(cy);
+					} else if (!isme){
+						var found:Boolean = false;
+						for (var i:int = 0; i < gx.length; i++) {
+							if (gx[i] == cx && gy[i] == cy) {
+								found = true;
+								break;
+							}
 						}
-						else if ((current == ItemId.COIN_BLUE || current == 111) && (bx.indexOf(cx) == -1 || by.indexOf(cy) == -1)) {
-							bcoins++;
-							bx.push(cx);
-							by.push(cy);
+						if (!found) {
+							if (current == ItemId.COIN_GOLD || current == 110) {
+								coins++;
+								gx.push(cx)
+								gy.push(cy);
+							}
+							else if (current == ItemId.COIN_BLUE || current == 111) {
+								bcoins++;
+								bx.push(cx);
+								by.push(cy);
+							}
 						}
 					}
 					break;
